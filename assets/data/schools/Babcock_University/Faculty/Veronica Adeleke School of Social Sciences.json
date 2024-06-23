@@ -1,0 +1,2249 @@
+
+{
+    "name": "Veronica Adeleke School of Social Sciences",
+    "courses": [
+      "Economics",
+      "Mass Communication",
+      "Political Science",
+      "International Law and Diplomacy",
+      "Public Administration",
+      "Social Work"
+   
+
+    ],
+    "Economics":{
+        "year":4,
+        "name": "Economics",
+        
+          "100": {
+            "1": [
+              {
+                "name": "Philosophy of Christian Education",
+                "course code": "GEDS 101",
+                "units": 2
+              },
+              {
+                "name": "Use of Library and Study Skills",
+                "course code": "GEDS 105",
+                "units": 2
+              },
+              {
+                "name": "Introduction to General Psychology",
+                "course code": "GEDS 107",
+                "units": 2
+              },
+              {
+                "name": "Communication in English I",
+                "course code": "GEDS 131",
+                "units": 2
+              },
+              {
+                "name": "Nigerian People in a Global Culture",
+                "course code": "GEDS 134",
+                "units": 2
+              },
+              {
+                "name": "ICT Fundamentals and Office Productivity Management",
+                "course code": "GEDS 120",
+                "units": 2
+              },
+              {
+                "name": "Basic Accounting",
+                "course code": "ACCT 108",
+                "units": 3
+              },
+              {
+                "name": "Principles of Economics I",
+                "course code": "ECON 101",
+                "units": 3
+              },
+              {
+                "name": "Principles of Management I",
+                "course code": "BSAD 101",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Mathematics for Economics I",
+                "course code": "ECON 131",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Statistics I",
+                "course code": "ECON 141",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Health Principles",
+                "course code": "GEDS 112",
+                "units": 2
+              },
+              {
+                "name": "Communication in English II",
+                "course code": "GEDS 132",
+                "units": 2
+              },
+              {
+                "name": "Life and Teachings of Jesus the Messiah",
+                "course code": "GEDS 126",
+                "units": 3
+              },
+              {
+                "name": "Principles of Economics II",
+                "course code": "ECON 102",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Statistics II",
+                "course code": "ECON 142",
+                "units": 3
+              }
+            ]
+          },
+          
+          "200": {
+              "1": [
+                {
+                  "name": "Fundamentals of Christian Faith",
+                  "course code": "GEDS 215",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Agriculture",
+                  "course code": "GEDS 221",
+                  "units": 2
+                },
+                {
+                  "name": "Spreadsheet and Digital Presentations",
+                  "course code": "GEDS 290",
+                  "units": 2
+                },
+                {
+                  "name": "Environmental and Sustainable Development",
+                  "course code": "GEDS 260",
+                  "units": 2
+                },
+                {
+                  "name": "Financial Accounting I",
+                  "course code": "ACCT 201",
+                  "units": 3
+                },
+                {
+                  "name": "Structure of Nigerian Economy",
+                  "course code": "ECON 225",
+                  "units": 3
+                },
+                {
+                  "name": "Labour Economics",
+                  "course code": "ECON 251",
+                  "units": 3
+                },
+                {
+                  "name": "Principles of Micro-Economics",
+                  "course code": "ECON 253",
+                  "units": 3
+                },
+                {
+                  "name": "Mathematics for Economists",
+                  "course code": "ECON 261",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Communication in French",
+                  "course code": "GEDS 200",
+                  "units": 2
+                },
+                {
+                  "name": "Logic and Critical Thinking",
+                  "course code": "GEDS 204",
+                  "units": 2
+                },
+                {
+                  "name": "Leadership Skills",
+                  "course code": "GEDS 280",
+                  "units": 2
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Financial Accounting II",
+                  "course code": "ACCT 202",
+                  "units": 3
+                },
+                {
+                  "name": "Monetary Economics",
+                  "course code": "ECON 242",
+                  "units": 3
+                },
+                {
+                  "name": "Principles of Macro-Economics",
+                  "course code": "ECON 254",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Financial Economics",
+                  "course code": "ECON 272",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamentals of Political Economy",
+                  "course code": "ECON 274",
+                  "units": 3
+                }
+              ]
+          },
+          
+            "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Intermediate Micro-Economics",
+                  "course code": "ECON 313",
+                  "units": 3
+                },
+                {
+                  "name": "Public Finance",
+                  "course code": "ECON 336",
+                  "units": 3
+                },
+                {
+                  "name": "Operations Research",
+                  "course code": "ECON 341",
+                  "units": 3
+                },
+                {
+                  "name": "History of Economic Thought I",
+                  "course code": "ECON 323",
+                  "units": 3
+                },
+                {
+                  "name": "Applied Statistics I",
+                  "course code": "ECON 351",
+                  "units": 3
+                },
+                {
+                  "name": "Research Methodology",
+                  "course code": "ECON 361",
+                  "units": 3
+                },
+                {
+                  "name": "Managerial Economics",
+                  "course code": "ECON 381",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Intermediate Macro-Economics",
+                  "course code": "ECON 314",
+                  "units": 3
+                },
+                {
+                  "name": "Economic Development",
+                  "course code": "ECON 338",
+                  "units": 3
+                },
+                {
+                  "name": "Introductory Econometrics",
+                  "course code": "ECON 342",
+                  "units": 3
+                },
+                {
+                  "name": "History of Economic Thought II",
+                  "course code": "ECON 324",
+                  "units": 3
+                },
+                {
+                  "name": "Applied Statistics II",
+                  "course code": "ECON 352",
+                  "units": 3
+                },
+                {
+                  "name": "International Trade Theory",
+                  "course code": "ECON 362",
+                  "units": 3
+                }
+              ]
+            },
+            
+             "400": {
+                "1": [
+                  {
+                    "name": "Introduction to Entrepreneurship Skills",
+                    "course code": "GEDS 400",
+                    "units": 2
+                  },
+                  {
+                    "name": "E-Project Management and Simulation",
+                    "course code": "GEDS 440",
+                    "units": 2
+                  },
+                  {
+                    "name": "Advanced Micro-Economics",
+                    "course code": "ECON 401",
+                    "units": 3
+                  },
+                  {
+                    "name": "Economic Planning I",
+                    "course code": "ECON 413",
+                    "units": 3
+                  },
+                  {
+                    "name": "Project Evaluation",
+                    "course code": "ECON 421",
+                    "units": 3
+                  },
+                  {
+                    "name": "Econometrics - Theory and Practice",
+                    "course code": "ECON 423",
+                    "units": 3
+                  },
+                  {
+                    "name": "Comparative Economic Systemss",
+                    "course code": "ECON 433",
+                    "units": 3
+                  },
+                  {
+                    "name": "Financial Economics",
+                    "course code": "ECON 473",
+                    "units": 3
+                  }
+                ],
+                "2": [
+                  {
+                    "name": "Biblical Principles in Personal and Professional Life",
+                    "course code": "GEDS 420",
+                    "units": 3
+                  },
+                  {
+                    "name": "Advanced Macro-Economics",
+                    "course code": "ECON 402",
+                    "units": 3
+                  },
+                  {
+                    "name": "Economic Planning II",
+                    "course code": "ECON 414",
+                    "units": 3
+                  },
+                  {
+                    "name": "Problems and Policies of Development",
+                    "course code": "ECON 442",
+                    "units": 3
+                  },
+                  {
+                    "name": "Taxation and Fiscal Policies",
+                    "course code": "ECON 453",
+                    "units": 3
+                  },
+                  {
+                    "name": "Research Project",
+                    "course code": "ECON 490",
+                    "units": 6
+                  },
+                  {
+                    "name": "Labour Economics and Industrial Relations",
+                    "course code": "ECON 462",
+                    "units": 3
+                  },
+                  {
+                    "name": "Petroleum Economics",
+                    "course code": "ECON 460",
+                    "units": 3
+                  }
+                ]
+              }
+                        
+                    
+                    
+                
+
+    },
+    "Mass Communication":{
+      "year":4,
+      "name": "Mass Communication",
+      
+        "100": {
+          "1": [
+            {
+              "name": "Philosophy of Christ Education",
+              "course code": "GEDS 101",
+              "units": 2
+            },
+            {
+              "name": "Use of Library and Study Skills",
+              "course code": "GEDS 105",
+              "units": 2
+            },
+            {
+              "name": "Introduction to General Psychology",
+              "course code": "GEDS 107",
+              "units": 2
+            },
+            {
+              "name": "ICT Fundamentals and Office Productivity Management",
+              "course code": "GEDS 120",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Mass Communication",
+              "course code": "MCOM 101",
+              "units": 3
+            },
+            {
+              "name": "History of Nigerian Mass Media",
+              "course code": "MCOM 113",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Broadcasting",
+              "course code": "MCOM 116",
+              "units": 3
+            },
+            {
+              "name": "African Communication Systems",
+              "course code": "MCOM 117",
+              "units": 3
+            },
+            {
+              "name": "Basics of Journalistic Writing",
+              "course code": "MCOM 119",
+              "units": 3
+            },
+            {
+              "name": "Business Mathematics I",
+              "course code": "BSAD 111",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Information Science",
+              "course code": "IRMA 102",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Health Principles",
+              "course code": "GEDS 112",
+              "units": 2
+            },
+            {
+              "name": "Nigerian People in a Global Culture",
+              "course code": "GEDS 134",
+              "units": 2
+            },
+            {
+              "name": "Life and Teachings of Jesus the Messiah",
+              "course code": "GEDS 126",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Photojournalism",
+              "course code": "MCOM 118",
+              "units": 3
+            },
+            {
+              "name": "Fundamentals of Marketing",
+              "course code": "MCOM 120",
+              "units": 3
+            },
+            {
+              "name": "Business Mathematics II",
+              "course code": "BSAD 112",
+              "units": 2
+            }
+          ]
+        },
+        
+          "200": {
+            "1": [
+              {
+                "name": "Fundamentals of Christian Faiths",
+                "course code": "GEDS 215",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Agriculture Science",
+                "course code": "GEDS 221",
+                "units": 2
+              },
+              {
+                "name": "Spreadsheet and Digital Presentations",
+                "course code": "GEDS 290",
+                "units": 2
+              },
+              {
+                "name": "Editorial and Feature Writing",
+                "course code": "MCOM 211",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Advertising and Public Relations",
+                "course code": "MCOM 213",
+                "units": 3
+              },
+              {
+                "name": "Editing and Graphics of Communication",
+                "course code": "MCOM 215",
+                "units": 3
+              },
+              {
+                "name": "News Writing and Reporting",
+                "course code": "MCOM 217",
+                "units": 3
+              },
+              {
+                "name": "Statistics for Social Science",
+                "course code": "MCOM 219",
+                "units": 3
+              },
+              {
+                "name": "History and Structure of Nigerian Economy",
+                "course code": "ECON 225",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Communication in French",
+                "course code": "GEDS 200",
+                "units": 2
+              },
+              {
+                "name": "Logic and Critical Thinking",
+                "course code": "GEDS 204",
+                "units": 2
+              },
+              {
+                "name": "Environment and Sustainable Development",
+                "course code": "GEDS 260",
+                "units": 2
+              },
+              {
+                "name": "Peace and Conflict Resolution",
+                "course code": "GEDS 270",
+                "units": 2
+              },
+              {
+                "name": "Leadership Skills",
+                "course code": "GEDS 280",
+                "units": 2
+              },
+              {
+                "name": "Public Communication and Speech Writing",
+                "course code": "MCOM 212",
+                "units": 3
+              },
+              {
+                "name": "Book Publishing",
+                "course code": "MCOM 216",
+                "units": 3
+              },
+              {
+                "name": "Basic Phonetics",
+                "course code": "MCOM 218",
+                "units": 3
+              },
+              {
+                "name": "Landmark Issues in Nigeria Mass Media",
+                "course code": "MCOM 222",
+                "units": 3
+              },
+              {
+                "name": "Nigerian Government and Politics",
+                "course code": "PLSC 200",
+                "units": 3
+              }
+            ]
+          },
+          
+           "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Theories of Mass Communication",
+                  "course code": "MCOM 301",
+                  "units": 3
+                },
+                {
+                  "name": "Media Law and Ethics",
+                  "course code": "MCOM 305",
+                  "units": 3
+                },
+                {
+                  "name": "Newspaper Management and Production",
+                  "course code": "MCOM 307",
+                  "units": 3
+                },
+                {
+                  "name": "Consumer Behavior",
+                  "course code": "MCOM 341",
+                  "units": 3
+                },
+                {
+                  "name": "Brand Management",
+                  "course code": "MCOM 343",
+                  "units": 3
+                },
+                {
+                  "name": "Research in Mass Communication",
+                  "course code": "MCOM 366",
+                  "units": 3
+                },
+                {
+                  "name": "PR Techniques and Implementation",
+                  "course code": "MCOM 368",
+                  "units": 3
+                },
+                {
+                  "name": "Radio/TV Studio Management and Production",
+                  "course code": "MCOM 331",
+                  "units": 3
+                },
+                {
+                  "name": "Radio/TV News Writing and Production",
+                  "course code": "MCOM 333",
+                  "units": 3
+                },
+                {
+                  "name": "Drama and Documentary Production",
+                  "course code": "MCOM 336",
+                  "units": 3
+                },
+                {
+                  "name": "Film, Theory and Aesthetics",
+                  "course code": "MCOM 338",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Internship (Summer program)",
+                  "course code": "MCOM 314",
+                  "units": 2
+                },
+                {
+                  "name": "Media Planning and Management",
+                  "course code": "MCOM 342",
+                  "units": 3
+                },
+                {
+                  "name": "Advert Creative Writing and Technique",
+                  "course code": "MCOM 344",
+                  "units": 3
+                },
+                {
+                  "name": "Specialized Reporting",
+                  "course code": "MCOM 346",
+                  "units": 3
+                },
+                {
+                  "name": "Issues in Nigerian Mass Media",
+                  "course code": "MCOM 348",
+                  "units": 3
+                },
+                {
+                  "name": "Photo Editing",
+                  "course code": "MCOM 356",
+                  "units": 3
+                },
+                {
+                  "name": "Broadcast Presentation and Commentary",
+                  "course code": "MCOM 332",
+                  "units": 3
+                }
+              ]
+          },
+
+          "400": {
+                "1": [
+                  {
+                    "name": "Introduction to Entrepreneurial Skills",
+                    "course code": "GEDS 400",
+                    "units": 2
+                  },
+                  {
+                    "name": "E-Project Management and Simulation",
+                    "course code": "GEDS 440",
+                    "units": 2
+                  },
+                  {
+                    "name": "International Communication",
+                    "course code": "MCOM 411",
+                    "units": 3
+                  },
+                  {
+                    "name": "Data Analysis in Communication Research",
+                    "course code": "MCOM 415",
+                    "units": 3
+                  },
+                  {
+                    "name": "Communication for Development",
+                    "course code": "MCOM 417",
+                    "units": 3
+                  },
+                  {
+                    "name": "Educational Broadcasting",
+                    "course code": "MCOM 435",
+                    "units": 3
+                  },
+                  {
+                    "name": "International and Foreign Broadcasting",
+                    "course code": "MCOM 437",
+                    "units": 3
+                  },
+                  {
+                    "name": "Public Affairs Broadcasting",
+                    "course code": "MCOM 451",
+                    "units": 3
+                  },
+                  {
+                    "name": "Management of PRAD Agencies",
+                    "course code": "MCOM 441",
+                    "units": 3
+                  },
+                  {
+                    "name": "International PR and Advertising",
+                    "course code": "MCOM 443",
+                    "units": 3
+                  },
+                  {
+                    "name": "Finance and Public Relations",
+                    "course code": "MCOM 447",
+                    "units": 3
+                  }
+                ],
+                "2": [
+                  {
+                    "name": "Biblical Principles in Personal and Professional Life",
+                    "course code": "GEDS 420",
+                    "units": 3
+                  },
+                  {
+                    "name": "Issues in Religious Communication",
+                    "course code": "MCOM 418",
+                    "units": 3
+                  },
+                  {
+                    "name": "Webpage Designing and Publishing",
+                    "course code": "MCOM 420",
+                    "units": 3
+                  },
+                  {
+                    "name": "Broadcast Management and Programming",
+                    "course code": "MCOM 432",
+                    "units": 3
+                  },
+                  {
+                    "name": "Film Criticism and Appreciation",
+                    "course code": "MCOM 436",
+                    "units": 3
+                  },
+                  {
+                    "name": "Communication and Society",
+                    "course code": "MCOM 456",
+                    "units": 3
+                  },
+                  {
+                    "name": "Research Project",
+                    "course code": "MCOM 490",
+                    "units": 6
+                  },
+                  {
+                    "name": "Economics and Social Issues in PRAD",
+                    "course code": "MCOM 442",
+                    "units": 3
+                  },
+                  {
+                    "name": "Integrated Marketing Communications",
+                    "course code": "MCOM 444",
+                    "units": 3
+                  }
+                ]
+          }
+                        
+                               
+
+    },
+    "Political Science":{
+      "year":4,
+      "name": "Political Science",
+      
+        "100": {
+          "1": [
+            {
+              "name": "Philosophy of Christian Education",
+              "course code": "GEDS 101",
+              "units": 2
+            },
+            {
+              "name": "Use of Library and Study Skills",
+              "course code": "GEDS 105",
+              "units": 2
+            },
+            {
+              "name": "Introduction to General Psychology",
+              "course code": "GEDS 107",
+              "units": 2
+            },
+            {
+              "name": "Communication in English I",
+              "course code": "GEDS 131",
+              "units": 2
+            },
+            {
+              "name": "ICT Fundamentals and Office Productivity Management",
+              "course code": "GEDS 120",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Political Science",
+              "course code": "PLSC 100",
+              "units": 3
+            },
+            {
+              "name": "Introduction to International Relations",
+              "course code": "PLSC 121",
+              "units": 3
+            },
+            {
+              "name": "Foundations of Political Economy",
+              "course code": "PLSC 131",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Health Principles",
+              "course code": "GEDS 112",
+              "units": 2
+            },
+            {
+              "name": "Life and Teachings of Jesus the Messiah",
+              "course code": "GEDS 126",
+              "units": 3
+            },
+            {
+              "name": "Communication in English II",
+              "course code": "GEDS 132",
+              "units": 2
+            },
+            {
+              "name": "Nigerian People in a Global Culture",
+              "course code": "GEDS 134",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Public Administration",
+              "course code": "PBAD 100",
+              "units": 3
+            },
+            {
+              "name": "Nigerian Constitutional Development",
+              "course code": "PLSC 112",
+              "units": 3
+            },
+            {
+              "name": "Citizens and The State",
+              "course code": "PLSC 120",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Sociology and Anthropology",
+              "course code": "PBAD 142",
+              "units": 3
+            }
+          ]
+        },
+      
+     "200": {
+    "1": [
+      {
+        "name": "Fundamentals of Christian Faith",
+        "course code": "GEDS 215",
+        "units": 3
+      },
+      {
+        "name": "Introduction to Agricultural Science",
+        "course code": "GEDS 221",
+        "units": 2
+      },
+      {
+        "name": "Political Analysis",
+        "course code": "PLSC 201",
+        "units": 3
+      },
+      {
+        "name": "Political Ideas",
+        "course code": "PLSC 211",
+        "units": 3
+      },
+      {
+        "name": "Principles of Management",
+        "course code": "PBAD 201",
+        "units": 3
+      },
+      {
+        "name": "History of Political Thought",
+        "course code": "PLSC 230",
+        "units": 3
+      },
+      {
+        "name": "Introduction to Comparative Politics",
+        "course code": "PLSC 231",
+        "units": 3
+      },
+      {
+        "name": "Elementary French I",
+        "course code": "FREN 131",
+        "units": 3
+      },
+      {
+        "name": "Principles of Economics",
+        "course code": "ECON 100",
+        "units": 3
+      }
+    ],
+    "2": [
+      {
+        "name": "Environment and Sustainable Development",
+        "course code": "GEDS 260",
+        "units": 2
+      },
+      {
+        "name": "Leadership Skills",
+        "course code": "GEDS 280",
+        "units": 2
+      },
+      {
+        "name": "Peace and Conflict Resolution",
+        "course code": "GEDS 270",
+        "units": 2
+      },
+      {
+        "name": "Nigerian Government and Politics",
+        "course code": "PLSC 200",
+        "units": 
+
+3
+      },
+      {
+        "name": "Local Government in Nigeria",
+        "course code": "PBAD 202",
+        "units": 3
+      },
+      {
+        "name": "Statistical Methods in the Social Sciences",
+        "course code": "PLSC 220",
+        "units": 3
+      },
+      {
+        "name": "Logic and Scientific Reasoning",
+        "course code": "PLSC 232",
+        "units": 3
+      },
+      {
+        "name": "Elementary French II",
+        "course code": "FREN 132",
+        "units": 3
+      }
+    ]
+      },
+      
+        "300": {
+          "1": [
+            {
+              "name": "Religion and Social Ethics",
+              "course code": "GEDS 317",
+              "units": 3
+            },
+            {
+              "name": "Comparative Federal Systems",
+              "course code": "PLSC 306",
+              "units": 3
+            },
+            {
+              "name": "Comparative Politics",
+              "course code": "PLSC 310",
+              "units": 3
+            },
+            {
+              "name": "Political Behaviour",
+              "course code": "PLSC 322",
+              "units": 3
+            },
+            {
+              "name": "African Political Thought",
+              "course code": "PLSC 330",
+              "units": 3
+            },
+            {
+              "name": "Contemporary Political Analysis",
+              "course code": "PLSC 350",
+              "units": 3
+            },
+            {
+              "name": "Religion and Politics",
+              "course code": "PLSC 353",
+              "units": 3
+            },
+            {
+              "name": "Political Parties and Pressure Groups",
+              "course code": "PLSC 363",
+              "units": 3
+            },
+            {
+              "name": "Theory and Practice of Marxism",
+              "course code": "PLSC 371",
+              "units": 3
+            },
+            {
+              "name": "Theory and Practice of Administration",
+              "course code": "PBAD 335",
+              "units": 3
+            },
+            {
+              "name": "Development Administration",
+              "course code": "PBAD 351",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Introduction to Family Life Education",
+              "course code": "GEDS 312",
+              "units": 2
+            },
+            {
+              "name": "E-Customer Relationship Management",
+              "course code": "GEDS 310",
+              "units": 2
+            },
+            {
+              "name": "Theories of International Relations",
+              "course code": "PLSC 340",
+              "units": 3
+            },
+            {
+              "name": "Globalisation and Politics of Development",
+              "course code": "PLSC 365",
+              "units": 3
+            },
+            {
+              "name": "Politics of International Economic Relations",
+              "course code": "PLSC 396",
+              "units": 3
+            },
+            {
+              "name": "Research Methodology",
+              "course code": "PLSC 300",
+              "units": 3
+            },
+            {
+              "name": "Intermediate French I",
+              "course code": "FREN 215",
+              "units": 3
+            },
+            {
+              "name": "Intermediate French II",
+              "course code": "FREN 216",
+              "units": 3
+            },
+            {
+              "name": "Nigerian Public Administration",
+              "course code": "PBAD 232",
+              "units": 3
+            },
+            {
+              "name": "Government and Administration of Urban Systems",
+              "course code": "PBAD 312",
+              "units": 3
+            },
+            {
+              "name": "Diplomatic and Consular Law I",
+              "course code": "ILDP 313",
+              "units": 3
+            },
+            {
+              "name": "Moral Issues in International Politics",
+              "course code": "ILDP 361",
+              "units": 3
+            }
+          ]
+        },
+        
+          "400": {
+            "1": [
+              {
+                "name": "Politics and Law in Africa",
+                "course code": "PLSC 401",
+                "units": 3
+              },
+              {
+                "name": "International Law and Organisations",
+                "course code": "PLSC 431",
+                "units": 3
+              },
+              {
+                "name": "Gender and Politics",
+                "course code": "PLSC 445",
+                "units": 3
+              },
+              {
+                "name": "Defense and Strategic Studies",
+                "course code": "PLSC 480",
+                "units": 3
+              },
+              {
+                "name": "National Economic Planning",
+                "course code": "ECON 400",
+                "units": 3
+              },
+              {
+                "name": "Public Policy Making and Analysis",
+                "course code": "PBAD 431",
+                "units": 3
+              },
+              {
+                "name": "Civil-Military Relations",
+                "course code": "PLSC 411",
+                "units": 3
+              },
+              {
+                "name": "Politics of Intergovernmental Relations",
+                "course code": "PLSC 430",
+                "units": 3
+              },
+              {
+                "name": "International Politics of Mass Communication",
+                "course code": "PLSC 471",
+                "units": 3
+              },
+              {
+                "name": "International Human Rights Law",
+                "course code": "ILDP 417",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "State and Economy",
+                "course code": "PLSC 402",
+                "units": 3
+              },
+              {
+                "name": "Nigeria’s Foreign Policy",
+                "course code": "PLSC 412",
+                "units": 3
+              },
+              {
+                "name": "Conflict and Bargaining in International Relations",
+                "course code": "PLSC 442",
+                "units": 3
+              },
+              {
+                "name": "African International Relations",
+                "course code": "PLSC 466",
+                "units": 3
+              },
+              {
+                "name": "Research Project",
+                "course code": "PLSC 490",
+                "units": 6
+              },
+              {
+                "name": "Principles of Administrative Law",
+                "course code": "LAWS 422",
+                "units": 3
+              },
+              {
+                "name": "International Refugee Law",
+                "course code": "ILDP 456",
+                "units": 3
+              },
+              {
+                "name": "International Humanitarian Law",
+                "course code": "ILDP 473",
+                "units": 3
+              },
+              {
+                "name": "Biblical Principles in Personal and Professional Life",
+                "course code": "GEDS 420",
+                "units": 3
+              }
+            ]
+          }
+                
+            
+
+            
+    },
+    "International Law and Diplomacy":{
+      "year":4,
+      "name": "International Law and Diplomacy",
+      
+        "100": {
+          "1": [
+            {
+              "name": "Introduction to Law",
+              "course code": "LAWS 105",
+              "units": 3
+            },
+            {
+              "name": "Introduction to International Relations and Diplomacy",
+              "course code": "ILDP 121",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Political Science",
+              "course code": "PLSC 100",
+              "units": 3
+            },
+            {
+              "name": "Philosophy of Christian Education",
+              "course code": "GEDS 101",
+              "units": 2
+            },
+            {
+              "name": "Use of Library and Study Skills",
+              "course code": "GEDS 105",
+              "units": 2
+            },
+            {
+              "name": "Introduction to General Psychology",
+              "course code": "GEDS 107",
+              "units": 2
+            },
+            {
+              "name": "Communication in English I",
+              "course code": "GEDS 131",
+              "units": 2
+            },
+            {
+              "name": "ICT Fundamentals and Office Productivity Management",
+              "course code": "GEDS 120",
+              "units": 2
+            },
+            {
+              "name": "Elementary French I",
+              "course code": "FREN 131",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Nigerian Constitutional Development",
+              "course code": "PLSC 112",
+              "units": 3
+            },
+            {
+              "name": "State and Citizenship Law",
+              "course code": "ILDP 124",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Sociology and Anthropology",
+              "course code": "PBAD 142",
+              "units": 3
+            },
+            {
+              "name": "Elementary French II",
+              "course code": "FREN 132",
+              "units": 3
+            },
+            {
+              "name": "Health Principles",
+              "course code": "GEDS 112",
+              "units": 2
+            },
+            {
+              "name": "Communication in English II",
+              "course code": "GEDS 132",
+              "units": 2
+            },
+            {
+              "name": "Life and Teachings of Jesus the Messiah",
+              "course code": "GEDS 126",
+              "units": 3
+            }
+          ]
+        },
+        
+          "200": {
+            "1": [
+              {
+                "name": "General Principles of International Law",
+                "course code": "ILDP 201",
+                "units": 3
+              },
+              {
+                "name": "History of Political Thought",
+                "course code": "PLSC 230",
+                "units": 3
+              },
+              {
+                "name": "Principles of Management",
+                "course code": "PBAD 201",
+                "units": 3
+              },
+              {
+                "name": "Nigerian Government and Politics",
+                "course code": "PLSC 200",
+                "units": 3
+              },
+              {
+                "name": "Fundamentals of Christian Faith",
+                "course code": "GEDS 215",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Agriculture",
+                "course code": "GEDS 221",
+                "units": 2
+              },
+              {
+                "name": "Environmental and Sustainable Development",
+                "course code": "GEDS 260",
+                "units": 2
+              },
+              {
+                "name": "Intermediate French I",
+                "course code": "FREN 215",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Structure of Nigerian Foreign Service",
+                "course code": "ILDP 234",
+                "units": 3
+              },
+              {
+                "name": "Statistical Methods in the Social Sciences",
+                "course code": "PLSC 220",
+                "units": 3
+              },
+              {
+                "name": "Logic and Scientific Reasoning",
+                "course code": "PLSC 232",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Comparative Politics",
+                "course code": "PLSC 231",
+                "units": 3
+              },
+              {
+                "name": "Principles of Economics",
+                "course code": "ECON 100",
+                "units": 3
+              },
+              {
+                "name": "Intermediate French II",
+                "course code": "FREN 216",
+                "units": 3
+              },
+              {
+                "name": "Spreadsheet and Digital Presentations",
+                "course code": "GEDS 290",
+                "units": 2
+              },
+              {
+                "name": "Leadership Skills",
+                "course code": "GEDS 280",
+                "units": 2
+              },
+              {
+                "name": "Peace and Conflict Resolution",
+                "course code": "GEDS 270",
+                "units": 2
+              },
+              {
+                "name": "French Language Practicum",
+                "course code": "ILDP 290",
+                "units": 0
+              }
+            ]
+          },
+          
+            "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Diplomatic and Consular Law I",
+                  "course code": "ILDP 313",
+                  "units": 3
+                },
+                {
+                  "name": "Law of International Institutions",
+                  "course code": "ILDP 315",
+                  "units": 3
+                },
+                {
+                  "name": "Moral Issues in International Politics",
+                  "course code": "ILDP 361",
+                  "units": 3
+                },
+                {
+                  "name": "Research Methodology",
+                  "course code": "PLSC 300",
+                  "units": 3
+                },
+                {
+                  "name": "Comparative Politics",
+                  "course code": "PLSC 310",
+                  "units": 3
+                },
+                {
+                  "name": "Globalization and Politics of Development",
+                  "course code": "PLSC 365",
+                  "units": 3
+                },
+                {
+                  "name": "International Boundaries and Immigration Law",
+                  "course code": "ILDP 345",
+                  "units": 3
+                },
+                {
+                  "name": "Oil and Gas in World Politics",
+                  "course code": "ILDP 385",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Diplomatic and Consular Law II",
+                  "course code": "ILDP 314",
+                  "units": 3
+                },
+                {
+                  "name": "Law of Intellectual Property",
+                  "course code": "ILDP 338",
+                  "units": 3
+                },
+                {
+                  "name": "Theories of International Relations",
+                  "course code": "PLSC 340",
+                  "units": 3
+                },
+                {
+                  "name": "Contemporary Political Analysis",
+                  "course code": "PLSC 350",
+                  "units": 3
+                },
+                {
+                  "name": "International Environmental Law",
+                  "course code": "ILDP 312",
+                  "units": 3
+                },
+                {
+                  "name": "International Trade Law",
+                  "course code": "ILDP 334",
+                  "units": 3
+                },
+                {
+                  "name": "Politics of Western Europe and America",
+                  "course code": "ILDP 352",
+                  "units": 3
+                },
+                {
+                  "name": "Political Behaviour",
+                  "course code": "PLSC 322",
+                  "units": 3
+                }
+              ]
+            },
+            
+              "400": {
+                "1": [
+                  {
+                    "name": "International Human Rights Law",
+                    "course code": "ILDP 417",
+                    "units": 3
+                  },
+                  {
+                    "name": "Gender and Politics",
+                    "course code": "PLSC 445",
+                    "units": 3
+                  },
+                  {
+                    "name": "Defense and Strategic Studies",
+                    "course code": "PLSC 480",
+                    "units": 3
+                  },
+                  {
+                    "name": "Introduction to Entrepreneurial Skills",
+                    "course code": "GEDS 400",
+                    "units": 2
+                  },
+                  {
+                    "name": "E-Project Management and Simulation",
+                    "course code": "GEDS 440",
+                    "units": 2
+                  }
+                ],
+                "2": [
+                  {
+                    "name": "Arbitration",
+                    "course code": "ILDP 432",
+                    "units": 3
+                  },
+                  {
+                    "name": "International Administrative Law",
+                    "course code": "ILDP 448",
+                    "units": 3
+                  },
+                  {
+                    "name": "International Humanitarian Law",
+                    "course code": "ILDP 473",
+                    "units": 3
+                  },
+                  {
+                    "name": "Nigeria’s Foreign Policy",
+                    "course code": "PLSC 412",
+                    "units": 3
+                  },
+                  {
+                    "name": "Biblical Principles in Personal and Professional Life",
+                    "course code": "GEDS 420",
+                    "units": 3
+                  },
+                  {
+                    "name": "Research Project",
+                    "course code": "ILDP 490",
+                    "units": 6
+                  }
+                ]
+              }
+                        
+                    
+                
+            
+    },
+    "Public Administration":{
+      "year":4,
+      "name": "Public Administration",
+      
+        "100": {
+          "1": [
+            {
+              "name": "Philosophy of Christian Education",
+              "course code": "GEDS 101",
+              "units": 2
+            },
+            {
+              "name": "Use of Library and Study Skills",
+              "course code": "GEDS 105",
+              "units": 2
+            },
+            {
+              "name": "Introduction to General Psychology",
+              "course code": "GEDS 107",
+              "units": 2
+            },
+            {
+              "name": "Communication in English I",
+              "course code": "GEDS 131",
+              "units": 2
+            },
+            {
+              "name": "ICT Fundamentals and Office Productivity Management",
+              "course code": "GEDS 120",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Public Administration",
+              "course code": "PBAD 100",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Health Principles",
+              "course code": "GEDS 112",
+              "units": 2
+            },
+            {
+              "name": "Life and Teachings of Jesus the Messiah",
+              "course code": "GEDS 126",
+              "units": 3
+            },
+            {
+              "name": "Communication in English II",
+              "course code": "GEDS 132",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Political Science",
+              "course code": "PLSC 100",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Social Psychology",
+              "course code": "PBAD 141",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Sociology and Anthropology",
+              "course code": "PBAD 142",
+              "units": 3
+            },
+            {
+              "name": "Citizens and The State",
+              "course code": "PLSC 120",
+              "units": 3
+            },
+            {
+              "name": "Nigerian Constitutional Development",
+              "course code": "PLSC 112",
+              "units": 3
+            }
+          ]
+        },
+        
+          "200": {
+            "1": [
+              {
+                "name": "Fundamentals of Christian Faith",
+                "course code": "GEDS 215",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Agricultural Science",
+                "course code": "GEDS 221",
+                "units": 2
+              },
+              {
+                "name": "Advanced Spreadsheet and Digital Presentations",
+                "course code": "GEDS 290",
+                "units": 2
+              },
+              {
+                "name": "Environmental and Sustainable Development",
+                "course code": "GEDS 260",
+                "units": 2
+              },
+              {
+                "name": "Principles of Management",
+                "course code": "PBAD 201",
+                "units": 3
+              },
+              {
+                "name": "Local Government in Nigeria",
+                "course code": "PBAD 202",
+                "units": 3
+              },
+              {
+                "name": "Theories of Public Administration",
+                "course code": "PBAD 211",
+                "units": 3
+              },
+              {
+                "name": "Nigerian Government and Politics",
+                "course code": "PLSC 200",
+                "units": 3
+              },
+              {
+                "name": "Statistical Methods in the Social Sciences",
+                "course code": "PLSC 220",
+                "units": 3
+              },
+              {
+                "name": "Principles of Economics",
+                "course code": "ECON 100",
+                "units": 3
+              },
+              {
+                "name": "Elementary French I",
+                "course code": "FREN 131",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Leadership Skills",
+                "course code": "GEDS 280",
+                "units": 2
+              },
+              {
+                "name": "Peace and Conflict Resolution",
+                "course code": "GEDS 270",
+                "units": 2
+              },
+              {
+                "name": "Traditional Administrative Systems in Nigeria",
+                "course code": "PBAD 212",
+                "units": 3
+              },
+              {
+                "name": "Nigerian Public Administration",
+                "course code": "PBAD 232",
+                "units": 3
+              },
+              {
+                "name": "Human Relations and Personnel Management",
+                "course code": "PBAD 242",
+                "units": 3
+              },
+              {
+                "name": "Logic and Scientific Reasoning",
+                "course code": "PLSC 232",
+                "units": 3
+              },
+              {
+                "name": "Elementary French II",
+                "course code": "FREN 132",
+                "units": 3
+              }
+            ]
+          },
+          
+            "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Comparative Public Administration",
+                  "course code": "PBAD 311",
+                  "units": 3
+                },
+                {
+                  "name": "Comparative Local Government",
+                  "course code": "PBAD 331",
+                  "units": 3
+                },
+                {
+                  "name": "Organizational and Administrative Theory",
+                  "course code": "PBAD 332",
+                  "units": 3
+                },
+                {
+                  "name": "Administrative Ethics",
+                  "course code": "PBAD 341",
+                  "units": 3
+                },
+                {
+                  "name": "Development Administration",
+                  "course code": "PBAD 351",
+                  "units": 3
+                },
+                {
+                  "name": "Intermediate French I",
+                  "course code": "FREN 215",
+                  "units": 3
+                },
+                {
+                  "name": "Comparative Politics",
+                  "course code": "PLSC 310",
+                  "units": 3
+                },
+                {
+                  "name": "Religion and Politics",
+                  "course code": "PLSC 353",
+                  "units": 3
+                },
+                {
+                  "name": "Political Parties and Pressure Groups",
+                  "course code": "PLSC 363",
+                  "units": 3
+                },
+                {
+                  "name": "Globalization and Politics of Development",
+                  "course code": "PLSC 365",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Public Finance and Budgeting",
+                  "course code": "PBAD 302",
+                  "units": 3
+                },
+                {
+                  "name": "Government and Administration of Urban Systems",
+                  "course code": "PBAD 312",
+                  "units": 3
+                },
+                {
+                  "name": "Public Management Accounting",
+                  "course code": "PBAD 362",
+                  "units": 3
+                },
+                {
+                  "name": "Intermediate French II",
+                  "course code": "FREN 216",
+                  "units": 3
+                },
+                {
+                  "name": "Research Methodology",
+                  "course code": "PLSC 300",
+                  "units": 3
+                },
+                {
+                  "name": "Practicum",
+                  "course code": "PLSC 380",
+                  "units": 0
+                }
+              ]
+            },
+
+            
+            "400": {
+                "1": [
+                  {
+                    "name": "Introduction to Entrepreneurial Skills",
+                    "course code": "GEDS 400",
+                    "units": 2
+                  },
+                  {
+                    "name": "E-Project Management and Simulation",
+                    "course code": "GEDS 440",
+                    "units": 2
+                  },
+                  {
+                    "name": "Public Enterprises Management",
+                    "course code": "PBAD 401",
+                    "units": 3
+                  },
+                  {
+                    "name": "Principles of Strategic Management",
+                    "course code": "PBAD 411",
+                    "units": 3
+                  },
+                  {
+                    "name": "Public Finance Management",
+                    "course code": "PBAD 421",
+                    "units": 3
+                  },
+                  {
+                    "name": "Public Policy Making and Analysis",
+                    "course code": "PBAD 431",
+                    "units": 3
+                  },
+                  {
+                    "name": "Democratic Studies",
+                    "course code": "PBAD 450",
+                    "units": 3
+                  },
+                  {
+                    "name": "Office Management and Labour Relations",
+                    "course code": "PBAD 441",
+                    "units": 3
+                  },
+                  {
+                    "name": "Collective Bargaining",
+                    "course code": "PBAD 461",
+                    "units": 3
+                  },
+                  {
+                    "name": "Gender and Politics",
+                    "course code": "PLSC 445",
+                    "units": 3
+                  }
+                ],
+                "2": [
+                  {
+                    "name": "Biblical Principles in Personal and Professional Life",
+                    "course code": "GEDS 420",
+                    "units": 3
+                  },
+                  {
+                    "name": "Social and Welfare Administration in Nigeria",
+                    "course code": "PBAD 402",
+                    "units": 3
+                  },
+                  {
+                    "name": "Economic Planning",
+                    "course code": "ECON 400",
+                    "units": 3
+                  },
+                  {
+                    "name": "Principles of Administrative Law",
+                    "course code": "LAWS 422",
+                    "units": 3
+                  },
+                  {
+                    "name": "Research Project",
+                    "course code": "PBAD 490",
+                    "units": 6
+                  },
+                  {
+                    "name": "Politics of Intergovernmental Relations",
+                    "course code": "PLSC 430",
+                    "units": 3
+                  }
+                ]
+            }
+                        
+                    
+                
+            
+    },
+    "Social Work":{
+      "year":4,
+      "name": "Social Work",
+      
+        "100": {
+          "1": [
+            {
+              "name": "Introduction to Philosophy of Christian Education",
+              "course code": "GEDS 101",
+              "units": 2
+            },
+            {
+              "name": "Use of Library and Study Skills",
+              "course code": "GEDS 105",
+              "units": 2
+            },
+            {
+              "name": "Introduction to General Psychology",
+              "course code": "GEDS 107",
+              "units": 2
+            },
+            {
+              "name": "Communication in English I",
+              "course code": "GEDS 131",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Social Work and Human Services",
+              "course code": "SOWK 103",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Sociology and Anthropology",
+              "course code": "SOWK 109",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Social Work and Legal System",
+              "course code": "SOWK 112",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Political Science",
+              "course code": "PLSC 100",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Law",
+              "course code": "LAWS 105",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Life and Teachings of Jesus the Messiah",
+              "course code": "GEDS 126",
+              "units": 3
+            },
+            {
+              "name": "Communication in English II",
+              "course code": "GEDS 132",
+              "units": 2
+            },
+            {
+              "name": "Nigerian Peoples in a Global Culture",
+              "course code": "GEDS 134",
+              "units": 2
+            },
+            {
+              "name": "ICT Fundamentals and Office Productivity Management",
+              "course code": "GEDS 120",
+              "units": 2
+            },
+            {
+              "name": "Contemporary Issues in Social Work and Human Services",
+              "course code": "SOWK 104",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Public Health Social Work",
+              "course code": "SOWK 110",
+              "units": 3
+            }
+          ]
+        },
+        
+        "200": {
+            "1": [
+              {
+                "name": "Fundamentals of Christian Faith",
+                "course code": "GEDS 215",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Agriculture",
+                "course code": "GEDS 221",
+                "units": 2
+              },
+              {
+                "name": "Leadership Skills",
+                "course code": "GEDS 280",
+                "units": 2
+              },
+              {
+                "name": "Human Behavior in the Social Environment",
+                "course code": "SOWK 215",
+                "units": 4
+              },
+              {
+                "name": "Social Work Theories and Practice I",
+                "course code": "SOWK 217",
+                "units": 3
+              },
+              {
+                "name": "Social Work Theories and Practice II",
+                "course code": "SOWK 218",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Social Work Counseling Skills",
+                "course code": "SOWK 219",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Communication in French",
+                "course code": "GEDS 200",
+                "units": 2
+              },
+              {
+                "name": "Spreadsheet and Digital Presentations",
+                "course code": "GEDS 290",
+                "units": 2
+              },
+              {
+                "name": "Environment and Sustainable Development",
+                "course code": "GEDS 260",
+                "units": 2
+              },
+              {
+                "name": "Peace and Conflict Resolution",
+                "course code": "GEDS 270",
+                "units": 2
+              },
+              {
+                "name": "Christian Philosophy of Social Work",
+                "course code": "SOWK 206",
+                "units": 3
+              },
+              {
+                "name": "Seminars in Social Work Practice/Practicum I (45 Field Hrs)",
+                "course code": "SOWK 214",
+                "units": 3
+              },
+              {
+                "name": "Human Services and Cultural Diversity",
+                "course code": "SOWK 222",
+                "units": 3
+              },
+              {
+                "name": "Statistical Methods in Social Work",
+                "course code": "SOWK 223",
+                "units": 3
+              }
+            ]
+        },
+        
+          "300": {
+            "1": [
+              {
+                "name": "Religion and Social Ethics",
+                "course code": "GEDS 317",
+                "units": 3
+              },
+              {
+                "name": "E-Customer Relationship Management",
+                "course code": "GEDS 310",
+                "units": 2
+              },
+              {
+                "name": "Social Work Methods: Generalist Practice with Individuals",
+                "course code": "SOWK 301",
+                "units": 3
+              },
+              {
+                "name": "Child Welfare and Services",
+                "course code": "SOWK 303",
+                "units": 3
+              },
+              {
+                "name": "Social Welfare Policies: Administration and Governance",
+                "course code": "SOWK 311",
+                "units": 3
+              },
+              {
+                "name": "Human Services and Social Work Methods in Field Specializations",
+                "course code": "SOWK 315",
+                "units": 3
+              },
+              {
+                "name": "Research Methodology in Social Work",
+                "course code": "SOWK 300",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Social Work Methods: Generalist Practice with Groups",
+                "course code": "SOWK 302",
+                "units": 3
+              },
+              {
+                "name": "Social Work Methods: Generalist Practice with Community Development",
+                "course code": "SOWK 304",
+                "units": 3
+              },
+              {
+                "name": "Seminars in Social Work and Human Services/Practicum II",
+                "course code": "SOWK 322",
+                "units": 3
+              },
+              {
+                "name": "International Social Work: Policy and Practice",
+                "course code": "SOWK 324",
+                "units": 3
+              },
+              {
+                "name": "Social Work Methods with Children and Families",
+                "course code": "SOWK 326",
+                "units": 3
+              },
+              {
+                "name": "Population Based Human Services and Social Work Practice",
+                "course code": "SOWK 328",
+                "units": 3
+              },
+              {
+                "name": "Social Work Aspects of Substance Use and Abuse",
+                "course code": "SOWK 332",
+                "units": 3
+              }
+            ]
+          },
+          
+            "400": {
+              "1": [
+                {
+                  "name": "Introduction to Entrepreneurial Skills",
+                  "course code": "GEDS 400",
+                  "units": 2
+                },
+                {
+                  "name": "E-Project Management and Simulation",
+                  "course code": "GEDS 440",
+                  "units": 2
+                },
+                {
+                  "name": "Crisis Intervention and Case Management in Human Services",
+                  "course code": "SOWK 415",
+                  "units": 3
+                },
+                {
+                  "name": "Seminars in Social Work Practice/ Practicum III",
+                  "course code": "SOWK 417",
+                  "units": 3
+                },
+                {
+                  "name": "Indigenous Social Work",
+                  "course code": "SOWK 423",
+                  "units": 3
+                },
+                {
+                  "name": "Social Work Practice in Peace Management and Conflict Transformation",
+                  "course code": "SOWK 427",
+                  "units": 3
+                },
+                {
+                  "name": "The Competent Social Worker",
+                  "course code": "SOWK 429",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Biblical Principles in Personal and Professional Life",
+                  "course code": "CAPS 420",
+                  "units": 3
+                },
+                {
+                  "name": "Field Practicum in Social Work (300 Field Hrs)",
+                  "course code": "SOWK 416*",
+                  "units": 12
+                },
+                {
+                  "name": "Research Project",
+                  "course code": "SOWK 490",
+                  "units": 6
+                }
+              ]
+            }
+                    
+                
+                
+            
+    }
+
+}

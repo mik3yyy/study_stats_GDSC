@@ -1,0 +1,816 @@
+{
+    "name": "School of Public and Allied Health",
+    "courses": [
+        "Medical Laboratory Science",
+        "Public Health"
+
+
+   
+
+    ],
+    "Medical Laboratory Science":{
+        "year":4,
+        "name":"Medical Laboratory Science",
+
+         "100": {
+    "1": [
+      {
+        "name": "Philosophy of Christian Education",
+        "course code": "GEDS 101",
+        "units": 2
+      },
+      {
+        "name": "Use of Library and Study Skills",
+        "course code": "GEDS 105",
+        "units": 2
+      },
+      {
+        "name": "Introduction to General Psychology",
+        "course code": "GEDS 107",
+        "units": 2
+      },
+      {
+        "name": "ICT Fundamentals and Office Productivity Management",
+        "course code": "GEDS 120",
+        "units": 2
+      },
+      {
+        "name": "Communication in English I",
+        "course code": "GEDS 131",
+        "units": 2
+      },
+      {
+        "name": "General Physics I",
+        "course code": "PHYS 101",
+        "units": 3
+      },
+      {
+        "name": "General Chemistry I",
+        "course code": "CHEM 101",
+        "units": 3
+      },
+      {
+        "name": "General Biology I",
+        "course code": "BIOL 101",
+        "units": 3
+      },
+      {
+        "name": "General Mathematics I",
+        "course code": "MATH 101",
+        "units": 3
+      }
+    ],
+    "2": [
+      {
+        "name": "Health Principles",
+        "course code": "GEDS 112",
+        "units": 2
+      },
+      {
+        "name": "Life and Teachings of Jesus the Messiah",
+        "course code": "GEDS 126",
+        "units": 3
+      },
+      {
+        "name": "Communication in English II",
+        "course code": "GEDS 132",
+        "units": 2
+      },
+      {
+        "name": "Nigerian Peoples in a Global Culture",
+        "course code": "GEDS 134",
+        "units": 2
+      },
+      {
+        "name": "General Physics II",
+        "course code": "PHYS 102",
+        "units": 3
+      },
+      {
+        "name": "General Chemistry II",
+        "course code": "CHEM 102",
+        "units": 3
+      },
+      {
+        "name": "General Biology II",
+        "course code": "BIOL 102",
+        "units": 3
+      },
+      {
+        "name": "General Mathematics II",
+        "course code": "MATH 102",
+        "units": 3
+      }
+    ]
+          },
+
+          "200": {
+            "1": [
+              {
+                "name": "Fundamentals of Christian Faith",
+                "course code": "GEDS 215",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Agriculture",
+                "course code": "GEDS 221",
+                "units": 2
+              },
+              {
+                "name": "General Embryology",
+                "course code": "ANAT 209",
+                "units": 3
+              },
+              {
+                "name": "General Principles of Physiology I",
+                "course code": "PHGY 221",
+                "units": 3
+              },
+              {
+                "name": "General Principles of Physiology II",
+                "course code": "PHGY 222",
+                "units": 3
+              },
+              {
+                "name": "Cardiovascular Physiology",
+                "course code": "PHGY 202",
+                "units": 3
+              },
+              {
+                "name": "Organic Chemistry I",
+                "course code": "CHEM 213",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "History and Philosophy of Science",
+                "course code": "GEDS 222",
+                "units": 2
+              },
+              {
+                "name": "Environment and Sustainable Development",
+                "course code": "GEDS 260",
+                "units": 2
+              },
+              {
+                "name": "Spreadsheet and Digital Presentations",
+                "course code": "GEDS 290",
+                "units": 2
+              },
+              {
+                "name": "Introduction to Biomedical Laboratory Science",
+                "course code": "MLSC 214",
+                "units": 3
+              },
+              {
+                "name": "Foundations of Biochemistry II",
+                "course code": "BCHM 202",
+                "units": 3
+              },
+              {
+                "name": "Blood Physiology",
+                "course code": "PHGY 203",
+                "units": 2
+              },
+              {
+                "name": "Respiratory Physiology",
+                "course code": "PHGY 204",
+                "units": 2
+              },
+              {
+                "name": "Histology and Body System",
+                "course code": "ANAT 216",
+                "units": 3
+              },
+              {
+                "name": "Organic Chemistry II",
+                "course code": "CHEM 214",
+                "units": 3
+              }
+            ]
+          },
+          
+          "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Haematology",
+                  "course code": "MLSC 310",
+                  "units": 3
+                },
+                {
+                  "name": "Immunology and Immunochemistry I",
+                  "course code": "MLSC 319",
+                  "units": 2
+                },
+                {
+                  "name": "Clinical Laboratory Postings I",
+                  "course code": "MLSC 325",
+                  "units": 3
+                },
+                {
+                  "name": "Medical Laboratory Instrumentation and Techniques",
+                  "course code": "MLSC 331",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Pharmacology and Toxicology I",
+                  "course code": "MLSC 333",
+                  "units": 3
+                },
+                {
+                  "name": "Nucleic Acid Biochemistry and Basic Concepts of Molecular Biology",
+                  "course code": "MLSC 335",
+                  "units": 2
+                },
+                {
+                  "name": "Basic Clinical Chemistry",
+                  "course code": "MLSC 337",
+                  "units": 3
+                },
+                {
+                  "name": "Practical in Pharmacology and Toxicology",
+                  "course code": "MLSC 341",
+                  "units": 2
+                }
+              ],
+              "2": [
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Clinical Laboratory Postings II",
+                  "course code": "MLSC 326",
+                  "units": 3
+                },
+                {
+                  "name": "Introductory Medical Microbiology",
+                  "course code": "MLSC 328",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Pharmacology and Toxicology II",
+                  "course code": "MLSC 334",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Blood Group Serology",
+                  "course code": "MLSC 336",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Biomedical Engineering",
+                  "course code": "MLSC 338",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Histopathology",
+                  "course code": "MLSC 344",
+                  "units": 3
+                }
+              ]
+          },
+
+       "400": {
+    "1": [
+      {
+        "name": "Character Formation and Spiritual Growth",
+        "course code": "GEDS 430",
+        "units": 3
+      },
+      {
+        "name": "Professional Ethics in Medical Laboratory Science",
+        "course code": "MLSC 405",
+        "units": 2
+      },
+      {
+        "name": "Medical Bacteriology/ Mycology",
+        "course code": "MLSC 417",
+        "units": 3
+      },
+      {
+        "name": "Haematology",
+        "course code": "MLSC 420",
+        "units": 3
+      },
+      {
+        "name": "Chemical Pathology",
+        "course code": "MLSC 437",
+        "units": 3
+      },
+      {
+        "name": "Clinical Laboratory Postings III, IV",
+        "course code": "MLSC 443, *444",
+        "units": 3
+      },
+      {
+        "name": "Introductory Medical Virology",
+        "course code": "MLSC 445",
+        "units": 3
+      },
+      {
+        "name": "Biostatistics",
+        "course code": "PHSC 202",
+        "units": 3
+      }
+    ],
+    "2": [
+      {
+        "name": "Introduction to Entrepreneurial Skills",
+        "course code": "GEDS 400",
+        "units": 2
+      },
+      {
+        "name": "E-Project Management and Simulation",
+        "course code": "GEDS 440",
+        "units": 2
+      },
+      {
+        "name": "Leadership Skills",
+        "course code": "GEDS 280",
+        "units": 2
+      },
+      {
+        "name": "Introduction to Cytology",
+        "course code": "MLSC 410",
+        "units": 2
+      },
+      {
+        "name": "Medical Entomology and Parasitology",
+        "course code": "MLSC 412",
+        "units": 2
+      },
+      {
+        "name": "Immunology and Immunochemistry II",
+        "course code": "MLSC 414",
+        "units": 3
+      },
+      {
+        "name": "Histopathology",
+        "course code": "MLSC 416",
+        "units": 3
+      },
+      {
+        "name": "Blood Group Serology",
+        "course code": "MLSC 428",
+        "units": 3
+      },
+      {
+        "name": "Medical Counseling Skills",
+        "course code": "MLSC 435",
+        "units": 2
+      }
+    ]
+      },
+  
+    "500": {
+      "1": [
+        {
+          "name": "Genetics and Molecular Biology",
+          "course code": "MLSC 503",
+          "units": 2
+        },
+        {
+          "name": "Clinical Laboratory Postings V, VI",
+          "course code": "MLSC 507, *508",
+          "units": 3
+        },
+        {
+          "name": "Research Methodology",
+          "course code": "MLSC 513",
+          "units": 3
+        },
+        {
+          "name": "Seminar",
+          "course code": "MLSC 515",
+          "units": 2
+        },
+        {
+          "name": "Supply Chain and Laboratory Management",
+          "course code": "MLSC 517",
+          "units": 2
+        },
+        {
+          "name": "Medical Microbiology",
+          "course code": "MLSM 503",
+          "units": 3
+        }
+      ],
+      "2": [
+        {
+          "name": "Biblical Principles in Personal and Professional Life",
+          "course code": "GEDS 420",
+          "units": 3
+        },
+        {
+          "name": "Pharmaceutical Microbiology and Microbial Genetics",
+          "course code": "MLSM 504",
+          "units": 3
+        },
+        {
+          "name": "Medical Virology",
+          "course code": "MLSM 506",
+          "units": 3
+        },
+        {
+          "name": "Medical Mycology",
+          "course code": "MLSM 507",
+          "units": 3
+        },
+        {
+          "name": "Research Project",
+          "course code": "MLSC 590",
+          "units": 6
+        },
+        {
+          "name": "Public Health Microbiology and Epidemiology",
+          "course code": "MLSM 512",
+          "units": 3
+        }
+      ]
+    }
+    
+  
+          
+          
+        
+
+    },
+     "Public Health":{
+      "year":4,
+      "name": "Public Health",
+      
+        "100": {
+          "1": [
+            {
+              "name": "Philosophy of Christian Education",
+              "course code": "GEDS 101",
+              "units": 2
+            },
+            {
+              "name": "Use of Library and Study Skills",
+              "course code": "GEDS 105",
+              "units": 2
+            },
+            {
+              "name": "Introduction to General Psychology",
+              "course code": "GEDS 107",
+              "units": 2
+            },
+            {
+              "name": "Communication in English I",
+              "course code": "GEDS 131",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Public Health Practice",
+              "course code": "PHSC 103",
+              "units": 3
+            },
+            {
+              "name": "General Biology",
+              "course code": "BIOL 101",
+              "units": 3
+            },
+            {
+              "name": "General Chemistry I",
+              "course code": "CHEM 101",
+              "units": 3
+            },
+            {
+              "name": "General Physics I",
+              "course code": "PHYS 101",
+              "units": 3
+            },
+            {
+              "name": "General Mathematics I",
+              "course code": "MATH 101",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "ICT Fundamentals and Office Productivity Management",
+              "course code": "GEDS 120",
+              "units": 2
+            },
+            {
+              "name": "Life and Teachings of Jesus the Messiah",
+              "course code": "GEDS 126",
+              "units": 3
+            },
+            {
+              "name": "Communication in English II",
+              "course code": "GEDS 132",
+              "units": 2
+            },
+            {
+              "name": "Nigerian Peoples in a Global Culture",
+              "course code": "GEDS 134",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Sociology and Anthropology",
+              "course code": "PHSC 108",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Primary Health Care",
+              "course code": "PHSC 114",
+              "units": 3
+            },
+            {
+              "name": "Health Anthropology",
+              "course code": "PHSC 116",
+              "units": 3
+            },
+            {
+              "name": "General Chemistry II",
+              "course code": "CHEM 102",
+              "units": 3
+            }
+          ]
+        },
+        
+          "200": {
+            "1": [
+              {
+                "name": "Fundamentals of Christian Faith",
+                "course code": "GEDS 215",
+                "units": 3
+              },
+              {
+                "name": "Communication in French",
+                "course code": "GEDS 200",
+                "units": 2
+              },
+              {
+                "name": "Introduction to Agriculture",
+                "course code": "GEDS 221",
+                "units": 2
+              },
+              {
+                "name": "Environmental and Sustainable Development",
+                "course code": "GEDS 260",
+                "units": 2
+              },
+              {
+                "name": "Peace and Conflict Resolution",
+                "course code": "GEDS 270",
+                "units": 2
+              },
+              {
+                "name": "Public Health Microbiology, Parasitology and Entomology I",
+                "course code": "PHSC 209",
+                "units": 3
+              },
+              {
+                "name": "Gross Anatomy I, II",
+                "course code": "ANAT 221, 224",
+                "units": 3
+              },
+              {
+                "name": "General Principles of Physiology I, II",
+                "course code": "PHGY 221, 222",
+                "units": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Leadership Skills",
+                "course code": "GEDS 280",
+                "units": 2
+              },
+              {
+                "name": "History and Philosophy of Science",
+                "course code": "GEDS 222",
+                "units": 2
+              },
+              {
+                "name": "Spreadsheet and Digital Presentations",
+                "course code": "GEDS 290",
+                "units": 2
+              },
+              {
+                "name": "Epidemiology I",
+                "course code": "PHSC 204",
+                "units": 3
+              },
+              {
+                "name": "Psychological Foundations of Health Behavior and Change Process",
+                "course code": "PHSC 208",
+                "units": 3
+              },
+              {
+                "name": "Global Health",
+                "course code": "PHSC 213",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Chemical Basis of Health",
+                "course code": "PHSC 215",
+                "units": 3
+              },
+              {
+                "name": "Biostatistics and Informatics",
+                "course code": "PHSC 218",
+                "units": 3
+              },
+              {
+                "name": "Developmental Psychology",
+                "course code": "GCYP 220",
+                "units": 2
+              }
+            ]
+          },
+          
+          "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Epidemiology II",
+                  "course code": "PHSC 301",
+                  "units": 3
+                },
+                {
+                  "name": "Health Programme Planning and Evaluation",
+                  "course code": "PHSC 305",
+                  "units": 3
+                },
+                {
+                  "name": "Fieldwork II, III (Community Health Practicum II, III, 6 hours/week)",
+                  "course code": "PHSC 309/324",
+                  "units": 2
+                },
+                {
+                  "name": "Seminars in Public Health II",
+                  "course code": "PHSC 311",
+                  "units": 1
+                },
+                {
+                  "name": "Sexuality Issues and Substance Abuse in Adolescents",
+                  "course code": "PHSC 313",
+                  "units": 2
+                },
+                {
+                  "name": "Community Mental Health",
+                  "course code": "PHSC 317",
+                  "units": 3
+                },
+                {
+                  "name": "Principles of Health Promotion/ Education and Communication",
+                  "course code": "PHSC 319",
+                  "units": 3
+                },
+                {
+                  "name": "Public Health Nutrition",
+                  "course code": "PHSC 325",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Environmental Health",
+                  "course code": "PHSC 302",
+                  "units": 3
+                },
+                {
+                  "name": "Family Health and Human Reproductive Health",
+                  "course code": "PHSC 304",
+                  "units": 3
+                },
+                {
+                  "name": "Public Health Microbiology, Parasitology and Entomology II",
+                  "course code": "PHSC 318",
+                  "units": 3
+                },
+                {
+                  "name": "School Health Education",
+                  "course code": "PHSC 330",
+                  "units": 3
+                },
+                {
+                  "name": "Occupational Health",
+                  "course code": "PHSC 312",
+                  "units": 2
+                },
+                {
+                  "name": "Seminars in Public Health III",
+                  "course code": "PHSC 326",
+                  "units": 1
+                },
+                {
+                  "name": "Research Methodology",
+                  "course code": "PHSC 316",
+                  "units": 3
+                }
+              ]
+          },
+          
+            "400": {
+              "1": [
+                {
+                  "name": "Introduction to Entrepreneurial Skills",
+                  "course code": "GEDS 400",
+                  "units": 2
+                },
+                {
+                  "name": "Biblical Principles in Personal and Professional Life",
+                  "course code": "GEDS 420",
+                  "units": 3
+                },
+                {
+                  "name": "Fieldwork IV (Community Health Practicum IV, 9 hours/week)",
+                  "course code": "PHSC 409",
+                  "units": 3
+                },
+                {
+                  "name": "Public Health Training Methods and Instructional Design",
+                  "course code": "PHSC 413",
+                  "units": 3
+                },
+                {
+                  "name": "Health Policy and Management",
+                  "course code": "PHSC 415",
+                  "units": 3
+                },
+                {
+                  "name": "Seminar IV on Contemporary Issues in Public Health",
+                  "course code": "PHSC 417",
+                  "units": 3
+                },
+                {
+                  "name": "Health Sociology",
+                  "course code": "PHSC 421",
+                  "units": 3
+                },
+                {
+                  "name": "Public Health Aspects of Substance Use and Abuse",
+                  "course code": "PHSC 423",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "E-Project Management and Simulation",
+                  "course code": "GEDS 440",
+                  "units": 2
+                },
+                {
+                  "name": "Internship",
+                  "course code": "PHSC 416",
+                  "units": 12
+                },
+                {
+                  "name": "Seminar V on Contemporary Issues in Public Health",
+                  "course code": "PHSC 418",
+                  "units": 2
+                },
+                {
+                  "name": "Research Project",
+                  "course code": "PHSC 490",
+                  "units": 6
+                }
+              ]
+            }
+                    
+                    
+                
+            
+
+    }
+    
+    
+
+}

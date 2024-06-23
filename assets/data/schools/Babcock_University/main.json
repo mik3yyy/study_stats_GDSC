@@ -1,0 +1,24 @@
+{
+    "name": "Babcock University",
+    "grading-system": 5,
+    "$schema": {
+        "A": 80,
+        "B": 60,
+        "C": 50,
+        "D": 45,
+        "E": 40,
+        "F": 0
+    },
+    "faculties": [
+        "School of Computing and Engineering Sciences",
+        "School of Education and Humanities",
+        "School of Law and Security Studies",
+        "School of Management Sciences",
+       
+        "School of Nursing",
+        "School of Public and Allied Health",
+        "School of Science and Technology",
+        "Veronica Adeleke School of Social Sciences",
+        "Benjamin S. Carson College Of Health And Medical Sciences"
+    ]
+}

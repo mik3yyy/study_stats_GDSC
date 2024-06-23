@@ -1,0 +1,1983 @@
+{
+    "name": "School of computing and engineering sience",
+    "courses": [
+        "Computer Science",
+        "Computer Information System",
+        "Computer Technology",
+        "Information Technology",
+        "Software Engineering"
+
+    ],
+    
+    "Computer Science": {
+        "year":4,
+        "name": "Computer Science",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and study skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Computer Science and Programming I",
+                  "course code": "COSC 111",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "Introductory Statistics",
+                  "course code": "STAT 101",
+                  "units": 2
+                },
+                {
+                  "name": "Configuring Clients Operating Systems",
+                  "course code": "COSC 107",
+                  "units": 1
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Computer Science and Programming II",
+                  "course code": "COSC 112",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics III",
+                  "course code": "MATH 104",
+                  "units": 3
+                },
+                {
+                  "name": "Hardware System Studies I (A+)",
+                  "course code": "COSC 108",
+                  "units": 1
+                }
+              ]
+            },
+                    
+            
+            "200": {
+                  "1": [
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environmental and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Operating System I",
+                      "course code": "COSC 203",
+                      "units": 3
+                    },
+                    {
+                      "name": "Programming in JAVA",
+                      "course code": "COSC 205",
+                      "units": 3
+                    },
+                    {
+                      "name": "Sets Logics and Algebra",
+                      "course code": "MATH 203",
+                      "units": 3
+                    },
+                    {
+                      "name": "Statistical Methods I",
+                      "course code": "STAT 201",
+                      "units": 2
+                    },
+                    {
+                      "name": "Hardware System Studies II (A+)",
+                      "course code": "COSC 209",
+                      "units": 1
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Programming in C/C++",
+                      "course code": "COSC 206",
+                      "units": 3
+                    },
+                    {
+                      "name": "Numerical Methods and Analysis I",
+                      "course code": "COSC 212",
+                      "units": 3
+                    },
+                    {
+                      "name": "Programming Techniques with VB.NET",
+                      "course code": "COSC 226",
+                      "units": 3
+                    },
+                    {
+                      "name": "Discrete Mathematics",
+                      "course code": "MATH 206",
+                      "units": 3
+                    },
+                    {
+                      "name": "Statistical Methods II",
+                      "course code": "STAT 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Fundamental of Computer Security",
+                      "course code": "COSC 222",
+                      "units": 1
+                    }
+                  ]
+            },
+                
+            "300": {
+                      "1": [
+                        {
+                          "name": "Religion and Social Ethics",
+                          "course code": "GEDS 317",
+                          "units": 3
+                        },
+                        {
+                          "name": "Leadership Skills",
+                          "course code": "GEDS 280",
+                          "units": 2
+                        },
+                        {
+                          "name": "Operating Systems II",
+                          "course code": "COSC 303",
+                          "units": 3
+                        },
+                        {
+                          "name": "Introduction to Operations Research",
+                          "course code": "COSC 309",
+                          "units": 3
+                        },
+                        {
+                          "name": "Computer Hardware",
+                          "course code": "COSC 317",
+                          "units": 2
+                        },
+                        {
+                          "name": "Research Methodology and Current Topics",
+                          "course code": "COSC 325",
+                          "units": 2
+                        },
+                        {
+                          "name": "Information Systems Analysis and Design",
+                          "course code": "COSC 327",
+                          "units": 2
+                        },
+                        {
+                          "name": "Data Communication and Computer Networks",
+                          "course code": "COSC 335",
+                          "units": 2
+                        },
+                        {
+                          "name": "Linux System Administration",
+                          "course code": "ITGY 307",
+                          "units": 3
+                        },
+                        {
+                          "name": "SQL Fundamentals",
+                          "course code": "COSC 305",
+                          "units": 1
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Introduction to Family Life Education",
+                          "course code": "GEDS 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "Algorithm and Data Structures",
+                          "course code": "COSC 302",
+                          "units": 3
+                        },
+                        {
+                          "name": "Survey of Programming Languages",
+                          "course code": "COSC 306",
+                          "units": 3
+                        },
+                        {
+                          "name": "Numerical Methods and Analysis II",
+                          "course code": "COSC 312",
+                          "units": 3
+                        },
+                        {
+                          "name": "Students Industrial Work Experience Scheme (SIWES)",
+                          "course code": "COSC 360",
+                          "units": 6
+                        },
+                        {
+                          "name": "Androids",
+                          "course code": "COSC 328",
+                          "units": 1
+                        }
+                      ]
+            },
+                    
+            "400": {
+              "1": [
+                            {
+                              "name": "Compiler Construction",
+                              "course code": "COSC 401",
+                              "units": 3
+                            },
+                            {
+                              "name": "Artificial Intelligence and Applications",
+                              "course code": "COSC 423",
+                              "units": 3
+                            },
+                            {
+                              "name": "Database System Design, Implementation and Management",
+                              "course code": "COSC 333",
+                              "units": 3
+                            },
+                            {
+                              "name": "Computer Organization and Architecture",
+                              "course code": "COSC 425",
+                              "units": 3
+                            },
+                            {
+                              "name": "Principles of Software Engineering",
+                              "course code": "SENG 400",
+                              "units": 3
+                            },
+                            {
+                              "name": "Cyber Law, Crime, Forensics and Auditing",
+                              "course code": "ITGY 410",
+                              "units": 3
+                            },
+                            {
+                              "name": "Reverse Engineering and Malware Analysis",
+                              "course code": "ITGY 400",
+                              "units": 2
+                            },
+                            {
+                              "name": "Machine Learning with Python",
+                              "course code": "COSC 427",
+                              "units": 3
+                            },
+                            {
+                              "name": "Database Admin Workshop",
+                              "course code": "COSC 409",
+                              "units": 1
+                            }
+                          ],
+                          "2": [
+                            {
+                              "name": "Information Theory and Data Communication Systems",
+                              "course code": "COSC 402",
+                              "units": 3
+                            },
+                            {
+                              "name": "Object-Oriented Programming Techniques",
+                              "course code": "COSC 424",
+                              "units": 3
+                            },
+                            {
+                              "name": "Web Design and Development",
+                              "course code": "ITGY 401",
+                              "units": 3
+                            },
+                            {
+                              "name": "Research Project",
+                              "course code": "COSC 490",
+                              "units": 6
+                            },
+                            {
+                              "name": "Internet Technologies and Web Application Development",
+                              "course code": "SENG 412",
+                              "units": 3
+                            },
+                            {
+                              "name": "Modelling and Simulations",
+                              "course code": "COSC 408",
+                              "units": 3
+                            },
+                            {
+                              "name": "Hands on Java Training",
+                              "course code": "COSC 430",
+                              "units": 1
+                            }
+                          ]
+            }
+                     
+                      
+       
+        
+    },
+    "Computer Information System": {
+        "year":4,
+        "name": "Computer Information System",
+        "100": {
+            "1": [
+              {
+                "name": "Philosophy of Christian Education",
+                "course code": "GEDS 101",
+                "units": 2
+              },
+              {
+                "name": "Use of Library and study skills",
+                "course code": "GEDS 105",
+                "units": 2
+              },
+              {
+                "name": "Introduction to General Psychology",
+                "course code": "GEDS 107",
+                "units": 2
+              },
+              {
+                "name": "Introduction to Computer Science and Programming I",
+                "course code": "COSC 111",
+                "units": 3
+              },
+              {
+                "name": "General Mathematics I",
+                "course code": "MATH 101",
+                "units": 3
+              },
+              {
+                "name": "General Physics I",
+                "course code": "PHYS 101",
+                "units": 3
+              },
+              {
+                "name": "Introductory Statistics",
+                "course code": "STAT 101",
+                "units": 2
+              },
+              {
+                "name": "Principles of Accounting I",
+                "course code": "ACC T 101",
+                "units": 3
+              },
+              {
+                "name": "Configuring Clients Operating Systems",
+                "course code": "COSC 107",
+                "units": 1
+              }
+            ],
+            "2": [
+              {
+                "name": "Health Principles",
+                "course code": "GEDS 112",
+                "units": 2
+              },
+              {
+                "name": "Life and Teachings of Jesus the Messiah",
+                "course code": "GEDS 126",
+                "units": 3
+              },
+              {
+                "name": "Communication in English I",
+                "course code": "GEDS 131",
+                "units": 2
+              },
+              {
+                "name": "Nigerian People in a Global Culture",
+                "course code": "GEDS 134",
+                "units": 2
+              },
+              {
+                "name": "Introduction to Computer Science and Programming II",
+                "course code": "COSC 112",
+                "units": 3
+              },
+              {
+                "name": "General Mathematics II",
+                "course code": "MATH 102",
+                "units": 3
+              },
+              {
+                "name": "General Physics II",
+                "course code": "PHYS 102",
+                "units": 3
+              },
+              {
+                "name": "Principles of Accounting II",
+                "course code": "ACC T 102",
+                "units": 3
+              },
+              {
+                "name": "Hardware System Studies I (A+)",
+                "course code": "COSC 108",
+                "units": 1
+              }
+            ]
+          },
+          "200": {
+            "1": [
+              {
+                "name": "Fundamentals of Christian Faith",
+                "course code": "GEDS 215",
+                "units": 3
+              },
+              {
+                "name": "Introduction to Agriculture",
+                "course code": "GEDS 221",
+                "units": 2
+              },
+              {
+                "name": "Environmental and Sustainable Development",
+                "course code": "GEDS 260",
+                "units": 2
+              },
+             
+              {
+                "name": "Operating System I",
+                "course code": "COSC 203",
+                "units": 3
+              },
+              {
+                "name": "Programming in JAVA",
+                "course code": "COSC 205",
+                "units": 3
+              },
+              {
+                "name": "Sets, Logic and Algebra",
+                "course code": "MATH 203",
+                "units": 3
+              },
+              {
+                "name": "Statistical Methods I",
+                "course code": "STAT 201",
+                "units": 2
+              },
+              {
+                "name": "Principles of Economics I",
+                "course code": "ECON 102",
+                "units": 3
+              },
+              {
+                "name": "Hardware System Studies II (A+)",
+                "course code": "COSC 209",
+                "units": 1
+              }
+            ],
+            "2": [
+              {
+                "name": "Communication in French",
+                "course code": "GEDS 200",
+                "units": 2
+              },
+              {
+                "name": "History and Philosophy of Science",
+                "course code": "GEDS 222",
+                "units": 2
+              },
+              {
+                "name": "Leadership Skills",
+                "course code": "GEDS 280",
+                "units": 2
+              },
+              {
+                "name": "Peace and Conflict Resolution",
+                "course code": "GEDS 270",
+                "units": 2
+              },
+              {
+                "name": "Programming in C/C++",
+                "course code": "COSC 206",
+                "units": 3
+              },
+              {
+                "name": "Numerical Methods and Analysis I",
+                "course code": "COSC 212",
+                "units": 3
+              },
+              {
+                "name": "Programming Techniques with VB.NET",
+                "course code": "COSC 226",
+                "units": 3
+              },
+              {
+                "name": "Principles of Economics II",
+                "course code": "ECON 102",
+                "units": 3
+              },
+              {
+                "name": "Information Systems",
+                "course code": "ITGY 212",
+                "units": 2
+              },
+              {
+                "name": "Fundamental of Computer Security",
+                "course code": "COSC 222",
+                "units": 1
+              }
+            ]
+          },
+            
+          "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Operating Systems II",
+                  "course code": "COSC 303",
+                  "units": 3
+                },
+                {
+                  "name": "Data Communication and Computer Networks",
+                  "course code": "COSC 335",
+                  "units": 2
+                },
+                {
+                  "name": "Research Methodology and Current Topics",
+                  "course code": "COSC 325",
+                  "units": 2
+                },
+                {
+                  "name": "Linux System Administration",
+                  "course code": "ITGY 307",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Operations Research",
+                  "course code": "COSC 309",
+                  "units": 3
+                },
+                {
+                  "name": "Information Systems Analysis and Design",
+                  "course code": "COSC 327",
+                  "units": 2
+                },
+                {
+                  "name": "Principles of Microeconomics",
+                  "course code": "ECON 253",
+                  "units": 3
+                },
+                {
+                  "name": "Cost Accounting I",
+                  "course code": "ACCT 203",
+                  "units": 3
+                },
+                {
+                  "name": "SQL Fundamentals",
+                  "course code": "COSC 305",
+                  "units": 1
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Algorithms and Data Structures",
+                  "course code": "COSC 302",
+                  "units": 3
+                },
+                {
+                  "name": "Numerical Methods and Analysis II",
+                  "course code": "COSC 312",
+                  "units": 3
+                },
+                {
+                  "name": "Students Industrial Work Experience Scheme (SIWES)",
+                  "course code": "COSC 360",
+                  "units": 6
+                },
+                {
+                  "name": "Principles of Macroeconomics",
+                  "course code": "ECON 254",
+                  "units": 3
+                },
+                {
+                  "name": "Cost Accounting II",
+                  "course code": "ACCT 204",
+                  "units": 3
+                },
+                {
+                  "name": "Androids",
+                  "course code": "COSC 328",
+                  "units": 1
+                }
+              ]
+            },
+            "400": {
+                "1": [
+                  {
+                    "name": "Introduction to Entrepreneurial Skills",
+                    "course code": "GEDS 400",
+                    "units": 2
+                  },
+                  {
+                    "name": "Database System Design, Implementation and Management",
+                    "course code": "COSC 333",
+                    "units": 3
+                  },
+                  {
+                    "name": "Artificial Intelligence and Applications",
+                    "course code": "COSC 423",
+                    "units": 3
+                  },
+                  {
+                    "name": "E-Commerce",
+                    "course code": "COSC 415",
+                    "units": 2
+                  },
+                  {
+                    "name": "Labour Economics and Industrial Relations",
+                    "course code": "ECON 491",
+                    "units": 3
+                  },
+                  {
+                    "name": "Cyber Law, Crime, Forensics and Auditing",
+                    "course code": "ITGY 410",
+                    "units": 3
+                  },
+                  {
+                    "name": "Reverse Engineering and Malware Analysis",
+                    "course code": "ITGY 400",
+                    "units": 2
+                  },
+                  {
+                    "name": "Machine Learning with Python",
+                    "course code": "COSC 427",
+                    "units": 3
+                  },
+                  {
+                    "name": "Database Admin Workshop",
+                    "course code": "COSC 409",
+                    "units": 1
+                  },
+                  {
+                    "name": "JAVA",
+                    "course code": "COSC 400",
+                    "units": 1
+                  }
+                ],
+                "2": [
+                  {
+                    "name": "Biblical Principles in Personal and Professional Life",
+                    "course code": "GEDS 420",
+                    "units": 3
+                  },
+                  {
+                    "name": "Information Theory and Data Communication Systems",
+                    "course code": "COSC 402",
+                    "units": 3
+                  },
+                  {
+                    "name": "Internet Technologies and Web Application Development",
+                    "course code": "SENG 412",
+                    "units": 3
+                  },
+                  {
+                    "name": "Web Design and Development",
+                    "course code": "ITGY 401",
+                    "units": 3
+                  },
+                  {
+                    "name": "Research Project",
+                    "course code": "COSC 490",
+                    "units": 6
+                  },
+                  {
+                    "name": "Principles of Software Engineering",
+                    "course code": "SENG 400",
+                    "units": 3
+                  },
+                  {
+                    "name": "Object-Oriented Programming Techniques",
+                    "course code": "COSC 424",
+                    "units": 3
+                  },
+                  {
+                    "name": "Modelling and Simulations",
+                    "course code": "COSC 408",
+                    "units": 3
+                  },
+                  {
+                    "name": "Hands on Java Training",
+                    "course code": "COSC 430",
+                    "units": 1
+                  }
+                ]
+              }
+          
+          
+    },
+    "Computer Technology": {
+        "year":4,
+        "name": "Computer Technology",
+
+      "100": {
+    "1": [
+      {
+        "name": "Philosophy of Christian Education",
+        "course code": "GEDS 101",
+        "units": 2
+      },
+      {
+        "name": "Use of Library and study skills",
+        "course code": "GEDS 105",
+        "units": 2
+      },
+      {
+        "name": "Introduction to General Psychology",
+        "course code": "GEDS 107",
+        "units": 2
+      },
+      {
+        "name": "Communication in English I",
+        "course code": "GEDS 131",
+        "units": 2
+      },
+      {
+        "name": "Introduction to Computer Science and Programming I",
+        "course code": "COSC 111",
+        "units": 3
+      },
+      {
+        "name": "General Mathematics I",
+        "course code": "MATH 101",
+        "units": 3
+      },
+      {
+        "name": "General Physics I",
+        "course code": "PHYS 101",
+        "units": 3
+      },
+      {
+        "name": "General Chemistry",
+        "course code": "CHEM 101",
+        "units": 3
+      },
+      {
+        "name": "Introductory Statistics",
+        "course code": "STAT 101",
+        "units": 2
+      },
+      {
+        "name": "Engineering Drawing",
+        "course code": "ELCT 101",
+        "units": 2
+      },
+      {
+        "name": "Configuring Clients Operating Systems",
+        "course code": "COSC 107",
+        "units": 1
+      }
+    ],
+    "2": [
+      {
+        "name": "Health Principles",
+        "course code": "GEDS 112",
+        "units": 2
+      },
+      {
+        "name": "Life and Teachings of Jesus the Messiah",
+        "course code": "GEDS 126",
+        "units": 3
+      },
+      {
+        "name": "Communication in English II",
+        "course code": "GEDS 132",
+        "units": 2
+      },
+      {
+        "name": "Nigerian People in a Global Culture",
+        "course code": "GEDS 134",
+        "units": 2
+      },
+      {
+        "name": "Introduction to Computer Science and Programming II",
+        "course code": "COSC 112",
+        "units": 3
+      },
+      {
+        "name": "General Mathematics II",
+        "course code": "MATH 102",
+        "units": 3
+      },
+      {
+        "name": "General Physics II",
+        "course code": "PHYS 102",
+        "units": 3
+      },
+      {
+        "name": "General Mathematics III",
+        "course code": "MATH 104",
+        "units": 3
+      },
+      {
+        "name": "Hardware System Studies I (A+)",
+        "course code": "COSC 108",
+        "units": 1
+      }
+    ]
+        },
+        
+            "200": {
+              "1": [
+                {
+                  "name": "Fundamentals of Christian Faith",
+                  "course code": "GEDS 215",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Agriculture",
+                  "course code": "GEDS 221",
+                  "units": 2
+                },
+                {
+                  "name": "Environmental and Sustainable Development",
+                  "course code": "GEDS 260",
+                  "units": 2
+                },
+                {
+                  "name": "Operating System I",
+                  "course code": "COSC 203",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Digital Computing",
+                  "course code": "COSC 204",
+                  "units": 3
+                },
+                {
+                  "name": "Programming in JAVA",
+                  "course code": "COSC 205",
+                  "units": 3
+                },
+                {
+                  "name": "Numerical Methods and Analysis I",
+                  "course code": "COSC 212",
+                  "units": 3
+                },
+                {
+                  "name": "Programming Techniques with VB.NET",
+                  "course code": "COSC 226",
+                  "units": 3
+                },
+                {
+                  "name": "Engineering Mathematics I",
+                  "course code": "MATH 201",
+                  "units": 3
+                },
+                {
+                  "name": "Sets, Logic and Algebra",
+                  "course code": "MATH 203",
+                  "units": 3
+                },
+                {
+                  "name": "Applied Electricity",
+                  "course code": "ELCT 201",
+                  "units": 3
+                },
+                {
+                  "name": "Hardware System Studies II (A+)",
+                  "course code": "COSC 209",
+                  "units": 1
+                }
+              ],
+              "2": [
+                {
+                  "name": "Communication in French",
+                  "course code": "GEDS 200",
+                  "units": 2
+                },
+                {
+                  "name": "History and Philosophy of Science",
+                  "course code": "GEDS 222",
+                  "units": 2
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Programming in C/C++",
+                  "course code": "COSC 206",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Electronics",
+                  "course code": "ELCT 202",
+                  "units": 3
+                },
+                {
+                  "name": "Instrumentation and Measurements",
+                  "course code": "ELCT 204",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamental of Computer Security",
+                  "course code": "COSC 222",
+                  "units": 1
+                }
+              ]
+            },
+
+  "300": {
+    "1": [
+      {
+        "name": "Religion and Social Ethics",
+        "course code": "GEDS 317",
+        "units": 3
+      },
+      {
+        "name": "Leadership Skills",
+        "course code": "GEDS 280",
+        "units": 2
+      },
+      {
+        "name": "Operating Systems II",
+        "course code": "COSC 303",
+        "units": 3
+      },
+      {
+        "name": "Computer Hardware",
+        "course code": "COSC 317",
+        "units": 2
+      },
+      {
+        "name": "Research Methodology and Current Topics",
+        "course code": "COSC 325",
+        "units": 2
+      },
+      {
+        "name": "Data Communication and Computer Networks",
+        "course code": "COSC 335",
+        "units": 2
+      },
+      {
+        "name": "Automata and Formal Theory of Computation",
+        "course code": "COSC 337",
+        "units": 3
+      },
+      {
+        "name": "Digital Electronics",
+        "course code": "ELCT 301",
+        "units": 3
+      },
+      {
+        "name": "Communication Principles",
+        "course code": "ELCT 305",
+        "units": 2
+      },
+      {
+        "name": "Engineering Mathematics II",
+        "course code": "MATH 301",
+        "units": 3
+      },
+      {
+        "name": "Configuring Windows Server",
+        "course code": "ELCT 313",
+        "units": 1
+      }
+    ],
+    "2": [
+      {
+        "name": "Introduction to Family Life Education",
+        "course code": "GEDS 312",
+        "units": 2
+      },
+      {
+        "name": "Algorithms and Data Structures",
+        "course code": "COSC 302",
+        "units": 3
+      },
+      {
+        "name": "Students Industrial Work Experience Scheme (SIWES)",
+        "course code": "COSC 360",
+        "units": 6
+      },
+      {
+        "name": "Pulse and Switching",
+        "course code": "ELCT 302",
+        "units": 3
+      },
+      {
+        "name": "Circuit Design and Testing",
+        "course code": "ELCT 304",
+        "units": 3
+      },
+      {
+        "name": "Androids",
+        "course code": "COSC 328",
+        "units": 1
+      }
+    ]
+  },
+  
+    "400": {
+        "1": [
+            {
+                "name": "Introduction to Entrepreneurial Skills",
+                "course code": "GEDS 400",
+                "units": 2
+            },
+            {
+                "name": "Compiler Construction",
+                "course code": "COSC 401",
+                "units": 3
+            },
+            {
+                "name": "Artificial Intelligence and Applications",
+                "course code": "COSC 423",
+                "units": 3
+            },
+            {
+                "name": "Computer Organization and Architecture",
+                "course code": "COSC 425",
+                "units": 3
+            },
+            {
+                "name": "Database System Design Implementation and Management",
+                "course code": "COSC 333",
+                "units": 3
+            },
+
+            {
+                "name": "Principles of Software Engineering",
+                "course code": "SENG 400",
+                "units": 3
+            },
+
+           
+            {
+                "name": "Advanced Digital Electronics",
+                "course code": "ELCT 405",
+                "units": 3
+            },
+         
+          
+            {
+                "name": "NETWORK +",
+                "course code": "ELCT 419",
+                "units": 1
+            }
+        ],
+        "2": [
+            {
+                "name": "Biblical Principles in Personal and Professional Life",
+                "course code": "GEDS 420",
+                "units": 3
+            },
+            {
+                "name": "Information Theory and Data Communication Systems",
+                "course code": "COSC 402",
+                "units": 3
+            },
+            {
+                "name": "Internet Technologies and Web Application Development",
+                "course code": "SENG 412",
+                "units": 3
+            },
+            {
+                "name": "CCNA",
+                "course code": "ELCT 410",
+                "units": 1
+            },
+            {
+                "name": "Research Project",
+                "course code": "COSC 490",
+                "units": 6
+            },
+            {
+                "name": "Signal Processing",
+                "course code": "ELCT 406",
+                "units": 3
+            },
+            {
+                "name": "Web Design and Development",
+                "course code": "ITGY 401",
+                "units": 3
+            },
+            {
+                "name": "Microprocessor Applications",
+                "course code": "ELCT 404",
+                "units": 3
+            }
+        ]
+    }
+    
+        
+                         
+
+    },
+    "Information Technology": {
+        "year":4,
+        "name": "Information Technology",
+         "100": {
+        "1": [
+          {
+            "name": "Philosophy of Christian Education",
+            "course code": "GEDS 101",
+            "units": 2
+          },
+          {
+            "name": "Use of Library and study skills",
+            "course code": "GEDS 105",
+            "units": 2
+          },
+          {
+            "name": "Introduction to General Psychology",
+            "course code": "GEDS 107",
+            "units": 2
+          },
+          {
+            "name": "Communication in English I",
+            "course code": "GEDS 131",
+            "units": 2
+          },
+          {
+            "name": "Introduction to Computer Science and Programming I",
+            "course code": "COSC 111",
+            "units": 3
+          },
+          {
+            "name": "General Mathematics I",
+            "course code": "MATH 101",
+            "units": 3
+          },
+          {
+            "name": "General Physics I",
+            "course code": "PHYS 101",
+            "units": 3
+          },
+          {
+            "name": "General Chemistry",
+            "course code": "CHEM 101",
+            "units": 3
+          },
+          {
+            "name": "Introductory Statistics",
+            "course code": "STAT 101",
+            "units": 2
+          },
+          {
+            "name": "Configuring Client Operating Systems",
+            "course code": "COSC 107",
+            "units": 1
+          }
+        ],
+        "2": [
+          {
+            "name": "Health Principles",
+            "course code": "GEDS 112",
+            "units": 2
+          },
+          {
+            "name": "Life and Teaching of Jesus the Messiah",
+            "course code": "GEDS 126",
+            "units": 3
+          },
+          {
+            "name": "Communication in English II",
+            "course code": "GEDS 132",
+            "units": 2
+          },
+          {
+            "name": "Nigerian People in a Global Culture",
+            "course code": "GEDS 134",
+            "units": 2
+          },
+          {
+            "name": "Introduction to Computer Science and Programming II",
+            "course code": "COSC 112",
+            "units": 3
+          },
+          {
+            "name": "General Mathematics II",
+            "course code": "MATH 102",
+            "units": 3
+          },
+          {
+            "name": "General Physics II",
+            "course code": "PHYS 102",
+            "units": 3
+          },
+          {
+            "name": "Hardware System Studies I (A+)",
+            "course code": "COSC 108",
+            "units": 1
+          }
+        ]
+        },
+        
+        "200": {
+              "1": [
+                {
+                  "name": "Fundamentals of Christian Faith",
+                  "course code": "GEDS 215",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Agriculture",
+                  "course code": "GEDS 221",
+                  "units": 2
+                },
+                {
+                  "name": "Environmental and Sustainable Development",
+                  "course code": "GEDS 260",
+                  "units": 2
+                },
+                {
+                  "name": "Operating System I",
+                  "course code": "COSC 203",
+                  "units": 3
+                },
+                {
+                  "name": "Programming in JAVA",
+                  "course code": "COSC 205",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamentals of Software Engineering",
+                  "course code": "SENG 201",
+                  "units": 3
+                },
+                {
+                  "name": "Sets, Logic and Algebra",
+                  "course code": "MATH 203",
+                  "units": 3
+                },
+                {
+                  "name": "Principles of Economics I",
+                  "course code": "ECON 101",
+                  "units": 3
+                },
+                {
+                  "name": "Hardware System Studies II (A+)",
+                  "course code": "COSC 209",
+                  "units": 1
+                }
+              ],
+              "2": [
+                {
+                  "name": "Communication in French",
+                  "course code": "GEDS 200",
+                  "units": 2
+                },
+                {
+                  "name": "History and Philosophy of Science",
+                  "course code": "GEDS 222",
+                  "units": 2
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Fundamentals of Information Technology",
+                  "course code": "ITGY 202",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Web Technology and Development",
+                  "course code": "SENG 102",
+                  "units": 3
+                },
+                {
+                  "name": "Information Technology in Business",
+                  "course code": "ITGY 204",
+                  "units": 3
+                },
+                {
+                  "name": "System Analysis and Design for IT",
+                  "course code": "ITGY 206",
+                  "units": 3
+                },
+                {
+                  "name": "Programming in C/C++",
+                  "course code": "COSC 206",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamentals of Computer Security",
+                  "course code": "COSC 222",
+                  "units": 1
+                }
+              ]
+            },
+            
+         "300": {
+                  "1": [
+                    {
+                      "name": "Religion and Social Ethics",
+                      "course code": "GEDS 317",
+                      "units": 3
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Mobile Application Development",
+                      "course code": "ITGY 321",
+                      "units": 2
+                    },
+                    {
+                      "name": "Computer Organization and Assembly Language",
+                      "course code": "COSC 323",
+                      "units": 3
+                    },
+                    {
+                      "name": "Linux System Administration",
+                      "course code": "ITGY 307",
+                      "units": 3
+                    },
+                    {
+                        "name": "Information Defence Technologies",
+                        "course code": "ITGY 317",
+                        "units": 3
+                      },
+                      {
+                        "name": "SQL Fundamentals",
+                        "course code": "COSC 305",
+                        "units": 1
+                      }
+                  ],
+                  "2": [
+                    {
+                      "name": "Introduction to Family Life Education",
+                      "course code": "GEDS 312",
+                      "units": 2
+                    },
+                    {
+                      "name": "Algorithms and Data Structures",
+                      "course code": "COSC 302",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Methodology in IT",
+                      "course code": "ITGY 302",
+                      "units": 3
+                    },
+                    {
+                      "name": "Student Industrial Work Experience Scheme (SIWES)",
+                      "course code": "ITGY 360",
+                      "units": 6
+                    },
+                    {
+                      "name": "Web Server Administration",
+                      "course code": "ITGY 303",
+                      "units": 3
+                    },
+                    {
+                      "name": "Web Design Aesthetics",
+                      "course code": "ITGY 305",
+                      "units": 3
+                    },
+                    {
+                      "name": "Database Programming",
+                      "course code": "ITGY 323",
+                      "units": 3
+                    },
+                    {
+                      "name": "Program Design and Data Structures",
+                      "course code": "ITGY 309",
+                      "units": 3
+                    },
+                    {
+                      "name": "Network Security I",
+                      "course code": "ITGY 311",
+                      "units": 3
+                    },
+                    {
+                      "name": "Network Servers and Infrastructures",
+                      "course code": "ITGY 313",
+                      "units": 3
+                    },
+                    {
+                      "name": "Penetration Testing and Ethical Hacking",
+                      "course code": "ITGY 315",
+                      "units": 3
+                    },
+                    {
+                        "name": "Androids",
+                        "course code": "COSC 328",
+                        "units": 1
+                      }
+                  ]
+        },
+                
+        "400": {
+                      "1": [
+                        {
+                          "name": "IT Project Development and Management",
+                          "course code": "ITGY 312",
+                          "units": 3
+                        },
+                        {
+                          "name": "Data Analysis",
+                          "course code": "ITGY 403",
+                          "units": 3
+                        },
+                        {
+                          "name": "Mobile and Pervasive Computing",
+                          "course code": "ITGY 405",
+                          "units": 3
+                        },
+                        {
+                          "name": "Enterprise Architecture",
+                          "course code": "ITGY 407",
+                          "units": 3
+                        },
+                        {
+                          "name": "Special Topics in Information Technology",
+                          "course code": "ITGY 421",
+                          "units": 3
+                        },
+                        {
+                          "name": "Social and Professional Issues in IT",
+                          "course code": "ITGY 409",
+                          "units": 3
+                        },
+                        {
+                          "name": "Mobile Development",
+                          "course code": "ITGY 411",
+                          "units": 3
+                        },
+                        {
+                            "name": "Computer Crime, Forensics, and Auditing",
+                            "course code": "ITGY 417",
+                            "units": 3
+                          },
+                        {
+                          "name": "Web Development Using Content Management Systems",
+                          "course code": "ITGY404",
+                          "units": 3
+                        },
+                        {
+                            "name": "Database Admin Workshop",
+                            "course code": "COSC 409",
+                            "units": 1
+                          }
+                      ],
+                      "2": [
+                        {
+                          "name": "Introduction to Entrepreneurial Skills",
+                          "course code": "GEDS 400",
+                          "units": 2
+                        },
+                        {
+                          "name": "Biblical Principles in Personal and Professional Life",
+                          "course code": "GEDS 420",
+                          "units": 3
+                        },
+                        {
+                          "name": "Applied Networks and Security",
+                          "course code": "ITGY 402",
+                          "units": 3
+                        },
+                        {
+                          "name": "Research Project (IT)",
+                          "course code": "ITGY 490",
+                          "units": 6
+                        },
+                        {
+                          "name": "Database Administration",
+                          "course code": "ITGY 413",
+                          "units": 3
+                        },
+                        {
+                          "name": "Data and Application Security",
+                          "course code": "ITGY 406",
+                          "units": 3
+                        },
+                        {
+                          "name": "Network Security II",
+                          "course code": "ITGY 415",
+                          "units": 3
+                        },
+                        {
+                            "name": "Information Storage and Management Technologies",
+                            "course code": "ITGY 410",
+                            "units": 3
+                          },
+                        {
+                          "name": "Wireless Communications and Networking",
+                          "course code": "ITGY 408",
+                          "units": 3
+                        },
+                        {
+                            "name": "Hands on JAVA Training",
+                            "course code": "COSC 430",
+                            "units": 1
+                          }
+                      ]
+        }
+                  
+                  
+                              
+
+    },
+    "Software Engineering": {
+        "year":4,
+        "name": "Software Engineering",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Computer Science and Programming I",
+                  "course code": "COSC 111",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                },
+                {
+                  "name": "Introductory Statistics",
+                  "course code": "STAT 101",
+                  "units": 2
+                },
+                {
+                  "name": "Configuring Clients Operating Systems",
+                  "course code": "COSC 107",
+                  "units": 1
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in A Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Computer Science and Programming II",
+                  "course code": "COSC 112",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                },
+                {
+                  "name": "Hardware System Studies I (A+)",
+                  "course code": "COSC 108",
+                  "units": 1
+                }
+              ]
+             
+            },
+            
+            "200": {
+                  "1": [
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environmental and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Software Engineering",
+                      "course code": "SENG 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "Software Evolution and Maintenance",
+                      "course code": "SENG 203",
+                      "units": 3
+                    },
+                    {
+                      "name": "Operating System I",
+                      "course code": "COSC 203",
+                      "units": 3
+                    },
+                    {
+                      "name": "Programming in JAVA",
+                      "course code": "COSC 205",
+                      "units": 3
+                    },
+                    {
+                      "name": "Accounting for Software Engineering",
+                      "course code": "ACCT 219",
+                      "units": 3
+                    },
+                    {
+                      "name": "Hardware Systems Studies II(A+)",
+                      "course code": "COSC 209",
+                      "units": 1
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Model-Based Software Engineering and Embedded Systems",
+                      "course code": "SENG 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Software Security Engineering",
+                      "course code": "SENG 204",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Professional Ethics and Practice",
+                      "course code": "SENG 206",
+                      "units": 1
+                    },
+                    {
+                      "name": "Software Engineering Economics",
+                      "course code": "SENG 208",
+                      "units": 3
+                    },
+                    {
+                      "name": "Programming Techniques with VB.NET",
+                      "course code": "COSC 226",
+                      "units": 3
+                    },
+                    {
+                      "name": "Discrete Mathematics",
+                      "course code": "MATH 206",
+                      "units": 3
+                    },
+                    {
+                      "name": "Fundamentals of Computer Security",
+                      "course code": "COSC 222",
+                      "units": 1
+                    }
+                  ]
+                 
+            },
+                
+            "300": {
+                      "1": [
+                        {
+                          "name": "Religion and Social Ethics",
+                          "course code": "GEDS 317",
+                          "units": 3
+                        },
+                        {
+                          "name": "Leadership Skills",
+                          "course code": "GEDS 280",
+                          "units": 2
+                        },
+                        {
+                          "name": "Introduction to Big Data Engineering",
+                          "course code": "SENG 303",
+                          "units": 3
+                        },
+                        {
+                          "name": "Software Architecture and Design",
+                          "course code": "SENG 307",
+                          "units": 3
+                        },
+                        {
+                          "name": "Computer Organization and Assembly Language",
+                          "course code": "COSC 323",
+                          "units": 3
+                        },
+                        {
+                          "name": "Algorithms and Data Structures",
+                          "course code": "COSC 302",
+                          "units": 3
+                        },
+                        {
+                          "name": "Linux System Administration",
+                          "course code": "ITGY 307",
+                          "units": 3
+                        },
+                        {
+                          "name": "Distributed Systems and the Internet",
+                          "course code": "SENG 309",
+                          "units": 2
+                        },
+                        {
+                          "name": "Data Communication and Computer Networks",
+                          "course code": "COSC 335",
+                          "units": 2
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Introduction to Family Life Education",
+                          "course code": "GEDS 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "Object Oriented Software Development",
+                          "course code": "SENG 302",
+                          "units": 3
+                        },
+                        {
+                          "name": "Software Requirements Engineering and Construction",
+                          "course code": "SENG 304",
+                          "units": 3
+                        },
+                        {
+                          "name": "Student Industrial Work Experience (SIWES)",
+                          "course code": "SENG 360",
+                          "units": 6
+                        },
+                        {
+                          "name": "Introduction to Operations Research",
+                          "course code": "COSC 309",
+                          "units": 3
+                        },
+                        {
+                          "name": "Database Systems Design, Implementation and Management",
+                          "course code": "COSC 333",
+                          "units": 3
+                        }
+                      ]
+             },
+             
+            "400": {
+                  "1": [
+                    {
+                      "name": "Mobile Applications Design and Developments",
+                      "course code": "SENG 401",
+                      "units": 3
+                    },
+                    {
+                      "name": "Software Project Management",
+                      "course code": "SENG 405",
+                      "units": 3
+                    },
+                   
+                    {
+                      "name": "Software Measurement and Metrics",
+                      "course code": "SENG 407",
+                      "units": 3
+                    },
+                    {
+                      "name": "Network Security and Software Development",
+                      "course code": "SENG 409",
+                      "units": 3
+                    },
+                    {
+                      "name": "Open Source Systems Development",
+                      "course code": "SENG 411",
+                      "units": 3
+                    },
+                    {
+                      "name": "Artificial Intelligence and Applications",
+                      "course code": "COSC 423",
+                      "units": 3
+                    },
+                    {
+                      "name": "Current Trends in Software Engineering",
+                      "course code": "SENG 413",
+                      "units": 2
+                    },
+                    
+                    {
+                      "name": "Reverse Engineering and Malware Analysis",
+                      "course code": "ITGY 400",
+                      "units": 2
+                    },
+                    {
+                        "name": "Database Admin Workshop",
+                        "course code": "COSC 409",
+                        "units": 1
+                      }
+                  ],
+                  "2": [
+                    {
+                        "name": "Modelling and Simulations",
+                        "course code": "COSC 408",
+                        "units": 3
+                      },
+                    {
+                      "name": "Software Quality Engineering and Testing",
+                      "course code": "SENG 402",
+                      "units": 3
+                    },
+                    {
+                      "name": "Formal Methods Specifications in Software Engineering",
+                      "course code": "SENG 406",
+                      "units": 3
+                    },
+                    {
+                      "name": "Human Computer Interaction and Emerging Technologies",
+                      "course code": "SENG 404",
+                      "units": 3
+                    },
+                    {
+                      "name": "Analysis, Design and Modelling of Real-Time Systems",
+                      "course code": "SENG 408",
+                      "units": 2
+                    },
+                    {
+                      "name": "Cloud Computing Technologies",
+                      "course code": "SENG 414",
+                      "units": 2
+                    },
+                    {
+                      "name": "Internet Technologies and Web Applications Development",
+                      "course code": "SENG 412",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Project",
+                      "course code": "SENG 490",
+                      "units": 6
+                    },
+                  
+                    {
+                      "name": "Hands-On-JAVA training",
+                      "course code": "COSC 430",
+                      "units": 1
+                    }
+                  ]
+               
+            }
+                            
+
+                                    
+              
+              
+                    
+    }
+
+    
+}

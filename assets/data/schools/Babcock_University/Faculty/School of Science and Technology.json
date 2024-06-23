@@ -1,0 +1,2473 @@
+{
+    "name": "School of Science and Technology",
+    "courses": [
+        "Agriculture",
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Physics",
+        "Microbiology"
+      
+
+
+   
+
+    ],
+    "Agriculture":{
+        "year":5,
+        "name": "Agriculture",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "Nigeria People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Biology I",
+                  "course code": "BIOL 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "General Chemistry II",
+                  "course code": "CHEM 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Biology II",
+                  "course code": "BIOL 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                }
+              ]
+            },
+            
+            "200": {
+                  "1": [
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Environment and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Principles of General Agriculture",
+                      "course code": "AGRY 201",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Soil Science",
+                      "course code": "AGRY 203",
+                      "units": 2
+                    },
+                    {
+                      "name": "Agricultural Botany",
+                      "course code": "AGRY 204",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Forestry and wildlife",
+                      "course code": "AGRY 205",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Agricultural Economics",
+                      "course code": "AGRE 201",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Animal Husbandry",
+                      "course code": "ANSC 201",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentation",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Agricultural Microbiology",
+                      "course code": "AGRY 202",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Agricultural Mechanization",
+                      "course code": "AGRY 207",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Agricultural Climatology and Geographic Information System",
+                      "course code": "AGRY 208",
+                      "units": 3
+                    },
+                    {
+                      "name": "Essentials of Food Security",
+                      "course code": "AGRE 202",
+                      "units": 2
+                    },
+                    {
+                      "name": "Statistics for Agriculture and Bio-sciences",
+                      "course code": "AGRI 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Agricultural Biochemistry",
+                      "course code": "ANSC 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Principles of Animal Nutrition",
+                      "course code": "ANSC 203",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Fisheries",
+                      "course code": "ANSC 205",
+                      "units": 2
+                    },
+                    {
+                      "name": "General and Applied Nutrition",
+                      "course code": "NUDT 202",
+                      "units": 2
+                    }
+                  ]
+            },
+                
+            "300": {
+                      "1": [
+                        {
+                          "name": "E-Customer Relationship Management",
+                          "course code": "GEDS 310",
+                          "units": 2
+                        },
+                        {
+                          "name": "Religion and Social Ethics",
+                          "course code": "GEDS 317",
+                          "units": 3
+                        },
+                        {
+                          "name": "Weed Science, Pasture and Forage Management",
+                          "course code": "AGRI 341",
+                          "units": 3
+                        },
+                        {
+                          "name": "Physiology of Crop Growth and Yield",
+                          "course code": "AGRY 303",
+                          "units": 2
+                        },
+                        {
+                          "name": "Introduction to Agricultural Production and Environmental Economics",
+                          "course code": "AGRE 305",
+                          "units": 2
+                        },
+                        {
+                          "name": "Introduction to Farm Management, Finance and Accounting",
+                          "course code": "AGRE 307",
+                          "units": 2
+                        },
+                        {
+                          "name": "Introduction to Microeconomics in Agriculture",
+                          "course code": "AGRE 311",
+                          "units": 2
+                        },
+                        {
+                          "name": "Poultry Production and Management",
+                          "course code": "ANSC 303",
+                          "units": 2
+                        },
+                        {
+                          "name": "Management of Ruminant Animals",
+                          "course code": "ANSC 311",
+                          "units": 3
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Introduction to Family Life Education",
+                          "course code": "GEDS 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "Soil Chemistry",
+                          "course code": "AGRI 304",
+                          "units": 2
+                        },
+                        {
+                          "name": "Plant Pathology",
+                          "course code": "AGRI 308",
+                          "units": 2
+                        },
+                        {
+                          "name": "Genetics and Crop Breeding",
+                          "course code": "AGRI 332",
+                          "units": 3
+                        },
+                        {
+                          "name": "Economic Entomology",
+                          "course code": "AGRY 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "Workshop Practice",
+                          "course code": "AGRY 314",
+                          "units": 2
+                        },
+                        {
+                          "name": "Agricultural Machinery and Mechanization",
+                          "course code": "AGRY 318",
+                          "units": 3
+                        },
+                        {
+                          "name": "Introduction to Rural Sociology",
+                          "course code": "AGRE 304",
+                          "units": 2
+                        },
+                        {
+                          "name": "Introduction to Macroeconomics in Agriculture",
+                          "course code": "AGRE 302",
+                          "units": 2
+                        },
+                        {
+                          "name": "Introduction to Agricultural Extension",
+                          "course code": "AGRE 303",
+                          "units": 2
+                        },
+                        {
+                          "name": "Micro-Computer Application in Agriculture",
+                          "course code": "AGRE 308",
+                          "units": 2
+                        },
+                        {
+                          "name": "Feeds and Feeding",
+                          "course code": "ANSC 304",
+                          "units": 2
+                        }
+                      ]
+             },
+
+            "400": {
+                  "1": [
+                    {
+                      "name": "Introduction to Entrepreneurial Skills",
+                      "course code": "GEDS 400",
+                      "units": 2
+                    },
+                    {
+                      "name": "Harvest and Post Harvest Technology",
+                      "course code": "AGRY 407",
+                      "units": 2
+                    },
+                    {
+                      "name": "Elements of Land and Water Management",
+                      "course code": "AGRY 409",
+                      "units": 2
+                    },
+                    {
+                      "name": "Principles of Field and Plantation Crops Production",
+                      "course code": "AGRY 411",
+                      "units": 2
+                    },
+                    {
+                      "name": "Agribusiness Management",
+                      "course code": "AGRE 400",
+                      "units": 2
+                    },
+                    {
+                      "name": "Programme Planning in Agricultural Extension",
+                      "course code": "AGRE 403",
+                      "units": 2
+                    },
+                    {
+                      "name": "Essentials of Ruminant Animal Production",
+                      "course code": "ANSC 405",
+                      "units": 3
+                    },
+                    {
+                      "name": "Principles of Aquaculture and Microlivestock Production",
+                      "course code": "ANSC 407",
+                      "units": 2
+                    },
+                    {
+                      "name": "Soil Fertility and Plant Nutrition",
+                      "course code": "AGRI 421",
+                      "units": 2
+                    },
+                    {
+                      "name": "Statistical Methods and Field Experimentation",
+                      "course code": "AGRI 425",
+                      "units": 2
+                    },
+                    {
+                      "name": "Pesticides and Application",
+                      "course code": "AGRI 427",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Character Formation and Spiritual Growth",
+                      "course code": "GEDS 430",
+                      "units": 3
+                    },
+                    {
+                      "name": "E-Project Management and Simulation",
+                      "course code": "GEDS 440",
+                      "units": 2
+                    },
+                    {
+                      "name": "Field Practical Training I",
+                      "course code": "AGRI 490",
+                      "units": 20
+                    }
+                  ]
+                },
+                
+            "500": {
+                      "1": [
+                        {
+                          "name": "Biblical Principles in Personal and Professional Life",
+                          "course code": "GEDS 420",
+                          "units": 3
+                        },
+                        {
+                          "name": "Field Practical Training II",
+                          "course code": "AGRI 500",
+                          "units": 5
+                        },
+                        {
+                          "name": "Monogastric and Ruminant Animal Nutrition",
+                          "course code": "ANSC 511",
+                          "units": 3
+                        },
+                        {
+                          "name": "Biotechnology Applications in Agriculture",
+                          "course code": "ANSC 505",
+                          "units": 2
+                        },
+                        {
+                          "name": "Animal Experimentation and Research Techniques",
+                          "course code": "ANSC 507",
+                          "units": 2
+                        },
+                        {
+                          "name": "Seminar",
+                          "course code": "ANSC 513",
+                          "units": 1
+                        },
+                        {
+                          "name": "Hatchery Technologies and Management",
+                          "course code": "ANSC 515",
+                          "units": 2
+                        },
+                        {
+                          "name": "Agricultural Project Planning and Implementation",
+                          "course code": "AGRE 505",
+                          "units": 3
+                        },
+                        {
+                          "name": "Farm Management and Accounting",
+                          "course code": "AGRE 509",
+                          "units": 3
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Animal Breeding Methods and Livestock Improvement",
+                          "course code": "ANSC 506",
+                          "units": 3
+                        },
+                        {
+                          "name": "Bioclimatology of Farm Animals",
+                          "course code": "ANSC 508",
+                          "units": 2
+                        },
+                        {
+                          "name": "Animal Products and Processing",
+                          "course code": "ANSC 510",
+                          "units": 2
+                        },
+                        {
+                          "name": "Reproductive Physiology and Artificial Insemination",
+                          "course code": "ANSC 512",
+                          "units": 2
+                        },
+                        {
+                          "name": "Animal Health and Diseases",
+                          "course code": "ANSC 514",
+                          "units": 2
+                        },
+                        {
+                          "name": "Feed Manufacturing and Feed Milling",
+                          "course code": "ANSC 517",
+                          "units": 2
+                        },
+                        {
+                          "name": "Pasture and Forage Management",
+                          "course code": "AGRY 504",
+                          "units": 2
+                        },
+                        {
+                          "name": "Research Project",
+                          "course code": "AGRI 599",
+                          "units": 6
+                        }
+                      ]
+                    }
+                                    
+                            
+                                    
+                          
+                    
+
+    },
+    "Biology":{
+        "year":4,
+        "name": "Biology",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology I",
+                  "course code": "BIOL 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology II",
+                  "course code": "BIOL 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry II",
+                  "course code": "CHEM 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                }
+              ]
+            },
+            
+             "200": {
+                  "1": [
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Genetics I",
+                      "course code": "BIOL 201",
+                      "units": 2
+                    },
+                    {
+                      "name": "Biological Techniques",
+                      "course code": "BIOL 214",
+                      "units": 3
+                    },
+                    {
+                      "name": "Cell and Developmental Biology",
+                      "course code": "BIOL 206",
+                      "units": 2
+                    },
+                    {
+                      "name": "Foundations of Biochemistry I",
+                      "course code": "BCHM 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "Plant Diversity I (Seedless Plants)",
+                      "course code": "BOTA 213",
+                      "units": 3
+                    },
+                    {
+                      "name": "Organic Chemistry I",
+                      "course code": "CHEM 213",
+                      "units": 3
+                    },
+                    {
+                      "name": "Animal Diversity I",
+                      "course code": "ZOOL 214",
+                      "units": 3
+                    },
+                    {
+                      "name": "Cell Physiology",
+                      "course code": "BIOL 211",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environment and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentation",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Ecology I",
+                      "course code": "BIOL 208",
+                      "units": 2
+                    },
+                    {
+                      "name": "Plant and Animal Physiology I",
+                      "course code": "BIOL 220",
+                      "units": 2
+                    },
+                    {
+                      "name": "Plant Diversity II (Seed Plants)",
+                      "course code": "BOTA 214",
+                      "units": 3
+                    },
+                    {
+                      "name": "Biostatistics",
+                      "course code": "STAT 204",
+                      "units": 2
+                    },
+                    {
+                      "name": "Foundations of Biochemistry II",
+                      "course code": "BCHM 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Analytical Chemistry",
+                      "course code": "CHEM 244",
+                      "units": 3
+                    },
+                    {
+                      "name": "Organic Chemistry II",
+                      "course code": "CHEM 214",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Microbiology I",
+                      "course code": "MBIO 201",
+                      "units": 3
+                    }
+                  ]
+            },
+            
+            "300": {
+                  "1": [
+                    {
+                      "name": "Religion and Social Ethics",
+                      "course code": "GEDS 317",
+                      "units": 3
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Genetics II",
+                      "course code": "BIOL 301",
+                      "units": 2
+                    },
+                    {
+                      "name": "General Cytology",
+                      "course code": "BIOL 302",
+                      "units": 2
+                    },
+                    {
+                      "name": "Molecular Biology",
+                      "course code": "BIOL 307",
+                      "units": 3
+                    },
+                    {
+                      "name": "Plant and Animal Physiology II",
+                      "course code": "BIOL 308",
+                      "units": 3
+                    },
+                    {
+                      "name": "Plant Taxonomy/Flowering Plants Systematics",
+                      "course code": "BOTA 311",
+                      "units": 3
+                    },
+                    {
+                      "name": "Biotechnology (Animal Microtechniques & Transgenics)",
+                      "course code": "MBBT 307",
+                      "units": 3
+                    },
+                    {
+                      "name": "Evolution I",
+                      "course code": "BIOL 303",
+                      "units": 3
+                    },
+                    {
+                      "name": "Microbial Technology and Applied Microbiology",
+                      "course code": "MBBT 309",
+                      "units": 3
+                    },
+                    {
+                      "name": "Economic Botany",
+                      "course code": "BOTA 308",
+                      "units": 2
+                    },
+                    {
+                      "name": "Food Microbiology I",
+                      "course code": "MBIO 311",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Introduction to Family Life Education",
+                      "course code": "GEDS 312",
+                      "units": 2
+                    },
+                    {
+                      "name": "E-Customer Relationship Management",
+                      "course code": "GEDS 310",
+                      "units": 2
+                    },
+                    {
+                      "name": "Student Industrial Work Experience (SIWES)",
+                      "course code": "BIOL 360",
+                      "units": 3
+                    },
+                    {
+                      "name": "Ecology II",
+                      "course code": "BIOL 304",
+                      "units": 3
+                    },
+                    {
+                      "name": "Toxicology",
+                      "course code": "BIOL 306",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introductory Nematology",
+                      "course code": "BIOL 309",
+                      "units": 2
+                    },
+                    {
+                      "name": "Animal Diversity II (Chordates)",
+                      "course code": "ZOOL 301",
+                      "units": 3
+                    },
+                    {
+                      "name": "Entomology",
+                      "course code": "ZOOL 302",
+                      "units": 2
+                    },
+                    {
+                      "name": "Parasitology I",
+                      "course code": "ZOOL 314",
+                      "units": 3
+                    },
+                    {
+                      "name": "Ecology of Microbes",
+                      "course code": "MBIO 316",
+                      "units": 3
+                    },
+                    {
+                      "name": "Fundamentals of Virology",
+                      "course code": "MBIO 318",
+                      "units": 3
+                    },
+                    {
+                      "name": "Microbiology and the Environment",
+                      "course code": "MBIO 320",
+                      "units": 3
+                    }
+                  ]
+                },
+                
+             "400": {
+                      "1": [
+                        {
+                          "name": "Introduction to Entrepreneurial Skills",
+                          "course code": "GEDS 400",
+                          "units": 2
+                        },
+                        {
+                          "name": "Genetics III",
+                          "course code": "BIOL 401",
+                          "units": 2
+                        },
+                        {
+                          "name": "Systematic Biology",
+                          "course code": "BIOL 403",
+                          "units": 3
+                        },
+                        {
+                          "name": "Cytogenetics",
+                          "course code": "BIOL 406",
+                          "units": 2
+                        },
+                        {
+                          "name": "Soil Chemistry and Ecology",
+                          "course code": "BIOL 419",
+                          "units": 3
+                        },
+                        {
+                          "name": "Advanced Biological Techniques",
+                          "course code": "BIOL 405",
+                          "units": 3
+                        },
+                        {
+                          "name": "Plant Science and Environmental Pollution",
+                          "course code": "BOTA 411",
+                          "units": 2
+                        },
+                        {
+                          "name": "Bioinformatics and Sequence Analysis",
+                          "course code": "MBBT 425",
+                          "units": 2
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Biblical Principles in Personal and Professional Life",
+                          "course code": "GEDS 420",
+                          "units": 3
+                        },
+                        {
+                          "name": "E-Project Management and Simulation",
+                          "course code": "GEDS 410",
+                          "units": 2
+                        },
+                        {
+                          "name": "Developmental Biology",
+                          "course code": "BIOL 402",
+                          "units": 3
+                        },
+                        {
+                          "name": "Research Project",
+                          "course code": "BIOL 490",
+                          "units": 6
+                        },
+                        {
+                          "name": "Human Genetics and Genomics",
+                          "course code": "BIOL 408",
+                          "units": 3
+                        },
+                        {
+                          "name": "Population Ecology and Biogeography",
+                          "course code": "BIOL 404",
+                          "units": 3
+                        },
+                        {
+                          "name": "Forensic Biology",
+                          "course code": "BIOL 415",
+                          "units": 3
+                        },
+                        {
+                          "name": "Marine Biology",
+                          "course code": "BIOL 416",
+                          "units": 2
+                        },
+                        {
+                          "name": "Hydrobiology",
+                          "course code": "BIOL 418",
+                          "units": 2
+                        },
+                        {
+                          "name": "Comparative Virology",
+                          "course code": "BIOL 420",
+                          "units": 2
+                        },
+                        {
+                          "name": "Parasitology II",
+                          "course code": "ZOOL 414",
+                          "units": 3
+                        },
+                        {
+                          "name": "Industrial Microbiology",
+                          "course code": "MBIO 402",
+                          "units": 3
+                        }
+                      ]
+                    }
+                                    
+                            
+                            
+                    
+    },
+    "Chemistry":{
+        "year":4,
+        "name": "Chemistry",
+        
+            "100": {
+
+              "1": [
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Biology I",
+                  "course code": "BIOL 101",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Computer Science and Programming I",
+                  "course code": "COSC 111",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "General Chemistry II",
+                  "course code": "CHEM 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Biology II",
+                  "course code": "BIOL 102",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Computer Science and Programming II",
+                  "course code": "COSC 112",
+                  "units": 3
+                }
+              ]
+            },
+            
+                "200": {
+                  "1": [
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environment and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Inorganic Chemistry I",
+                      "course code": "CHEM 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "Quantitative Chemistry",
+                      "course code": "CHEM 206",
+                      "units": 3
+                    },
+                    {
+                      "name": "Organic Chemistry I",
+                      "course code": "CHEM 213",
+                      "units": 3
+                    },
+                    {
+                      "name": "Mathematical Methods I",
+                      "course code": "MATH 221",
+                      "units": 3
+                    },
+                    {
+                      "name": "Genetics I",
+                      "course code": "BIOL 201",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentations",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Organic Chemistry II",
+                      "course code": "CHEM 214",
+                      "units": 3
+                    },
+                    {
+                      "name": "Electrochemistry",
+                      "course code": "CHEM 224",
+                      "units": 3
+                    },
+                    {
+                      "name": "Physical Chemistry I",
+                      "course code": "CHEM 233",
+                      "units": 3
+                    },
+                    {
+                      "name": "Analytical Chemistry",
+                      "course code": "CHEM 244",
+                      "units": 3
+                    },
+                    {
+                      "name": "Ordinary Differential Equations I",
+                      "course code": "MATH 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Biophysical Chemistry",
+                      "course code": "ICHM 204",
+                      "units": 3
+                    }
+                  ]
+                },
+                
+       "300": {
+                      "1": [
+                        {
+                          "name": "E-Customer Relationship Management",
+                          "course code": "GEDS 310",
+                          "units": 2
+                        },
+                        {
+                          "name": "Religion and Social Ethics",
+                          "course code": "GEDS 317",
+                          "units": 3
+                        },
+                        {
+                          "name": "Soil Chemistry",
+                          "course code": "CHEM 309",
+                          "units": 3
+                        },
+                        {
+                          "name": "Introduction to Quantum Chemistry",
+                          "course code": "CHEM 311",
+                          "units": 3
+                        },
+                        {
+                          "name": "Inorganic Chemistry II",
+                          "course code": "CHEM 313",
+                          "units": 3
+                        },
+                        {
+                          "name": "Organic Chemistry (Laboratory)",
+                          "course code": "CHEM 315",
+                          "units": 2
+                        },
+                        {
+                          "name": "Environmental Chemistry",
+                          "course code": "CHEM 325",
+                          "units": 3
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Introduction to Family Life Education",
+                          "course code": "GEDS 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "Physical Chemistry II",
+                          "course code": "CHEM 310",
+                          "units": 3
+                        },
+                        {
+                          "name": "Inorganic Chemistry (Laboratory)",
+                          "course code": "CHEM 314",
+                          "units": 2
+                        },
+                        {
+                          "name": "Introduction to Spectroscopy",
+                          "course code": "CHEM 317",
+                          "units": 3
+                        },
+                        {
+                          "name": "Aromatic and Alicyclic Chemistry",
+                          "course code": "CHEM 321",
+                          "units": 3
+                        },
+                        {
+                          "name": "Stereochemistry and Poly-Functional compounds",
+                          "course code": "CHEM 322",
+                          "units": 3
+                        },
+                        {
+                          "name": "Student Industrial Work Experience (SIWES)",
+                          "course code": "CHEM 360",
+                          "units": 6
+                        },
+                        {
+                          "name": "Separation Techniques and Instrumentation",
+                          "course code": "CHEM 332",
+                          "units": 3
+                        },
+                        {
+                          "name": "Colloidal Chemistry",
+                          "course code": "CHEM 326",
+                          "units": 3
+                        },
+                        {
+                          "name": "Chemistry and Technology of Lipids",
+                          "course code": "CHEM 334",
+                          "units": 3
+                        },
+                        {
+                          "name": "Enzymology I",
+                          "course code": "BCHM 334",
+                          "units": 3
+                        }
+                      ]        
+        },
+        
+            "400": {
+              "1": [
+                {
+                  "name": "Biblical Principles in Personal and Professional Life",
+                  "course code": "GEDS 420",
+                  "units": 3
+                },
+                {
+                  "name": "Spectroscopy",
+                  "course code": "CHEM 417",
+                  "units": 3
+                },
+                {
+                  "name": "Organic Reaction Mechanism",
+                  "course code": "CHEM 421",
+                  "units": 3
+                },
+                {
+                  "name": "Seminar",
+                  "course code": "CHEM 433",
+                  "units": 2
+                },
+                {
+                  "name": "Physical Chemistry Laboratory",
+                  "course code": "CHEM 435",
+                  "units": 1
+                },
+                {
+                  "name": "Instrumental Analysis",
+                  "course code": "CHEM 423",
+                  "units": 3
+                },
+                {
+                  "name": "Quantum Chemistry",
+                  "course code": "CHEM 429",
+                  "units": 3
+                },
+                {
+                  "name": "Natural Products",
+                  "course code": "CHEM 431",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Entrepreneurial Skills",
+                  "course code": "GEDS 400",
+                  "units": 2
+                },
+                {
+                  "name": "E-Project Management and Simulation",
+                  "course code": "GEDS 440",
+                  "units": 2
+                },
+                {
+                  "name": "Organic Synthesis",
+                  "course code": "CHEM 402",
+                  "units": 3
+                },
+                {
+                  "name": "Organometallic Chemistry",
+                  "course code": "CHEM 406",
+                  "units": 3
+                },
+                {
+                  "name": "Coordination Chemistry",
+                  "course code": "CHEM 424",
+                  "units": 3
+                },
+                {
+                  "name": "Advanced Chemical Kinetics",
+                  "course code": "CHEM 425",
+                  "units": 3
+                },
+                {
+                  "name": "Radiochemistry and Nuclear Chemistry",
+                  "course code": "CHEM 436",
+                  "units": 3
+                },
+                {
+                  "name": "Research Project",
+                  "course code": "CHEM 490",
+                  "units": 6
+                }
+              ]
+            }
+                    
+                                  
+                            
+                    
+    },
+    "Mathematics":{
+        "year":4,
+        "name": "Mathematics",    
+         "100": {
+    "1": [
+      {
+        "name": "Philosophy of Christian Education",
+        "course code": "GEDS 101",
+        "units": 2
+      },
+      {
+        "name": "Use of Library and Study Skills",
+        "course code": "GEDS 105",
+        "units": 2
+      },
+      {
+        "name": "Introduction to General Psychology",
+        "course code": "GEDS 107",
+        "units": 2
+      },
+      {
+        "name": "Communication in English I",
+        "course code": "GEDS 131",
+        "units": 2
+      },
+      {
+        "name": "General Mathematics I",
+        "course code": "MATH 101",
+        "units": 3
+      },
+      {
+        "name": "Introduction to Computer Science and Programming I",
+        "course code": "COSC 111",
+        "units": 3
+      },
+      {
+        "name": "General Physics I",
+        "course code": "PHYS 101",
+        "units": 3
+      }
+    ],
+    "2": [
+      {
+        "name": "Health Principles",
+        "course code": "GEDS 112",
+        "units": 2
+      },
+      {
+        "name": "ICT Fundamentals and Office Productivity Management",
+        "course code": "GEDS 120",
+        "units": 2
+      },
+      {
+        "name": "Life and Teachings of Jesus the Messiah",
+        "course code": "GEDS 126",
+        "units": 3
+      },
+      {
+        "name": "Communication in English II",
+        "course code": "GEDS 132",
+        "units": 2
+      },
+      {
+        "name": "Nigerian People in Global Culture",
+        "course code": "GEDS 134",
+        "units": 2
+      },
+      {
+        "name": "General Mathematics II",
+        "course code": "MATH 102",
+        "units": 3
+      },
+      {
+        "name": "General Mathematics III",
+        "course code": "MATH 104",
+        "units": 3
+      },
+      {
+        "name": "Descriptive Statistics",
+       
+
+"course code": "STAT 113",
+        "units": 3
+      },
+      {
+        "name": "Introduction to Computer Science and Programming II",
+        "course code": "COSC 112",
+        "units": 3
+      },
+      {
+        "name": "General Physics II",
+        "course code": "PHYS 102",
+        "units": 3
+      },
+      {
+        "name": "Probability I",
+        "course code": "STAT 112",
+        "units": 2
+      },
+      {
+        "name": "Statistical Inference I",
+        "course code": "STAT 121",
+        "units": 2
+      }
+    ]
+        },
+        
+     "200": {
+              "1": [
+                {
+                  "name": "Communication in French",
+                  "course code": "GEDS 200",
+                  "units": 2
+                },
+                {
+                  "name": "Fundamentals of Christian Faith",
+                  "course code": "GEDS 215",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Agriculture",
+                  "course code": "GEDS 221",
+                  "units": 2
+                },
+                {
+                  "name": "Environment and Sustainable Development",
+                  "course code": "GEDS 260",
+                  "units": 2
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Leadership Skills",
+                  "course code": "GEDS 280",
+                  "units": 2
+                },
+                {
+                  "name": "Ordinary Differential Equations I",
+                  "course code": "MATH 202",
+                  "units": 3
+                },
+                {
+                  "name": "Sets, Logic and Algebra",
+                  "course code": "MATH 203",
+                  "units": 3
+                },
+                {
+                  "name": "Vectorial Mechanics",
+                  "course code": "MATH 220",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Numerical Analysis",
+                  "course code": "MATH 212",
+                  "units": 3
+                },
+                {
+                  "name": "Linear Algebra I",
+                  "course code": "MATH 215",
+                  "units": 3
+                },
+                {
+                  "name": "Mathematical Methods I",
+                  "course code": "MATH 221",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "History and Philosophy of Science",
+                  "course code": "GEDS 222",
+                  "units": 2
+                },
+                {
+                  "name": "Spreadsheet and Digital Presentations",
+                  "course code": "GEDS 290",
+                  "units": 2
+                },
+                {
+                  "name": "Real Analysis I",
+                  "course code": "MATH 208",
+                  "units": 3
+                },
+                {
+                  "name": "Linear Algebra II",
+                  "course code": "MATH 216",
+                  "units": 3
+                },
+                {
+                  "name": "Discrete Mathematics",
+                  "course code": "MATH 206",
+                  "units": 3
+                },
+                {
+                  "name": "Programming in JAVA",
+                  "course code": "COSC 205",
+                  "units": 3
+                },
+                {
+                  "name": "Probability II",
+                  "course code": "STAT 211",
+                  "units": 3
+                },
+                {
+                  "name": "Statistical Inference II",
+                  "course code": "STAT 221",
+                  "units": 3
+                }
+              ]
+        },
+        
+            "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Real Analysis II",
+                  "course code": "MATH 307",
+                  "units": 3
+                },
+                {
+                  "name": "Metric Space Topology",
+                  "course code": "MATH 311",
+                  "units": 3
+                },
+                {
+                  "name": "Abstract Algebra I",
+                  "course code": "MATH 315",
+                  "units": 3
+                },
+                {
+                  "name": "Complex Analysis I",
+                  "course code": "MATH 321",
+                  "units": 3
+                },
+                {
+                  "name": "Vector and Tensor Analysis",
+                  "course code": "MATH 323",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Ordinary Differential Equations II",
+                  "course code": "MATH 302",
+                  "units": 3
+                },
+                {
+                  "name": "Introductory Mathematical Modeling",
+                  "course code": "MATH 306",
+                  "units": 3
+                },
+                {
+                  "name": "Numerical Analysis and Computation I",
+                  "course code": "MATH 318",
+                  "units": 3
+                },
+                {
+                  "name": "Abstract Algebra II",
+                  "course code": "MATH 320",
+                  "units": 3
+                },
+                {
+                  "name": "Mathematical Methods II",
+                  "course code": "MATH 330",
+                  "units": 3
+                }
+              ]
+            },
+            
+                "400": {
+                  "1": [
+                    {
+                      "name": "Introduction to Entrepreneurial Skills",
+                      "course code": "GEDS 400",
+                      "units": 2
+                    },
+                    {
+                      "name": "Biblical Principles in Personal and Professional Life",
+                      "course code": "GEDS 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "Functional Analysis",
+                      "course code": "MATH 403",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Topology",
+                      "course code": "MATH 405",
+                      "units": 3
+                    },
+                    {
+                      "name": "Mathematical Methods III",
+                      "course code": "MATH 407",
+                      "units": 3
+                    },
+                    {
+                      "name": "Theory of Ordinary Differential Equations",
+                      "course code": "MATH 415",
+                      "units": 3
+                    },
+                    {
+                      "name": "Advanced Algebra I",
+                      "course code": "MATH 419",
+                      "units": 3
+                    },
+                    {
+                      "name": "Complex Analysis III",
+                      "course code": "MATH 421",
+                      "units": 3
+                    },
+                    {
+                      "name": "Integral Equations",
+                      "course code": "MATH 429",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "E-Project Management and Simulation",
+                      "course code": "GEDS 440",
+                      "units": 2
+                    },
+                    {
+                      "name": "Lebesgue Measure and Integration",
+                      "course code": "MATH 406",
+                      "units": 3
+                    },
+                    {
+                      "name": "Theory of Partial Differential Equations",
+                      "course code": "MATH 408",
+                      "units": 3
+                    },
+                    {
+                      "name": "Numerical Analysis and Computation II",
+                      "course code": "MATH 424",
+                      "units": 3
+                    },
+                    {
+                      "name": "Advance Algebra II",
+                      "course code": "MATH 430",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Project",
+                      "course code": "MATH 490",
+                      "units": 6
+                    },
+                    {
+                      "name": "Measure Theory",
+                      "course code": "MATH 416",
+                      "units": 3
+                    },
+                    {
+                      "name": "Algebraic Number Theory",
+                      "course code": "MATH 418",
+                      "units": 3
+                    }
+                  ]
+                }
+                            
+                    
+                    
+
+    },
+    "Physics":{
+        "year":4,
+        "name": "Physics",    
+
+     "100": {
+    "1": [
+      {
+        "name": "Philosophy of Christian Education",
+        "course code": "GEDS 101",
+        "units": 2
+      },
+      {
+        "name": "Use of Library and Study Skills",
+        "course code": "GEDS 105",
+        "units": 2
+      },
+      {
+        "name": "Introduction to General Psychology",
+        "course code": "GEDS 107",
+        "units": 2
+      },
+      {
+        "name": "Communication in English I",
+        "course code": "GEDS 131",
+        "units": 2
+      },
+      {
+        "name": "General Mathematics I",
+        "course code": "MATH 101",
+        "units": 3
+      },
+      {
+        "name": "General Physics I",
+        "course code": "PHYS 101",
+        "units": 3
+      },
+      {
+        "name": "General Chemistry I",
+        "course code": "CHEM 101",
+        "units": 3
+      },
+      {
+        "name": "Introduction to Computer Science and Programming I",
+        "course code": "COSC 111",
+        "units": 3
+      }
+    ],
+    "2": [
+      {
+        "name": "Health Principles",
+        "course code": "GEDS 112",
+        "units": 2
+      },
+      {
+        "name": "ICT Fundamentals and Office Productivity Management",
+        "course code": "GEDS 120",
+        "units": 2
+      },
+      {
+        "name": "Life and Teachings of Jesus the Messiah",
+        "course code": "GEDS 126",
+        "units": 3
+      },
+      {
+        "name": "Communication in English II",
+        "course code": "GEDS 132",
+        "units": 2
+      },
+      {
+        "name": "Nigerian People in a Global Culture",
+        "course code": "GEDS 134",
+        "units": 2
+      },
+      {
+        "name": "General Mathematics II",
+        "course code": "MATH 102",
+        "units": 3
+      },
+      {
+        "name": "General Physics II",
+        "course code": "PHYS 102",
+        "units": 3
+      },
+      {
+        "name":
+
+"General Chemistry II",
+        "course code": "CHEM 102",
+        "units": 3
+      },
+      {
+        "name": "Introduction to Computer Science and Programming II",
+        "course code": "COSC 112",
+        "units": 3
+      }
+    ]
+        },
+        
+            "200": {
+              "1": [
+                {
+                  "name": "Basic Modern Physics",
+                  "course code": "PHYS 201",
+                  "units": 3
+                },
+                {
+                  "name": "Analytical Mechanics I",
+                  "course code": "PHYS 203",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Space Science",
+                  "course code": "PHYS 209",
+                  "units": 2
+                },
+                {
+                  "name": "Thermal Physics",
+                  "course code": "PHYS 215",
+                  "units": 2
+                },
+                {
+                  "name": "Mathematical Methods I",
+                  "course code": "MATH 221",
+                  "units": 3
+                },
+                {
+                  "name": "Statistics for Physical Sciences",
+                  "course code": "STAT 222",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Analytical Mechanics II",
+                  "course code": "PHYS 216",
+                  "units": 2
+                },
+                {
+                  "name": "Electric Circuits and Electronics",
+                  "course code": "PHYS 204",
+                  "units": 3
+                },
+                {
+                  "name": "Experimental Physics I",
+                  "course code": "PHYS 207",
+                  "units": 1
+                },
+                {
+                  "name": "Experimental Physics II",
+                  "course code": "PHYS 218",
+                  "units": 1
+                },
+                {
+                  "name": "Wave and Optics",
+                  "course code": "PHYS 208",
+                  "units": 3
+                },
+                {
+                  "name": "Spreadsheet and Digital Presentation",
+                  "course code": "GEDS 290",
+                  "units": 2
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Solid Earth Physics",
+                  "course code": "PHYS 202",
+                  "units": 2
+                },
+                {
+                  "name": "Energy and Environment",
+                  "course code": "PHYS 211",
+                  "units": 2
+                },
+                {
+                  "name": "Analogue Electronics 1",
+                  "course code": "PHYS 226",
+                  "units": 2
+                }
+              ]
+            },
+            
+                "300": {
+                  "1": [
+                    {
+                      "name": "Electromagnetism",
+                      "course code": "PHYS 303",
+                      "units": 3
+                    },
+                    {
+                      "name": "Quantum Physics",
+                      "course code": "PHYS 305",
+                      "units": 3
+                    },
+                    {
+                      "name": "Experimental Physics III",
+                      "course code": "PHYS 307",
+                      "units": 1
+                    },
+                    {
+                      "name": "Electronics",
+                      "course code": "PHYS 309",
+                      "units": 2
+                    },
+                    {
+                      "name": "Medical Reactor Physics",
+                      "course code": "PHYS 340",
+                      "units": 2
+                    },
+                    {
+                      "name": "Solar and Atmospheric Physics",
+                      "course code": "PHYS 350",
+                      "units": 2
+                    },
+                    {
+                      "name": "Vector and Tensor Analysis",
+                      "course code": "MATH 323",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Electromagnetic Waves and Optics",
+                      "course code": "PHYS 302",
+                      "units": 2
+                    },
+                    {
+                      "name": "Solid State Physics I",
+                      "course code": "PHYS 304",
+                      "units": 2
+                    },
+                    {
+                      "name": "Mathematical Methods in Physics I",
+                      "course code": "PHYS 306",
+                      "units": 3
+                    },
+                    {
+                      "name": "Students Industrial Work Experience (SIWES)",
+                      "course code": "PHYS 360",
+                      "units": 6
+                    },
+                    {
+                      "name": "Analogue Electronics II",
+                      "course code": "PHYS 300",
+                      "units": 2
+                    },
+                    {
+                      "name": "Communication Physics",
+                      "course code": "PHYS 310",
+                      "units": 2
+                    },
+                    {
+                      "name": "Nuclear and Particle Physics 1",
+                      "course code": "PHYS 320",
+                      "units": 2
+                    }
+                  ]
+                },
+                
+                    "400": {
+                      "1": [
+                        {
+                          "name": "Quantum Mechanics I",
+                          "course code": "PHYS 401",
+                          "units": 3
+                        },
+                        {
+                          "name": "Solid State Physics II",
+                          "course code": "PHYS 403",
+                          "units": 2
+                        },
+                        {
+                          "name": "Mathematical Methods in Physics II",
+                          "course code": "PHYS 405",
+                          "units": 3
+                        },
+                        {
+                          "name": "Digital Electronics",
+                          "course code": "PHYS 407",
+                          "units": 3
+                        },
+                        {
+                          "name": "Advanced Physics of the Earth Interior",
+                          "course code": "PHYS 413",
+                          "units": 3
+                        },
+                        {
+                          "name": "Introduction to Medical Physics",
+                          "course code": "PHYS 415",
+                          "units": 2
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Quantum Mechanics II",
+                          "course code": "PHYS 402",
+                          "units": 3
+                        },
+                        {
+                          "name": "Electrodynamics",
+                          "course code": "PHYS 404",
+                          "units": 2
+                        },
+                        {
+                          "name": "Atomic and Molecular Spectroscopy",
+                          "course code": "PHYS 406",
+                          "units": 3
+                        },
+                        {
+                          "name": "Analytical Mechanics III",
+                          "course code": "PHYS 408",
+                          "units": 2
+                        },
+                        {
+                          "name": "Computational Physics",
+                          "course code": "PHYS 409",
+                          "units": 3
+                        },
+                        {
+                          "name": "Statistical and Thermal Physics",
+                          "course code": "PHYS 411",
+                          "units": 3
+                        },
+                        {
+                          "name": "Research Project",
+                          "course code": "PHYS 490",
+                          "units": 6
+                        },
+                        {
+                          "name": "Nuclear and Particle Physics II",
+                          "course code": "PHYS 412",
+                          "units": 2
+                        },
+                        {
+                          "name": "Astronomy",
+                          "course code": "PHYS 414",
+                          "units": 2
+                        },
+                        {
+                          "name": "Biophysics",
+                          "course code": "PHYS 416",
+                          "units": 2
+                        },
+                        {
+                          "name": "Power Electronics",
+                          "course code": "PHYS 417",
+                          "units": 2
+                        }
+                      ]
+                    }
+                                    
+                            
+                    
+
+
+
+
+    },
+    "Microbiology":{
+        "year":4,
+        "name": "Microbiology",    
+        
+         "100": {
+              "1": [
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology I",
+                  "course code": "BIOL 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology II",
+                  "course code": "BIOL 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry II",
+                  "course code": "CHEM 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                }
+              ]
+       },
+       
+        "200": {
+          "1": [
+            {
+              "name": "Communication in French",
+              "course code": "GEDS 200",
+              "units": 2
+            },
+            {
+              "name": "Fundamentals of Christian Faith",
+              "course code": "GEDS 215",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Agriculture",
+              "course code": "GEDS 221",
+              "units": 2
+            },
+            {
+              "name": "Foundation of Biochemistry I",
+              "course code": "BCHM 201",
+              "units": 3
+            },
+            {
+              "name": "Inorganic Chemistry I",
+              "course code": "CHEM 201",
+              "units": 3
+            },
+            {
+              "name": "Organic Chemistry I",
+              "course code": "CHEM 213",
+              "units": 3
+            },
+            {
+              "name": "General Microbiology I",
+              "course code": "MBIO 201",
+              "units": 3
+            },
+            {
+              "name": "Techniques in Microbiology",
+              "course code": "MBIO 205",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "History and Philosophy of Science",
+              "course code": "GEDS 222",
+              "units": 2
+            },
+            {
+              "name": "Environment and Sustainable Development",
+              "course code": "GEDS 260",
+              "units": 2
+            },
+            {
+              "name": "Peace and Conflict Resolution",
+              "course code": "GEDS 270",
+              "units": 2
+            },
+            {
+              "name": "Spreadsheet and Digital Presentations",
+              "course code": "GEDS 290",
+              "units": 2
+            },
+            {
+              "name": "Leadership Skills",
+              "course code": "GEDS 280",
+              "units": 2
+            },
+            {
+              "name": "Organic Chemistry II",
+              "course code": "CHEM 214",
+              "units": 3
+            },
+            {
+              "name": "General Microbiology II",
+              "course code": "MBIO 202",
+              "units": 3
+            },
+            {
+              "name": "Genetics I",
+              "course code": "BIOL 201",
+              "units": 2
+            },
+            {
+              "name": "Ecology I",
+              "course code": "BIOL 208",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Plant and Animal Physiology",
+              "course code": "BIOL 220",
+              "units": 2
+            },
+            {
+              "name": "Economic Botany",
+              "course code": "BOTA 308",
+              "units": 2
+            },
+            {
+              "name": "Biostatistics",
+              "course code": "STAT 204",
+              "units": 2
+            },
+            {
+              "name": "Cell and Developmental Biology",
+              "course code": "BIOL 206",
+              "units": 2
+            },
+            {
+              "name": "Lower Invertebrates (Acoelomate/coelomate)",
+              "course code": "ZOOL 202",
+              "units": 2
+            }
+          ]
+        },
+        
+            "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Microbial Genetics and Molecular Biology",
+                  "course code": "MBIO 317",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamentals of Bacteriology",
+                  "course code": "MBIO 319",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamentals of Mycology",
+                  "course code": "MBIO 321",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Microbial Physiology and Metabolism",
+                  "course code": "MBIO 323",
+                  "units": 3
+                },
+                {
+                  "name": "Immunology",
+                  "course code": "MBIO 325",
+                  "units": 3
+                },
+                {
+                  "name": "Food Microbiology",
+                  "course code": "MBIO 331",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Ecology of Microbes",
+                  "course code": "MBIO 316",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamentals of Virology",
+                  "course code": "MBIO 318",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Research Methodology",
+                  "course code": "MBIO 322",
+                  "units": 2
+                },
+                {
+                  "name": "Students Industrial Work Experience Scheme (SIWES)",
+                  "course code": "MBIO 360",
+                  "units": 6
+                },
+                {
+                  "name": "Genetics II",
+                  "course code": "BIOL 301",
+                  "units": 2
+                },
+                {
+                  "name": "Plant Pathology",
+                  "course code": "BOTA 313",
+                  "units": 2
+                },
+                {
+                  "name": "Biodeterioration",
+                  "course code": "MBIO 312",
+                  "units": 2
+                },
+                {
+                  "name": "Biology of Tropical Parasites",
+                  "course code": "ZOOL 304",
+                  "units": 2
+                }
+              ]
+            },
+            
+                "400": {
+                  "1": [
+                    {
+                      "name": "Principles of Epidemiology and Public Health",
+                      "course code": "PHSC 425",
+                      "units": 3
+                    },
+                    {
+                      "name": "Petroleum Microbiology",
+                      "course code": "MBIO 411",
+                      "units": 3
+                    },
+                    {
+                      "name": "Microbiology and Environment",
+                      "course code": "MBIO 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "Microbiological Analyses and Quality Control",
+                      "course code": "MBIO 425",
+                      "units": 3
+                    },
+                    {
+                      "name": "Seminar",
+                      "course code": "MBIO 433",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Bioinformatics",
+                      "course code": "MBBT 405",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Biotechnology",
+                      "course code": "MBBT 413",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Industrial Microbiology",
+                      "course code": "MBIO 402",
+                      "units": 3
+                    },
+                    {
+                      "name": "Pharmaceutical Microbiology",
+                      "course code": "MBIO 414",
+                      "units": 3
+                    },
+                    {
+                      "name": "Clinical and Medical Microbiology",
+                      "course code": "MBIO 418",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Project",
+                      "course code": "MBIO 490",
+                      "units": 6
+                    },
+                    {
+                      "name": "Principles of Parasitology",
+                      "course code": "ZOOL 402",
+                      "units": 2
+                    }
+                  ]
+                }
+                            
+                    
+            
+                    
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "name": "School of Nursing",
+    "courses": [
+        "Nursing"
+
+   
+
+    ],
+    "Nursing":{
+        "year":5,
+        "name": "Nursing",
+        
+    "100": {
+          "1": [
+            {
+              "name": "Philosophy of Christian Education",
+              "course code": "GEDS 101",
+              "units": 2
+            },
+            {
+              "name": "Use of Library and Study Skills",
+              "course code": "GEDS 105",
+              "units": 2
+            },
+            {
+              "name": "Introduction to General Psychology",
+              "course code": "GEDS 107",
+              "units": 2
+            },
+            {
+              "name": "Communication in English I",
+              "course code": "GEDS 131",
+              "units": 2
+            },
+            {
+              "name": "Basic Concepts in Political Science",
+              "course code": "PLSC 103",
+              "units": 2
+            },
+            {
+              "name": "General Biology I",
+              "course code": "BIOL 101",
+              "units": 3
+            },
+            {
+              "name": "General Chemistry I",
+              "course code": "CHEM 101",
+              "units": 3
+            },
+            {
+              "name": "General Physics I",
+              "course code": "PHYS 101",
+              "units": 3
+            },
+            {
+              "name": "General Mathematics I",
+              "course code": "MATHS 101",
+              "units": 3
+            }
+          ],
+          "2": [
+            {
+              "name": "Life and Teachings of Jesus the Messiah",
+              "course code": "GEDS 126",
+              "units": 3
+            },
+            {
+              "name": "Nigerian People in a Global Culture",
+              "course code": "GEDS 134",
+              "units": 2
+            },
+            {
+              "name": "ICT Fundamentals and Office Production Management",
+              "course code": "GEDS 120",
+              "units": 2
+            },
+            {
+              "name": "Introduction to Sociology and Anthropology",
+              "course code": "PHSC 108",
+              "units": 2
+            },
+            {
+              "name": "Biostatistics and Informatics for Nurses",
+              "course code": "PHSC 122",
+              "units": 3
+            },
+            {
+              "name": "Information and Record Management in Nursing",
+              "course code": "IRMA 112",
+              "units": 3
+            },
+            {
+              "name": "General Biology II",
+              "course code": "BIOL 102",
+              "units": 3
+            },
+            {
+              "name": "General Chemistry II",
+              "course code": "CHEM 102",
+              "units": 3
+            },
+            {
+              "name": "Communication in English II",
+              "course code": "GEDS 132",
+              "units": 2
+            }
+          ]
+    },
+    
+        "200": {
+          "1": [
+            {
+              "name": "Religion and Social Ethics",
+              "course code": "GEDS 317",
+              "units": 3
+            },
+            {
+              "name": "Introduction to Agriculture",
+              "course code": "GEDS 221",
+              "units": 2
+            },
+            {
+              "name": "Communication in French",
+              "course code": "GEDS 200",
+              "units": 2
+            },
+            {
+              "name": "History and Philosophy of Science",
+              "course code": "GEDS 222",
+              "units": 2
+            },
+            {
+              "name": "Fundamentals of Nursing Practice I, II",
+              "course code": "NRSG 213, 234",
+              "units": 3
+            },
+            {
+              "name": "Gross Anatomy I, II",
+              "course code": "ANAT 221, 224",
+              "units": 3
+            },
+            {
+              "name": "General Principles of Physiology I, II",
+              "course code": "PHGY 221, 222",
+              "units": 3
+            },
+            {
+              "name": "Foundations of Biochemistry I",
+              "course code": "BCHM 201",
+              "units": 3
+            },
+            {
+              "name": "General Microbiology I",
+              "course code": "MBIO 201",
+              "units": 3
+            },
+            {
+              "name": "Developmental Psychology",
+              "course code": "GCPS 220",
+              "units": 2
+            }
+          ],
+          "2": [
+            {
+              "name": "Introduction to Family Life Education",
+              "course code": "GEDS 312",
+              "units": 2
+            },
+            {
+              "name": "Spread Sheet and Digital Presentations",
+              "course code": "GEDS 290",
+              "units": 2
+            },
+            {
+              "name": "Principles and Practice of Community Health Nursing I and Epidemiology",
+              "course code": "NRSG 222",
+              "units": 5
+            },
+            {
+              "name": "Conceptual Basis for Professional Nursing",
+              "course code": "NRSG 212",
+              "units": 3
+            },
+            {
+              "name": "Fundamentals of Nursing Practical",
+              "course code": "NRSG 220",
+              "units": 2
+            }
+          ]
+        },
+        
+     "300": {
+              "1": [
+                {
+                  "name": "Environment and Sustainable Development",
+                  "course code": "GEDS 260",
+                  "units": 2
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Pharmacology in Nursing I",
+                  "course code": "NRSG 319",
+                  "units": 3
+                },
+                {
+                  "name": "Maternal and Child Health Care Nursing I",
+                  "course code": "NRSG 325",
+                  "units": 5
+                },
+                {
+                  "name": "Adult Health/Medical-Surgical Nursing II",
+                  "course code": "NRSG 327",
+                  "units": 5
+                },
+                {
+                  "name": "Emergency and Disaster Nursing",
+                  "course code": "NRSG 317",
+                  "units": 3
+                },
+                {
+                  "name": "Pathology",
+                  "course code": "PATH 301",
+                  "units": 3
+                },
+                {
+                  "name": "Human Behavior in Health and Illness",
+                  "course code": "NRSG 323",
+                  "units": 2
+                }
+              ],
+              "2": [
+                {
+                  "name": "Students' Industrial Work Experience (SIWES)",
+                  "course code": "NRSG 360",
+                  "units": 6
+                },
+                {
+                    "name": "E-Customer Relationship Management",
+                    "course code": "GEDS 310",
+                    "units": 2
+                  },
+                  {
+                    "name": "Pharmacology in Nursing II",
+                    "course code": "NRSG 320",
+                    "units": 3
+                  },
+                  {
+                    "name": "Human Nutrition and Dietetics",
+                    "course code": "NUDT 328",
+                    "units": 3
+                  },
+                  {
+                    "name": "Maternal and Child Health Care Nursing II",
+                    "course code": "NRSG 436",
+                    "units": 5
+                  }
+              ]     
+     },
+     
+        "400": {
+          "1": [
+            {
+              "name": "Citizenship Orientation",
+              "course code": "GEDS 001",
+              "units": 0
+            },
+            {
+              "name": "Adult Health/Medical-Surgical Nursing III",
+              "course code": "NRSG 427",
+              "units": 5
+            },
+            {
+              "name": "Research process in Nursing",
+              "course code": "NRSG 429",
+              "units": 3
+            },
+            {
+              "name": "Psychiatric/Mental Health Nursing II",
+              "course code": "NRSG 435",
+              "units": 3
+            },
+            {
+              "name": "Principles of Management in Nursing",
+              "course code": "NRSG 440",
+              "units": 3
+            },
+            {
+              "name": "Principles and Practice of Community Health Nursing II, Environmental Health and Occupational Health",
+              "course code": "NRSG 443",
+              "units": 5
+            }
+          ],
+          "2": [
+            {
+              "name": "Citizenship Orientation",
+              "course code": "GEDS 002",
+              "units": 0
+            },
+            {
+              "name": "Character Formation and Spiritual Growth",
+              "course code": "GEDS 430",
+              "units": 3
+            },
+            {
+              "name": "Adult Health/Medical-Surgical Nursing IV",
+              "course code": "NRSG 428",
+              "units": 5
+            },
+            {
+              "name": "Research Seminar",
+              "course code": "NRSG 430",
+              "units": 1
+            },
+            {
+              "name": "Principles of Teaching and Learning with Practicum",
+              "course code": "NRSG 446",
+              "units": 3
+            },
+            {
+              "name": "Maternal and Child Health Care Nursing III, IV",
+              "course code": "NRSG 447",
+              "units": 5
+            },
+            {
+              "name": "Midwifery Clinical Practice I",
+              "course code": "NRSG 452",
+              "units": 3
+            },
+            {
+              "name": "Infant and Child Health Care I, II",
+              "course code": "NRSG 457",
+              "units": 2
+            },
+            {
+              "name": "Health Economics",
+              "course code": "ECONS 407",
+              "units": 2
+            }
+          ]
+        },
+        
+            "500": {
+              "1": [
+                {
+                  "name": "Biblical Principles in Personal and Professional Life",
+                  "course code": "GEDS 420",
+                  "units": 3
+                },
+                {
+                  "name": "Contemporary Issues in Nursing Practice",
+                  "course code": "NRSG 500",
+                  "units": 2
+                },
+                {
+                  "name": "Leadership Skills",
+                  "course code": "GEDS 280",
+                  "units": 2
+                },
+                {
+                  "name": "Principles and Practice of Community Health Nursing III",
+                  "course code": "NRSG 527",
+                  "units": 5
+                },
+                {
+                  "name": "Primary Health Care Nursing I",
+                  "course code": "NRSG 525",
+                  "units": 2
+                },
+                {
+                  "name": "Radiology and Radiotherapy Nursing I",
+                  "course code": "NRSG 529",
+                  "units": 2
+                },
+                {
+                  "name": "Ortho-Rhino-Laryngological Nursing I",
+                  "course code": "NRSG 537",
+                  "units": 2
+                },
+                {
+                  "name": "Operating Theatre Nursing I",
+                  "course code": "NRSG 541",
+                  "units": 2
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to entrepreneurial skills",
+                  "course code": "GEDS 400",
+                  "units": 2
+                },
+                {
+                  "name": "E-Project Management and Simulation",
+                  "course code": "GEDS 440",
+                  "units": 2
+                },
+                {
+                  "name": "Principles and Practice of Community Health Nursing IV",
+                  "course code": "NRSG 528",
+                  "units": 5
+                },
+                {
+                  "name": "Research Project in Nursing",
+                  "course code": "NRSG 590",
+                  "units": 6
+                },
+                {
+                  "name": "Primary Health Care Nursing II",
+                  "course code": "NRSG 526",
+                  "units": 2
+                },
+                {
+                  "name": "Radiology and Radiotherapy Nursing II",
+                  "course code": "NRSG 530",
+                  "units": 2
+                },
+                {
+                  "name": "Ortho-Rhino-Laryngological Nursing II",
+                  "course code": "NRSG 538",
+                  "units": 2
+                },
+                {
+                  "name": "Operating Theatre Nursing II",
+                  "course code": "NRSG 542",
+                  "units": 2
+                }
+              ]
+            }
+        
+     }
+                
+                    
+      
+      
+}

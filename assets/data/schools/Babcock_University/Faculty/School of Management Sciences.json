@@ -1,0 +1,1990 @@
+{
+    "name": "School of Management Sciences",
+    "courses": [
+        "Accounting",
+        "Business Administration",
+        "Marketing",
+        "Finance",
+        "Information Resources Management"
+   
+
+    ],
+    "Accounting":{
+        "year":4,
+        "name": "Accounting",
+        
+            "100": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Philosophy of Christian Education",
+                        "course code": "GEDS 101",
+                        "units": 2
+                    },
+                    {
+                        "name": "Use Of Library and Study Skills",
+                        "course code": "GEDS 105",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to General Psychology",
+                        "course code": "GEDS 107",
+                        "units": 2
+                    },
+                    {
+                        "name": "ICT Fundamentals and Office Productivity Management",
+                        "course code": "GEDS 120",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English I",
+                        "course code": "GEDS 131",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Accounting I",
+                        "course code": "ACCT 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Management I",
+                        "course code": "BSAD 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Economics I",
+                        "course code": "ECON 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Business Mathematics I",
+                        "course code": "BSAD 111",
+                        "units": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Health Principles",
+                        "course code": "GEDS 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "Life and Teachings of Jesus the Messiah",
+                        "course code": "GEDS 126",
+                        "units": 3
+                    },
+                    {
+                        "name": "Communication in English II",
+                        "course code": "GEDS 132",
+                        "units": 2
+                    },
+                    {
+                        "name": "Nigerian People in a Global Culture",
+                        "course code": "GEDS 134",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Accounting II",
+                        "course code": "ACCT 102",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Management II",
+                        "course code": "BSAD 102",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Economics II",
+                        "course code": "ECON 102",
+                        "units": 3
+                    },
+                    {
+                        "name": "Business Mathematics II",
+                        "course code": "BSAD 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "Citizenship and Elements of Government",
+                        "course code": "PLSC 102",
+                        "units": 3
+                    }
+                ]
+            },
+            
+                "200": {
+                    "1": [
+                        {
+                            "name": "Citizenship Orientation",
+                            "course code": "GEDS 001",
+                            "units": 0
+                        },
+                        {
+                            "name": "Fundamentals of Christian Faith",
+                            "course code": "GEDS 215",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Agriculture",
+                            "course code": "GEDS 221",
+                            "units": 2
+                        },
+                        {
+                            "name": "Environment and Sustainable Development",
+                            "course code": "GEDS 260",
+                            "units": 2
+                        },
+                        {
+                            "name": "Financial Accounting I",
+                            "course code": "ACCT 201",
+                            "units": 3
+                        },
+                        {
+                            "name": "Cost Accounting I",
+                            "course code": "ACCT 203",
+                            "units": 3
+                        },
+                        {
+                            "name": "Principles of Micro-Economics",
+                            "course code": "ECON 253",
+                            "units": 3
+                        },
+                        {
+                            "name": "Principles of Law",
+                            "course code": "LAWS 213",
+                            "units": 3
+                        },
+                        {
+                            "name": "Statistics for Management I",
+                            "course code": "BSAD 231",
+                            "units": 3
+                        },
+                        {
+                            "name": "Business Communication",
+                            "course code": "BSAD 211",
+                            "units": 3
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "Communication in French",
+                            "course code": "GEDS 200",
+                            "units": 2
+                        },
+                        {
+                            "name": "Logic and Critical Thinking",
+                            "course code": "GEDS 204",
+                            "units": 2
+                        },
+                        {
+                            "name": "Spreadsheet and Digital Presentations",
+                            "course code": "GEDS 290",
+                            "units": 2
+                        },
+                        {
+                            "name": "Financial of Accounting II",
+                            "course code": "ACCT 202",
+                            "units": 3
+                        },
+                        {
+                            "name": "Cost Accounting II",
+                            "course code": "ACCT 204",
+                            "units": 3
+                        },
+                        {
+                            "name": "Principles of Macro-Economics",
+                            "course code": "ECON 254",
+                            "units": 3
+                        },
+                        {
+                            "name": "Statistics for Management II",
+                            "course code": "BSAD 232",
+                            "units": 3
+                        },
+                        {
+                            "name": "Principles of Auditing",
+                            "course code": "ACCT 230",
+                            "units": 3
+                        },
+                        {
+                            "name": "Principles of Finance",
+                            "course code": "FNCE 210",
+                            "units": 3
+                        }
+                    ]
+                },
+                
+                    "300": {
+                        "1": [
+                            {
+                                "name": "Citizenship Orientation",
+                                "course code": "GEDS 001",
+                                "units": 0
+                            },
+                            {
+                                "name": "Peace and Conflict Reconciliation",
+                                "course code": "GEDS 270",
+                                "units": 2
+                            },
+                            {
+                                "name": "E-Customer Relationship Management",
+                                "course code": "GEDS 310",
+                                "units": 2
+                            },
+                            {
+                                "name": "Religion and Social Ethics",
+                                "course code": "GEDS 317",
+                                "units": 3
+                            },
+                            {
+                                "name": "Advanced Financial Accounting I",
+                                "course code": "ACCT 301",
+                                "units": 3
+                            },
+                            {
+                                "name": "Management Accounting I",
+                                "course code": "ACCT 303",
+                                "units": 3
+                            },
+                            {
+                                "name": "Accounting Theory",
+                                "course code": "ACCT 313",
+                                "units": 3
+                            },
+                            {
+                                "name": "Operations Research/Analysis for Business Decision",
+                                "course code": "ACCT 315",
+                                "units": 3
+                            },
+                            {
+                                "name": "Corporate Law I",
+                                "course code": "LAWS 323",
+                                "units": 3
+                            },
+                            {
+                                "name": "Management Information Systems",
+                                "course code": "ACCT 341",
+                                "units": 3
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "Introduction to Family Life Education",
+                                "course code": "GEDS 312",
+                                "units": 2
+                            },
+                            {
+                                "name": "Advanced Financial Accounting II",
+                                "course code": "ACCT 302",
+                                "units": 3
+                            },
+                            {
+                                "name": "Management Accounting II",
+                                "course code": "ACCT 304",
+                                "units": 3
+                            },
+                            {
+                                "name": "Audit and Assurance I",
+                                "course code": "ACCT 318",
+                                "units": 3
+                            },
+                            {
+                                "name": "Corporate Law II",
+                                "course code": "LAWS 324",
+                                "units": 3
+                            },
+                            {
+                                "name": "Computer Application and Accounting Packages I",
+                                "course code": "ACCT 326",
+                                "units": 3
+                            },
+                            {
+                                "name": "Principles of Taxation",
+                                "course code": "ACCT 328",
+                                "units": 3
+                            },
+                            {
+                                "name": "Accounting Research Methods",
+                                "course code": "ACCT 362",
+                                "units": 3
+                            },
+                            {
+                                "name": "Introduction to Business",
+                                "course code": "BSAD 310",
+                                "units": 2
+                            }
+                        ]
+                    },
+                    
+                        "400": {
+                            "1": [
+                                {
+                                    "name": "Citizenship Orientation",
+                                    "course code": "GEDS 001",
+                                    "units": 0
+                                },
+                                {
+                                    "name": "Introduction to Entrepreneurial Skills",
+                                    "course code": "GEDS 400",
+                                    "units": 2
+                                },
+                                {
+                                    "name": "E-Project Management and Simulation",
+                                    "course code": "GEDS 440",
+                                    "units": 2
+                                },
+                                {
+                                    "name": "International Accounting Practices",
+                                    "course code": "ACCT 400",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Business Policy and Strategy",
+                                    "course code": "ACCT 409",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Computer Applications and Accounting Packages II",
+                                    "course code": "ACCT 423",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Taxation I",
+                                    "course code": "ACCT 433",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Financial Management I",
+                                    "course code": "ACCT 441",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Audit and Assurance II",
+                                    "course code": "ACCT 451",
+                                    "units": 3
+                                }
+                            ],
+                            "2": [
+                                {
+                                    "name": "Biblical Principles in Personal and Professional Life",
+                                    "course code": "GEDS 420",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Leadership Skills",
+                                    "course code": "GEDS 280",
+                                    "units": 2
+                                },
+                                {
+                                    "name": "International Corporate Finance",
+                                    "course code": "ACCT 406",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Public Sector Accounting and Finance",
+                                    "course code": "ACCT 420",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Taxation II",
+                                    "course code": "ACCT 434",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Financial Management II",
+                                    "course code": "ACCT 444",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Financial Reporting and Ethics of Accounting I",
+                                    "course code": "ACCT 462",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Research Project",
+                                    "course code": "ACCT 490",
+                                    "units": 6
+                                }
+                            ]
+                        }
+                                        
+                                
+                        
+
+                
+    },
+    "Business Administration":{
+        "year":4,
+        "name": "Business Administration",
+        
+            "100": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Philosophy of Christian Education",
+                        "course code": "GEDS 101",
+                        "units": 2
+                    },
+                    {
+                        "name": "Use of Library and Study Skills",
+                        "course code": "GEDS 105",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to General Psychology",
+                        "course code": "GEDS 107",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English I",
+                        "course code": "GEDS 131",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Management I",
+                        "course code": "BSAD 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Accounting I",
+                        "course code": "ACCT 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Economics I",
+                        "course code": "ECON 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Business Mathematics I",
+                        "course code": "BSAD 111",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Marketing I",
+                        "course code": "MKTG 121",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Health Principles",
+                        "course code": "GEDS 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "ICT Fundamentals and Office Productivity Management",
+                        "course code": "GEDS 120",
+                        "units": 2
+                    },
+                    {
+                        "name": "Life and Teachings of Jesus the Messiah",
+                        "course code": "GEDS 126",
+                        "units": 3
+                    },
+                    {
+                        "name": "Communication in English II",
+                        "course code": "GEDS 132",
+                        "units": 2
+                    },
+                    {
+                        "name": "Nigerian People in a Global Culture",
+                        "course code": "GEDS 134",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Accounting II",
+                        "course code": "ACCT 102",
+                        "units": 3
+                    },
+                    {
+                        "name": "Business Mathematics II",
+                        "course code": "BSAD 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Management II",
+                        "course code": "BSAD 102",
+                        "units": 3
+                    }
+                ]
+            },
+            
+         "200": {
+                    "1": [
+                        {
+                            "name": "Citizenship Orientation",
+                            "course code": "GEDS 001",
+                            "units": 0
+                        },
+                        {
+                            "name": "Fundamentals of Christian Faith",
+                            "course code": "GEDS 215",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Agriculture",
+                            "course code": "GEDS 221",
+                            "units": 2
+                        },
+                        {
+                            "name": "Peace and Conflict Resolution",
+                            "course code": "GEDS 270",
+                            "units": 2
+                        },
+                        {
+                            "name": "Production/Operations Management I",
+                            "course code": "BSAD 203",
+                            "units": 3
+                        },
+                        {
+                            "name": "Business Communication",
+                            "course code": "BSAD 211",
+                            "units": 3
+                        },
+                        {
+                            "name": "Statistics for Management I",
+                            "course code": "BSAD 231",
+                            "units": 3
+                        },
+                        {
+                            "name": "Cost Accounting I",
+                            "course code": "ACCT 203",
+                            "units": 3
+                        },
+                        {
+                            "name": "Structure of Nigerian Economy",
+                            "course code": "ECON 225",
+                            "units": 3
+                        },
+                        {
+                            "name": "Business Finance I",
+                            "course code": "FNCE 211",
+                            "units": 3
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "Communication in French",
+                            "course code": "GEDS 200",
+                            "units": 2
+                        },
+                        {
+                            "name": "Logic and Critical Thinking",
+                            "course code": "GEDS 204",
+                            "units": 2
+                        },
+                        {
+                            "name": "Environment and Sustainable Development",
+                            "course code": "GEDS 260",
+                            "units": 2
+                        },
+                        {
+                            "name": "Spreadsheet and Digital Presentations",
+                            "course code": "GEDS 290",
+                            "units": 2
+                        },
+                        {
+                            "name": "Management Theory",
+                            "course code": "BSAD 202",
+                            "units": 3
+                        },
+                        {
+                            "name": "Production/Operations Management II",
+                            "course code": "BSAD 204",
+                            "units": 3
+                        },
+                        {
+                            "name": "Foundations of Entrepreneurship",
+                            "course code": "BSAD 220",
+                            "units": 2
+                        },
+                        {
+                            "name": "Statistics for Management II",
+                            "course code": "BSAD 232",
+                            "units": 3
+                        },
+                        {
+                            "name": "Fundamentals of Insurance",
+                            "course code": "BSAD 244",
+                            "units": 2
+                        }
+                    ]
+                },
+                
+                 "300": {
+                        "1": [
+                            {
+                                "name": "Citizenship Orientation",
+                                "course code": "GEDS 001",
+                                "units": 0
+                            },
+                            {
+                                "name": "Religion and Social Ethics",
+                                "course code": "GEDS 317",
+                                "units": 3
+                            },
+                            {
+                                "name": "Industrial and Labour Relations",
+                                "course code": "BSAD 317",
+                                "units": 3
+                            },
+                            {
+                                "name": "Research Methodology",
+                                "course code": "BSAD 311",
+                                "units": 3
+                            },
+                            {
+                                "name": "Management Accounting",
+                                "course code": "ACCT 300",
+                                "units": 3
+                            },
+                            {
+                                "name": "Consumer Behaviour",
+                                "course code": "MKTG 341",
+                                "units": 3
+                            },
+                            {
+                                "name": "Intermediate Spreadsheet",
+                                "course code": "INSY 301",
+                                "units": 2
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "Introduction to Family Life Education",
+                                "course code": "GEDS 312",
+                                "units": 2
+                            },
+                            {
+                                "name": "E-Customer Relationship Management",
+                                "course code": "GEDS 310",
+                                "units": 2
+                            },
+                            {
+                                "name": "Leadership Skills",
+                                "course code": "GEDS 280",
+                                "units": 2
+                            },
+                            {
+                                "name": "Corporate Planning",
+                                "course code": "BSAD 304",
+                                "units": 3
+                            },
+                            {
+                                "name": "Operations Research",
+                                "course code": "BSAD 314",
+                                "units": 3
+                            },
+                            {
+                                "name": "Human Resources Management",
+                                "course code": "BSAD 332",
+                                "units": 3
+                            },
+                            {
+                                "name": "Company Law",
+                                "course code": "LAWS 322",
+                                "units": 3
+                            },
+                            {
+                                "name": "Business Law II",
+                                "course code": "LAWS 326",
+                                "units": 3
+                            },
+                            {
+                                "name": "Business Micro-Computer Applications",
+                                "course code": "INSY 302",
+                                "units": 2
+                            }
+                        ]
+                    },
+                    
+                "400": {
+                            "1": [
+                                {
+                                    "name": "Citizenship Orientation",
+                                    "course code": "GEDS 001",
+                                    "units": 0
+                                },
+                                {
+                                    "name": "E-Project Management and Simulation",
+                                    "course code": "GEDS 440",
+                                    "units": 2
+                                },
+                                {
+                                    "name": "Entrepreneurial Development I",
+                                    "course code": "BSAD 407",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Analysis of Business Decision I",
+                                    "course code": "BSAD 403",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Industrial Practice and Seminar in Business Analysis and Decision Making",
+                                    "course code": "BSAD 433",
+                                    "units": 2
+                                },
+                                {
+                                    "name": "Organizational Behaviour",
+                                    "course code": "BSAD 421",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Strategic Marketing Management I",
+                                    "course code": "MKTG 431",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "International Business",
+                                    "course code": "BSAD 441",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Purchasing Management",
+                                    "course code": "MKTG 441",
+                                    "units": 3
+                                }
+                            ],
+                            "2": [
+                                {
+                                    "name": "Biblical Principles in Personal and Professional life",
+                                    "course code": "GEDS 420",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Entrepreneurial Development II",
+                                    "course code": "BSAD 408",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Managerial Finance",
+                                    "course code": "FNCE 476",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Analysis of Business Decision II",
+                                    "course code": "BSAD 404",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Strategic Management",
+                                    "course code": "BSAD 430",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Research Project",
+                                    "course code": "BSAD 490",
+                                    "units": 6
+                                }
+                            ]
+                        }
+                                        
+                                
+                        
+
+                
+    },
+   "Marketing":{
+        "year":4,
+        "name":"Marketing",
+        
+            "100": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Philosophy of Christian Education",
+                        "course code": "GEDS 101",
+                        "units": 2
+                    },
+                    {
+                        "name": "Use of Library and Study Skills",
+                        "course code": "GEDS 105",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to General Psychology",
+                        "course code": "GEDS 107",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English I",
+                        "course code": "GEDS 131",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Management II",
+                        "course code": "BSAD 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Accounting I",
+                        "course code": "ACCT 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Economics I",
+                        "course code": "ECON 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Marketing I",
+                        "course code": "MKTG 121",
+                        "units": 3
+                    },
+                    {
+                        "name": "Business Mathematics I",
+                        "course code": "BSAD 111",
+                        "units": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Health Principles",
+                        "course code": "GEDS 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "ICT Fundamentals and Office Productivity Management",
+                        "course code": "GEDS 120",
+                        "units": 2
+                    },
+                    {
+                        "name": "Life and Teachings of Jesus the Messiah",
+                        "course code": "GEDS 126",
+                        "units": 3
+                    },
+                    {
+                        "name": "Communication in English II",
+                        "course code": "GEDS 132",
+                        "units": 2
+                    },
+                    {
+                        "name": "Nigerian People in a Global Culture",
+                        "course code": "GEDS 134",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Management II",
+                        "course code": "BSAD 102",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Accounting II",
+                        "course code": "ACCT 102",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Marketing II",
+                        "course code": "MKTG 122",
+                        "units": 3
+                    },
+                    {
+                        "name": "Business Mathematics II",
+                        "course code": "BSAD 112",
+                        "units": 2
+                    }
+                ]
+            },
+            
+                "200": {
+                    "1": [
+                        {
+                            "name": "Citizenship Orientation",
+                            "course code": "GEDS 001",
+                            "units": 0
+                        },
+                        {
+                            "name": "Fundamentals of Christian Faith",
+                            "course code": "GEDS 215",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Agriculture",
+                            "course code": "GEDS 221",
+                            "units": 2
+                        },
+                        {
+                            "name": "Production/Operations Management I",
+                            "course code": "BSAD 203",
+                            "units": 3
+                        },
+                        {
+                            "name": "Industrial and Agricultural Marketing",
+                            "course code": "MKTG 215",
+                            "units": 3
+                        },
+                        {
+                            "name": "Statistics for Management I",
+                            "course code": "BSAD 231",
+                            "units": 3
+                        },
+                        {
+                            "name": "Cost Accounting I",
+                            "course code": "ACCT 203",
+                            "units": 3
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "Communication in French",
+                            "course code": "GEDS 200",
+                            "units": 2
+                        },
+                        {
+                            "name": "Logic and Critical Thinking",
+                            "course code": "GEDS 204",
+                            "units": 2
+                        },
+                        {
+                            "name": "Environment and Sustainable Development",
+                            "course code": "GEDS 260",
+                            "units": 2
+                        },
+                        {
+                            "name": "Peace and Conflict Resolution",
+                            "course code": "GEDS 270",
+                            "units": 2
+                        },
+                        {
+                            "name": "Spreadsheet and Digital Presentations",
+                            "course code": "GEDS 290",
+                            "units": 2
+                        },
+                        {
+                            "name": "Management Theory",
+                            "course code": "BSAD 202",
+                            "units": 3
+                        },
+                        {
+                            "name": "Foundations of Entrepreneurship",
+                            "course code": "BSAD 220",
+                            "units": 2
+                        },
+                        {
+                            "name": "Business Communication",
+                            "course code": "BSAD 211",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Financial Management",
+                            "course code": "FNCE 218",
+                            "units": 3
+                        },
+                        {
+                            "name": "Integrated Marketing Communication",
+                            "course code": "MKTG 216",
+                            "units": 3
+                        },
+                        {
+                            "name": "Statistics for Management II",
+                            "course code": "BSAD 232",
+                            "units": 3
+                        },
+                        {
+                            "name": "Sales Management",
+                            "course code": "MKTG 242",
+                            "units": 3
+                        },
+                        {
+                            "name": "Fundamentals of Insurance",
+                            "course code": "BSAD 244",
+                            "units": 2
+                        }
+                    ]
+                },
+                
+                    "300": {
+                        "1": [
+                            {
+                                "name": "Citizenship Orientation",
+                                "course code": "GEDS 001",
+                                "units": 0
+                            },
+                            {
+                                "name": "Religion and Social Ethics",
+                                "course code": "GEDS 317",
+                                "units": 3
+                            },
+                            {
+                                "name": "E-Customer Relationship Management",
+                                "course code": "GEDS 310",
+                                "units": 2
+                            },
+                            {
+                                "name": "Leadership Skills",
+                                "course code": "GEDS 280",
+                                "units": 2
+                            },
+                            {
+                                "name": "Research Methodology",
+                                "course code": "BSAD 311",
+                                "units": 3
+                            },
+                            {
+                                "name": "Business Law I",
+                                "course code": "LAWS 325",
+                                "units": 3
+                            },
+                            {
+                                "name": "Consumer Behaviour",
+                                "course code": "MKTG 341",
+                                "units": 3
+                            },
+                            {
+                                "name": "Product Development and Branding",
+                                "course code": "MKTG 345",
+                                "units": 3
+                            },
+                            {
+                                "name": "Intermediate Spreadsheet",
+                                "course code": "INSY 301",
+                                "units": 2
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "Introduction to Family Life Education",
+                                "course code": "GEDS 312",
+                                "units": 2
+                            },
+                            {
+                                "name": "Operations Research",
+                                "course code": "BSAD 314",
+                                "units": 3
+                            },
+                            {
+                                "name": "Human Resources Management",
+                                "course code": "BSAD 332",
+                                "units": 3
+                            },
+                            {
+                                "name": "Business Law II",
+                                "course code": "LAWS 326",
+                                "units": 3
+                            },
+                            {
+                                "name": "Company Law",
+                                "course code": "LAWS 322",
+                                "units": 3
+                            },
+                            {
+                                "name": "Promotional Strategies",
+                                "course code": "MKTG 342",
+                                "units": 3
+                            },
+                            {
+                                "name": "Service Marketing",
+                                "course code": "MKTG 343",
+                                "units": 3
+                            },
+                            {
+                                "name": "Management Accounting",
+                                "course code": "ACCT 300",
+                                "units": 3
+                            },
+                            {
+                                "name": "Business Micro-computer Applications",
+                                "course code": "INSY 302",
+                                "units": 2
+                            }
+                        ]
+                    },
+                    
+                        "400": {
+                            "1": [
+                                {
+                                    "name": "Citizenship Orientation",
+                                    "course code": "GEDS 001",
+                                    "units": 0
+                                },
+                                {
+                                    "name": "E-Project Management and Simulation",
+                                    "course code": "GEDS 440",
+                                    "units": 2
+                                },
+                                {
+                                    "name": "Marketing Research",
+                                    "course code": "MKTG 401",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Entrepreneurial Development I",
+                                    "course code": "BSAD 407",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Entrepreneurial Development II",
+                                    "course code": "BSAD 408",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Physical Distribution",
+                                    "course code": "MKTG 411",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Analysis of Business Decision I",
+                                    "course code": "BSAD 403",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Industrial Practice and Seminar in Marketing Analysis and Decision Making",
+                                    "course code": "MKTG 433",
+                                    "units": 2
+                                },
+                                {
+                                    "name": "Strategic Marketing Management I",
+                                    "course code": "MKTG 431",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Purchasing Management",
+                                    "course code": "MKTG 441",
+                                    "units": 3
+                                }
+                            ],
+                            "2": [
+                                {
+                                    "name": "Biblical Principles in Personal and Professional Life",
+                                    "course code": "GEDS 420",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Analysis of Business Decision II",
+                                    "course code": "BSAD 404",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "International Marketing",
+                                    "course code": "MKTG 422",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Strategic Management",
+                                    "course code": "BSAD 430",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Electronic Marketing",
+                                    "course code": "MKTG 416",
+                                    "units": 3
+                                },
+                                {
+                                    "name": "Research Project",
+                                    "course code": "MKTG 490",
+                                    "units": 6
+                                }
+                            ]
+                        }
+                                        
+                
+                
+                        
+                
+    },
+    "Finance":{
+        "year":4,
+        "name":"Finance",
+        
+            "100": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Introduction to Philosophy of Christian Education",
+                        "course code": "GEDS 101",
+                        "units": 2
+                    },
+                    {
+                        "name": "Use of Library and Study Skills",
+                        "course code": "GEDS 105",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to General Psychology",
+                        "course code": "GEDS 107",
+                        "units": 2
+                    },
+                    {
+                        "name": "ICT Fundamentals and Office Productivity Management",
+                        "course code": "GEDS 120",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English I",
+                        "course code": "GEDS 131",
+                        "units": 2
+                    },
+                    {
+                        "name": "Principles of Economics I",
+                        "course code": "ECON 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Management I",
+                        "course code": "BSAD 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Financial Mathematics I",
+                        "course code": "FNCE 123",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to Money and Banking",
+                        "course code": "FNCE 115",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Health Principles",
+                        "course code": "GEDS 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "Life and Teachings of Jesus the Messiah",
+                        "course code": "GEDS 126",
+                        "units": 3
+                    },
+                    {
+                        "name": "Communication in English II",
+                        "course code": "GEDS 132",
+                        "units": 2
+                    },
+                    {
+                        "name": "Nigerian People in a Global Culture",
+                        "course code": "GEDS 134",
+                        "units": 2
+                    },
+                    {
+                        "name": "Basic Accounting",
+                        "course code": "ACCT 108",
+                        "units": 3
+                    },
+                    {
+                        "name": "Principles of Economics II",
+                        "course code": "ECON 102",
+                        "units": 3
+                    },
+                    {
+                        "name": "Fundamentals of Business and Finance",
+                        "course code": "FNCE 132",
+                        "units": 3
+                    },
+                    {
+                        "name": "Financials Mathematics II",
+                        "course code": "FNCE 124",
+                        "units": 2
+                    }
+                ]
+            },
+            
+            "200": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                  
+                    {
+                      "name": "Financial Accounting I",
+                      "course code": "ACCT 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "Principles of Micro-Economics",
+                      "course code": "ECON 253",
+                      "units": 3
+                    },
+                    {
+                      "name": "Business Finance I",
+                      "course code": "FNCE 211",
+                      "units": 3
+                    },
+                    {
+                      "name": "Principles of Banking Regulations I",
+                      "course code": "FNCE 215",
+                      "units": 3
+                    },
+                    {
+                        "name": "Financial Statistics",
+                        "course code": "FNCE 235",
+                        "units": 3
+                      }
+                   
+                  ],
+                  "2": [
+                    {
+                        "name": "Environment and Sustainable Development",
+                        "course code": "GEDS 260",
+                        "units": 2
+                      },
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 002",
+                      "units": 0
+                    },
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "Logic and Critical Thinking",
+                      "course code": "GEDS 204",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentations",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Financial Accounting II",
+                      "course code": "ACCT 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Principles of Macro-Economics",
+                      "course code": "ECON 254",
+                      "units": 3
+                    },
+                    {
+                      "name": "Business Finance II",
+                      "course code": "FNCE 212",
+                      "units": 3
+                    },
+                    {
+                      "name": "Principles of Banking Regulations II",
+                      "course code": "FNCE 216",
+                      "units": 3
+                    },
+                    {
+                        "name": "Elements of Banking",
+                        "course code": "FNCE 222",
+                        "units": 3
+                      }
+                   
+                  ]
+                },
+                
+            "300": {
+                      "1": [
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 001",
+                          "units": 0
+                        },
+                        {
+                          "name": "Religion and Social Ethics",
+                          "course code": "GEDS 317",
+                          "units": 3
+                        },
+                        {
+                          "name": "E-Customer Relationship Management",
+                          "course code": "GEDS 310",
+                          "units": 2
+                        },
+                        {
+                          "name": "International Trade and Finance",
+                          "course code": "FNCE 311",
+                          "units": 3
+                        },
+                        {
+                          "name": "Banking Ethics and Corporate Governance",
+                          "course code": "FNCE 313",
+                          "units": 3
+                        },
+                        {
+                          "name": "Financial Information Systems",
+                          "course code": "FNCE 315",
+                          "units": 3
+                        },
+                        {
+                          "name": "Financial Management",
+                          "course code": "FNCE 325",
+                          "units": 3
+                        },
+                        {
+                          "name": "Developmental Finance",
+                          "course code": "FNCE 343",
+                          "units": 3
+                        },
+                        {
+                          "name": "Methods of Research",
+                          "course code": "FNCE 365",
+                          "units": 3
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 002",
+                          "units": 0
+                        },
+                        {
+                          "name": "Introduction to Family Life Education",
+                          "course code": "GEDS 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "Peace and Conflict Resolution",
+                          "course code": "GEDS 270",
+                          "units": 2
+                        },
+                        {
+                          "name": "Quantitative Techniques",
+                          "course code": "FNCE 326",
+                          "units": 3
+                        },
+                        {
+                          "name": "Financial Systems",
+                          "course code": "FNCE 328",
+                          "units": 3
+                        },
+                        {
+                          "name": "Public Finance and Fiscal Policy",
+                          "course code": "FNCE 338",
+                          "units": 3
+                        },
+                        {
+                          "name": "Small Business Finance",
+                          "course code": "FNCE 346",
+                          "units": 3
+                        },
+                        {
+                          "name": "Basic Business Communication",
+                          "course code": "BSAD 354",
+                          "units": 3
+                        },
+                        {
+                          "name": "Financial Economics for Banking",
+                          "course code": "FNCE 382",
+                          "units": 3
+                        }
+                      ]
+                },
+                
+           "400": {
+                      "1": [
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 001",
+                          "units": 0
+                        },
+                        {
+                          "name": "Introduction to Entrepreneurial Skills",
+                          "course code": "GEDS 400",
+                          "units": 2
+                        },
+                        {
+                          "name": "E-Project Management and Simulation",
+                          "course code": "GEDS 440",
+                          "units": 2
+                        },
+                        {
+                          "name": "Leadership Skills",
+                          "course code": "GEDS 280",
+                          "units": 2
+                        },
+                        {
+                          "name": "Practice of Banking",
+                          "course code": "FNCE 431",
+                          "units": 3
+                        },
+                        {
+                          "name": "Marketing of Financial Services",
+                          "course code": "FNCE 443",
+                          "units": 3
+                        },
+                        {
+                          "name": "Investment Analysis and Portfolio Management",
+                          "course code": "FNCE 451",
+                          "units": 3
+                        },
+                        {
+                          "name": "Bank Lending and Loan Administration I",
+                          "course code": "FNCE 491",
+                          "units": 3
+                        },
+                        {
+                          "name": "Strategic Management in Financial Industry",
+                          "course code": "FNCE 471",
+                          "units": 3
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 002",
+                          "units": 0
+                        },
+                        {
+                          "name": "Biblical Principles in Personal and Professional Life",
+                          "course code": "GEDS 420",
+                          "units": 3
+                        },
+                        {
+                          "name": "Corporate Finance",
+                          "course code": "FNCE 428",
+                          "units": 3
+                        },
+                        {
+                          "name": "International Banking and Finance",
+                          "course code": "FNCE 432",
+                          "units": 3
+                        },
+                        {
+                          "name": "Comparative Banking",
+                          "course code": "FNCE 462",
+                          "units": 3
+                        },
+                        {
+                          "name": "Risk Management for Financial Services",
+                          "course code": "FNCE 496",
+                          "units": 3
+                        },
+                        {
+                          "name": "Research Project",
+                          "course code": "FNCE 499",
+                          "units": 6
+                        }
+                      ]
+            }
+                                    
+                                    
+                            
+                
+    },
+    "Information Resources Management": {
+        "year":4,
+        "name":"Information Resources Management",
+        
+        "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Information Science",
+                  "course code": "IRMA 102",
+                  "units": 3
+                },
+                {
+                  "name": "Foundation of Library and Information Studies",
+                  "course code": "IRMA 105",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamentals of Information Resources Management",
+                  "course code": "IRMA 107",
+                  "units": 3
+                },
+                {
+                  "name": "Principles of Management II",
+                  "course code": "BSAD 102",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Computer Science and Programming I",
+                  "course code": "COSC 111",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 002",
+                  "units": 0
+                },
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "Information Literacy and Seeking Behaviour",
+                  "course code": "IRMA 114",
+                  "units": 3
+                },
+                {
+                  "name": "Reference Sources and Services",
+                  "course code": "IRMA 118",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Computer Science and Programming II",
+                  "course code": "COSC 112",
+                  "units": 3
+                }
+              ]
+        },
+        
+         "200": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Fundamentals of Christian Faith",
+                  "course code": "GEDS 215",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Agriculture",
+                  "course code": "GEDS 221",
+                  "units": 2
+                },
+                {
+                  "name": "Environment and Sustainable Development",
+                  "course code": "GEDS 260",
+                  "units": 2
+                },
+                {
+                  "name": "Theory and Organization of Knowledge",
+                  "course code": "IRMA 203",
+                  "units": 3
+                },
+                {
+                  "name": "Office Management Skills",
+                  "course code": "IRMA 205",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Information Communication Technology",
+                  "course code": "IRMA 217",
+                  "units": 3
+                },
+                {
+                  "name": "Preservation and Conservation of Information Resources",
+                  "course code": "IRMA 221",
+                  "units": 3
+                },
+                {
+                  "name": "Library Routines",
+                  "course code": "IRMA 227",
+                  "units": 3
+                },
+                {
+                  "name": "Statistics for Management I",
+                  "course code": "BSAD 231",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 002",
+                  "units": 0
+                },
+                {
+                  "name": "Communication in French",
+                  "course code": "GEDS 200",
+                  "units": 2
+                },
+                {
+                  "name": "Logic and Critical Thinking",
+                  "course code": "GEDS 204",
+                  "units": 2
+                },
+                {
+                  "name": "Spreadsheet and Digital Presentations",
+                  "course code": "GEDS 290",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Knowledge Management",
+                  "course code": "IRMA 204",
+                  "units": 3
+                },
+                {
+                  "name": "Business Information Resources",
+                  "course code": "IRMA 206",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Records and Information Management",
+                  "course code": "IRMA 216",
+                  "units": 3
+                },
+                {
+                  "name": "Cataloguing and Classification",
+                  "course code": "IRMA 222",
+                  "units": 3
+                },
+                {
+                  "name": "Statistics for Management II",
+                  "course code": "BSAD 232",
+                  "units": 3
+                },
+                {
+                  "name": "Programming in Visual Basic",
+                  "course code": "COSC 202",
+                  "units": 3
+                }
+              ]
+            },
+            
+                "300": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "E-Customer Relationship Management",
+                      "course code": "GEDS 310",
+                      "units": 2
+                    },
+                    {
+                      "name": "Religion and Social Ethics",
+                      "course code": "GEDS 317",
+                      "units": 3
+                    },
+                    {
+                      "name": "Indexing and Abstracting",
+                      "course code": "IRMA 301",
+                      "units": 3
+                    },
+                    {
+                      "name": "Archives Management",
+                      "course code": "IRMA 333",
+                      "units": 3
+                    },
+                    {
+                      "name": "Collection Management",
+                      "course code": "IRMA 321",
+                      "units": 3
+                    },
+                    {
+                      "name": "Administration of Libraries and Information Centers",
+                      "course code": "IRMA 325",
+                      "units": 3
+                    },
+                    {
+                      "name": "Indigenous Knowledge",
+                      "course code": "IRMA 320",
+                      "units": 2
+                    },
+                    {
+                      "name": "Information in Society",
+                      "course code": "IRMA 315",
+                      "units": 2
+                    },
+                    {
+                      "name": "Community Information Services",
+                      "course code": "IRMA 323",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 002",
+                      "units": 0
+                    },
+                    {
+                      "name": "Introduction to Family Life Education",
+                      "course code": "GEDS 312",
+                      "units": 2
+                    },
+                    {
+                      "name": "Management Information Systems",
+                      "course code": "IRMA 316",
+                      "units": 3
+                    },
+                    {
+                      "name": "Web Design and Development",
+                      "course code": "IRMA 330",
+                      "units": 3
+                    },
+                    {
+                      "name": "Legal and Ethical Issues in IRM",
+                      "course code": "IRMA 331",
+                      "units": 3
+                    },
+                    {
+                      "name": "Computer Application in IRM",
+                      "course code": "IRMA 332",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Methods in IRM",
+                      "course code": "IRMA 341",
+                      "units": 3
+                    },
+                    {
+                      "name": "Students Industrial Work Experience Scheme (SIWES)",
+                      "course code": "IRMA 360",
+                      "units": 6
+                    }
+                  ]
+                },
+                
+                    "400": {
+                        "1": [
+                            {
+                                "name": "Citizenship Orientation",
+                                "course code": "GEDS 001",
+                                "units": 0
+                            },
+                            {
+                                "name": "Leadership Skills",
+                                "course code": "GEDS 280",
+                                "units": 2
+                            },
+                            {
+                                "name": "Introduction to Entrepreneurial Skills",
+                                "course code": "GEDS 400",
+                                "units": 2
+                            },
+                            {
+                                "name": "E-Project Management and Simulation",
+                                "course code": "GEDS 440",
+                                "units": 2
+                            },
+                            {
+                                "name": "Information System Analysis, Design and Evaluation",
+                                "course code": "IRMA 401",
+                                "units": 3
+                            },
+                            {
+                                "name": "Multimedia Information Resources",
+                                "course code": "IRMA 404",
+                                "units": 3
+                            },
+                            {
+                                "name": "Information Products and Services",
+                                "course code": "IRMA 421",
+                                "units": 3
+                            },
+                            {
+                                "name": "Academic and Special Libraries",
+                                "course code": "IRMA 422",
+                                "units": 3
+                            },
+                            {
+                                "name": "Information Storage and Retrieval",
+                                "course code": "IRMA 423",
+                                "units": 3
+                            }
+                        ],
+                        "2": [
+                            {
+                                "name": "Database Construction and Management",
+                                "course code": "IRMA 402",
+                                "units": 3
+                            },
+                            {
+                                "name": "Economics of Information",
+                                "course code": "IRMA 429",
+                                "units": 3
+                            },
+                            {
+                                "name": "Research Project",
+                                "course code": "IRMA 490",
+                                "units": 6
+                            },
+                            {
+                                "name": "Biblical Principles in Personal and Professional Life",
+                                "course code": "GEDS 420",
+                                "units": 3
+                            },
+                            {
+                                "name": "Public and School Libraries",
+                                "course code": "IRMA 410",
+                                "units": 2
+                            },
+                            {
+                                "name": "Public Relations, Advocacy and Lobbying",
+                                "course code": "IRMA 414",
+                                "units": 2
+                            },
+                            {
+                                "name": "Introduction to Book Publishing and Book Trade",
+                                "course code": "IRMA 416",
+                                "units": 2
+                            },
+                            {
+                                "name": "Digital Library",
+                                "course code": "IRMA 433",
+                                "units": 2
+                            }
+                        ]
+                    }
+                                
+                            
+                    
+                    
+    }
+    
+    
+}

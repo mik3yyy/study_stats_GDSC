@@ -1,0 +1,6 @@
+framework module flutter_launcher_plus {
+  umbrella header "flutter_launcher_plus-umbrella.h"
+
+  export *
+  module * { export * }
+}

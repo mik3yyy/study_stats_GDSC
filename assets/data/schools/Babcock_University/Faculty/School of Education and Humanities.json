@@ -1,0 +1,3906 @@
+{
+    "name": "School of Education and Humanities",
+    "courses": [
+        "Business Education",
+        "Business Educational Administration and Planning",
+        "Economics Education",
+        "English Education",
+        "Guidance and Counseling",
+        "History and International Studies",
+        "English Studies",
+        "French",
+        "Music",
+        "Christian Religious Studies"
+
+
+    ],
+    "Business Education":{
+        "year":4,
+        "name": "Business Education",
+        
+        "100": {
+            "1": [
+                {
+                    "name": "Communication in English I",
+                    "course code": "GEDS 131",
+                    "units": 2
+                },
+                {
+                    "name": "Use of library and Study skills",
+                    "course code": "GEDS 105",
+                    "units": 2
+                },
+                {
+                    "name": "Introduction to General psychology",
+                    "course code": "GEDS 107",
+                    "units": 2
+                },
+                {
+                    "name": "Philosophy of Christian Education",
+                    "course code": "GEDS 101",
+                    "units": 2
+                },
+                {
+                    "name": "Teaching Profession",
+                    "course code": "EDUC 113",
+                    "units": 3
+                },
+                {
+                    "name": "Principles of Management I",
+                    "course code": "BSAD 101",
+                    "units": 3
+                },
+                {
+                    "name": "Principles of Economics I",
+                    "course code": "ECONS 101",
+                    "units": 3
+                },
+                {
+                    "name": "Prin Hciples of Accounting I",
+                    "course code": "ACCT 101",
+                    "units": 3
+                },
+                {
+                    "name": "Business Mathematics I",
+                    "course code": "BSAD 111",
+                    "units": 2
+                },
+                {
+                    "name": "Word Processing",
+                    "course code": "BEDU 101",
+                    "units": 2
+                }
+            ],
+            "2": [
+                {
+                    "name": "Communication in English II",
+                    "course code": "GEDS 132",
+                    "units": 2
+                },
+                {
+                    "name": "Health principles",
+                    "course code": "GEDS 112",
+                    "units": 2
+                },
+                {
+                    "name": "Life and Teachings of Jesus the Messiah",
+                    "course code": "GEDS 126",
+                    "units": 3
+                },
+                {
+                    "name": "Nigeria people in a Global Culture",
+                    "course code": "GEDS 134",
+                    "units": 2
+                },
+                {
+                    "name": "ICT Fundamentals and Office Productivity Management",
+                    "course code": "GEDS 120",
+                    "units": 2
+                },
+                {
+                    "name": "Philosophical/sociological/psychological Foundations of Education",
+                    "course code": "EDUC 104",
+                    "units": 3
+                },
+                {
+                    "name": "Principles of Management II",
+                    "course code": "BSAD 102",
+                    "units": 3
+                },
+                {
+                    "name": "Principles of Accounting II",
+                    "course code": "ACCT 102",
+                    "units": 3
+                },
+                {
+                    "name": "Business Mathematics II",
+                    "course code": "BSAD 112",
+                    "units": 2
+                }
+            ]
+        },
+        
+            "200": {
+                "1": [
+                    {
+                        "name": "Fundamentals of Christian Faith",
+                        "course code": "GEDS 215",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Agriculture",
+                        "course code": "GEDS 221",
+                        "units": 2
+                    },
+                    {
+                        "name": "Leadership Skills",
+                        "course code": "GEDS 280",
+                        "units": 2
+                    },
+                    {
+                        "name": "Educational Psychology",
+                        "course code": "EDUC 203",
+                        "units": 3
+                    },
+                  
+                    {
+                        "name": "Introduction to Statistics in Education",
+                        "course code": "EDUC 213",
+                        "units": 3
+                    },
+                    {
+                        "name": "Production/Operations Management I",
+                        "course code": "BSAD 203",
+                        "units": 3
+                    },
+                    {
+                        "name": "Fundamentals of Business Education",
+                        "course code": "BEDU 213",
+                        "units": 3
+                    },
+                    {
+                        "name": "Business Communication",
+                        "course code": "BSAD 211",
+                        "units": 3
+                    },
+                    {
+                        "name": "Cost Accounting I",
+                        "course code": "ACCT 203",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Communication in French",
+                        "course code": "GEDS 200",
+                        "units": 2
+                    },
+                    {
+                        "name": "Logic and Critical Thinking",
+                        "course code": "GEDS 204",
+                        "units": 2
+                    },
+                    {
+                        "name": "Spreadsheet and Digital Presentations",
+                        "course code": "GEDS 290",
+                        "units": 2
+                    },
+                    {
+                        "name": "Environmental and Sustainable Development",
+                        "course code": "GEDS 260",
+                        "units": 2
+                    },
+                    {
+                        "name": "Peace and Conflict Resolution",
+                        "course code": "GEDS 270",
+                        "units": 2
+                    },
+                    {
+                        "name": "Teaching methods 1",
+                        "course code": "EDUC 204",
+                        "units": 3
+                    },
+                    {
+                        "name": "Teaching Practice I",
+                        "course code": "EDUC 210",
+                        "units": 3
+                    },
+                    {
+                        "name": "Educational/Instructional Technology",
+                        "course code": "EDUC 246",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Financial Management",
+                        "course code": "FNCE 218",
+                        "units": 3
+                    },
+                    {
+                        "name": "Administrative Office Management",
+                        "course code": "BEDU 202",
+                        "units": 2
+                    }
+                ]
+            },
+            
+            "300": {
+                    "1": [
+                        {
+                            "name": "Religion and Social Ethics",
+                            "course code": "GEDS 317",
+                            "units": 3
+                        },
+                        {
+                            "name": "E-Customer Relationship Management",
+                            "course code": "GEDS 310",
+                            "units": 2
+                        },
+                        {
+                            "name": "Educational Planning and Administration",
+                            "course code": "EDUC 303",
+                            "units": 2
+                        },
+                        {
+                            "name": "Teaching Methods II",
+                            "course code": "EDUC 301",
+                            "units": 3
+                        },
+                        {
+                            "name": "Curriculum Development and Instructions I",
+                            "course code": "EDUC 305",
+                            "units": 2
+                        },
+                        {
+                            "name": "Research Methods in Education",
+                            "course code": "EDUC 311",
+                            "units": 3
+                        },
+                        {
+                            "name": "Production/Operations Management I",
+                            "course code": "BSAD 203",
+                            "units": 3
+                        },
+                        {
+                            "name": "Fundamentals of Business Education",
+                            "course code": "BEDU 213",
+                            "units": 3
+                        },
+                        {
+                            "name": "Business Communication",
+                            "course code": "BSAD 211",
+                            "units": 3
+                        },
+                        {
+                            "name": "Management Accounting",
+                            "course code": "ACCT 300",
+                            "units": 3
+                        },
+                        {
+                            "name": "Intermediate Spreadsheet",
+                            "course code": "INSY 301",
+                            "units": 2
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "Introduction to Family Life Education",
+                            "course code": "GEDS 312",
+                            "units": 2
+                        },
+                        {
+                            "name": "Tests, Measurements and Evaluation in Education",
+                            "course code": "EDUC 302",
+                            "units": 3
+                        },
+                        {
+                            "name": "Office Information Technology",
+                            "course code": "BEDU 312",
+                            "units": 2
+                        },
+                        {
+                            "name": "Human Resources Management",
+                            "course code": "BSAD 332",
+                            "units": 3
+                        },
+                        {
+                            "name": "Operations Research",
+                            "course code": "BSAD 314",
+                            "units": 3
+                        },
+                        {
+                            "name": "Audit and Assurance I",
+                            "course code": "ACCT 318",
+                            "units": 3
+                        },
+                        {
+                            "name": "Business Law I",
+                            "course code": "LAWS 325",
+                            "units": 3
+                        },
+                        {
+                            "name": "Business Law II",
+                            "course code": "LAWS 326",
+                            "units": 3
+                        },
+                        {
+                            "name": "Industrial and Labour Relations",
+                            "course code": "BSAD 317",
+                            "units": 3
+                        }
+                    ]
+             },
+            "400": {
+        "1": [
+            {
+                "name": "Guidance and Counseling",
+                "course code": "EDUC 413",
+                "units": 2
+            },
+            {
+                "name": "Curriculum Development and Instructions II",
+                "course code": "EDUC 423",
+                "units": 2
+            },
+            {
+                "name": "Organizational Behaviour",
+                "course code": "BSAD 421",
+                "units": 3
+            },
+            {
+                "name": "Entrepreneurial Development I",
+                "course code": "BSAD 407",
+                "units": 3
+            },
+            {
+                "name": "Taxation I",
+                "course code": "ACCT 433",
+                "units": 3
+            },
+            {
+                "name": "Fundamentals of Data Processing",
+                "course code": "BEDU 401",
+                "units": 3
+            },
+            {
+                "name": "Strategic Marketing Management I",
+                "course code": "MKTG 431",
+                "units": 3
+            }
+        ],
+        "2": [
+            {
+                "name": "Introduction to Entrepreneurial Skill",
+                "course code": "GEDS 400",
+                "units": 2
+            },
+            {
+                "name": "Introduction to Special Education",
+                "course code": "EDUC 412",
+                "units": 2
+            },
+            {
+                "name": "E-Project Management and Simulation",
+                "course code": "GEDS 440",
+                "units": 2
+            },
+            {
+                "name": "Strategic Management",
+                "course code": "BSAD 430",
+                "units": 3
+            },
+            {
+                "name": "Managerial Finance",
+                "course code": "FNCE 476",
+                "units": 3
+            },
+            {
+                "name": "Management Information System",
+                "course code": "BEDU 402",
+                "units": 2
+            },
+            {
+                "name": "Research Project",
+                "course code": "EDUC 490",
+                "units": 6
+            }
+        ]
+            }
+
+            
+            
+                    
+    },
+    "Business Educational Administration and Planning":{
+        "year":4,
+        "name": "Business Educational Administration and Planning",
+        "100": {
+                "1": [
+                    {
+                        "name": "Use of Library and Study Skills",
+                        "course code": "GEDS 105",
+                        "units": 2
+                    },
+                    {
+                        "name": "Philosophy of Christian Education",
+                        "course code": "GEDS 101",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to General Psychology",
+                        "course code": "GEDS 107",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English I",
+                        "course code": "GEDS 131",
+                        "units": 2
+                    },
+                    {
+                        "name": "Teaching Profession",
+                        "course code": "EDUC 113",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Educational Policies in Nigeria",
+                        "course code": "EDPA 105",
+                        "units": 3
+                    },
+                    {
+                        "name": "Administrative Behaviour",
+                        "course code": "EDPA 113",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Life and Teachings of Jesus the Messiah",
+                        "course code": "GEDS 126",
+                        "units": 3
+                    },
+                    {
+                        "name": "Communication in English II",
+                        "course code": "GEDS 132",
+                        "units": 2
+                    },
+                    {
+                        "name": "Health Principles",
+                        "course code": "GEDS 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "Nigeria People in Global Culture",
+                        "course code": "GEDS 134",
+                        "units": 2
+                    },
+                    {
+                        "name": "ICT Fundamentals and Office Productivity Management",
+                        "course code": "GEDS 120",
+                        "units": 2
+                    },
+                    {
+                        "name": "Philosophical/sociological/psychological Foundations of Education",
+                        "course code": "EDUC 104",
+                        "units": 3
+                    },
+                    {
+                        "name": "History of Educational Administration and Planning in Nigeria",
+                        "course code": "EDPA 108",
+                        "units": 3
+                    }
+                ]
+        },
+    
+        "200": {
+                "1": [
+                    {
+                        "name": "Fundamentals of Christian Faith",
+                        "course code": "GEDS 215",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Agriculture",
+                        "course code": "GEDS 221",
+                        "units": 2
+                    },
+                    {
+                        "name": "Environmental and Sustainable Development",
+                        "course code": "GEDS 260",
+                        "units": 2
+                    },
+                    {
+                        "name": "Peace and Conflict Resolution",
+                        "course code": "GEDS 270",
+                        "units": 2
+                    },
+                    {
+                        "name": "Educational Psychology",
+                        "course code": "EDUC 203",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Statistics in Education",
+                        "course code": "EDUC 213",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Administration of School Laws in Nigeria",
+                        "course code": "EDPA 212",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Educational Administration and Planning",
+                        "course code": "EDPA 213",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Communication Skills in Educational Management",
+                        "course code": "ENGC 207",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Communication in French",
+                        "course code": "GEDS 200",
+                        "units": 2
+                    },
+                    {
+                        "name": "Logic and Critical Thinking",
+                        "course code": "GEDS 204",
+                        "units": 2
+                    },
+                    {
+                        "name": "Spreadsheet and Digital Presentations",
+                        "course code": "GEDS 290",
+                        "units": 2
+                    },
+                    {
+                        "name": "Teaching Methods I",
+                        "course code": "EDUC 204",
+                        "units": 3
+                    },
+                    {
+                        "name": "Teaching Practice I",
+                        "course code": "EDUC 210",
+                        "units": 3
+                    },
+                    {
+                        "name": "Educational/Instructional Technology",
+                        "course code": "EDUC 246",
+                        "units": 3
+                    },
+                    {
+                        "name": "Timetabling and Programme Organization in Nigerian Schools",
+                        "course code": "EDPA 214",
+                        "units": 3
+                    }
+                ]
+        },
+
+            "300": {
+                "1": [
+                    {
+                        "name": "Religion and Social Ethics",
+                        "course code": "GEDS 317",
+                        "units": 3
+                    },
+                    {
+                        "name": "Teaching Methods II",
+                        "course code": "EDUC 301",
+                        "units": 3
+                    },
+                    {
+                        "name": "Educational Planning and Administration",
+                        "course code": "EDUC 303",
+                        "units": 2
+                    },
+                    {
+                        "name": "Curriculum Development and Instruction I",
+                        "course code": "EDUC 305",
+                        "units": 2
+                    },
+                    {
+                        "name": "Research Methods in Education",
+                        "course code": "EDUC 311",
+                        "units": 3
+                    },
+                    {
+                        "name": "Leadership in Formal Organization",
+                        "course code": "EDPA 303",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to Administrative Theories",
+                        "course code": "EDPA 305",
+                        "units": 2
+                    },
+                    {
+                        "name": "Problems and Issues in Planning Nigeria Education",
+                        "course code": "EDPA 311",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "E-Customer Relationship Management",
+                        "course code": "GEDS 310",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to Family Life Education",
+                        "course code": "GEDS 312",
+                        "units": 2
+                    },
+                    {
+                        "name": "Leadership Skills",
+                        "course code": "GEDS 280",
+                        "units": 2
+                    },
+                    {
+                        "name": "Test, Measurement and Evaluation in Education",
+                        "course code": "EDUC 302",
+                        "units": 3
+                    },
+                    {
+                        "name": "School Community Relationship",
+                        "course code": "EDPA 306",
+                        "units": 2
+                    },
+                    {
+                        "name": "Economics of Education",
+                        "course code": "EDPA 308",
+                        "units": 3
+                    },
+                    {
+                        "name": "Educational Evaluation and Finance",
+                        "course code": "EDPA 314",
+                        "units": 3
+                    },
+                    {
+                        "name": "Teaching Practice II / Industrial Training in Educational Administration",
+                        "course code": "EDUC 300",
+                        "note": "To be done during the summer",
+                        "units": 3
+                    }
+                ]
+            },
+        
+  "400": {
+    "1": [
+      {
+        "name": "Biblical Principles in Personal and Professional Life",
+        "course code": "GEDS 420",
+        "units": 3
+      },
+      {
+        "name": "Introduction to Entrepreneurial Skills",
+        "course code": "GEDS 400",
+        "units": 2
+      },
+      {
+        "name": "Guidance and Counseling",
+        "course code": "EDUC 413",
+        "units": 2
+      },
+      {
+        "name": "Curriculum Development and Instruction II",
+        "course code": "EDUC 423",
+        "units": 2
+      },
+      {
+        "name": "Formal Organisation Innovative Process and Change",
+        "course code": "EDPA 417",
+        "units": 3
+      },
+      {
+        "name": "School Business Management",
+        "course code": "EDPA 414",
+        "units": 3
+      },
+      {
+        "name": "Practice of Management and Records Keeping",
+        "course code": "EDPA 419",
+        "units": 3
+      },
+      {
+        "name": "Research Project",
+        "course code": "EDUC 490",
+        "units": 6
+      }
+    ],
+    "2": [
+      {
+        "name": "E-Project Management and Simulation",
+        "course code": "GEDS 440",
+        "units": 2
+      },
+      {
+        "name": "Introduction to Special Education",
+        "course code": "EDUC 412",
+        "units": 2
+      },
+     
+      {
+        "name": "National and International Perspectives of Educational Management",
+        "course code": "EDPA 406",
+        "units": 2
+      },
+      {
+        "name": "Policy Analysis and Emerging Problems in Nigeria Education",
+        "course code": "EDPA 412",
+        "units": 3
+      },
+     
+      {
+        "name": "Personnel Management and Evaluation in Education",
+        "course code": "EDPA 415",
+        "units": 3
+      }
+    ]
+  }
+         
+                
+                
+
+    },
+    "Economics Education":{
+        "year":4,
+        "name": "Economics Education",
+        
+            "100": {
+                "1": [
+                    {
+                        "name": "Introduction to General Psychology",
+                        "course code": "GEDS 107",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English I",
+                        "course code": "GEDS 131",
+                        "units": 2
+                    },
+                    {
+                        "name": "Philosophy of Christian Education",
+                        "course code": "GEDS 101",
+                        "units": 2
+                    },
+                    {
+                        "name": "Use of Library and Study Skills",
+                        "course code": "GEDS 105",
+                        "units": 2
+                    },
+                    {
+                        "name": "ICT Fundamentals and Office Productivity Management",
+                        "course code": "GEDS 120",
+                        "units": 2
+                    },
+                    {
+                        "name": "Teaching Profession",
+                        "course code": "EDUC 113",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Life and Teachings of Jesus the Messiah",
+                        "course code": "GEDS 126",
+                        "units": 3
+                    },
+                    {
+                        "name": "Health Principles",
+                        "course code": "GEDS 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "Nigerian People in Global Culture",
+                        "course code": "GEDS 134",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English II",
+                        "course code": "GEDS 132",
+                        "units": 2
+                    }
+                ]
+            },
+            
+                "200": {
+                    "1": [
+                        {
+                            "name": "Citizenship Orientation",
+                            "course code": "GEDS 001, 002",
+                            "units": 0
+                        },
+                        {
+                            "name": "Fundamentals of Christian Faith",
+                            "course code": "GEDS 215",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Agriculture",
+                            "course code": "GEDS 221",
+                            "units": 2
+                        },
+                        {
+                            "name": "Environmental and Sustainable Development",
+                            "course code": "GEDS 260",
+                            "units": 2
+                        },
+                        {
+                            "name": "Peace and Conflict Resolution",
+                            "course code": "GEDS 270",
+                            "units": 2
+                        },
+                        {
+                            "name": "Educational Psychology",
+                            "course code": "EDUC 203",
+                            "units": 3
+                        },
+                        {
+                            "name": "Teaching Practice I",
+                            "course code": "EDUC 210",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Statistics in Education",
+                            "course code": "EDUC 213",
+                            "units": 3
+                        },
+                        {
+                            "name": "Educational/Instructional Technology",
+                            "course code": "EDUC 246",
+                            "units": 3
+                        },
+                        {
+                            "name": "Principles of Micro-Economics",
+                            "course code": "ECON 253",
+                            "units": 3
+                        },
+                        {
+                            "name": "Principles of Macro-Economics",
+                            "course code": "ECON 254",
+                            "units": 3
+                        },
+                        {
+                            "name": "Structure of Nigerian Economy",
+                            "course code": "ECON 225",
+                            "units": 3
+                        },
+                        {
+                            "name": "Financial Accounting I",
+                            "course code": "ACCT 201",
+                            "units": 3
+                        },
+                        {
+                            "name": "Mathematics for Economists",
+                            "course code": "ECON 261",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Financial Economics",
+                            "course code": "ECON 272",
+                            "units": 3
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "Communication in French",
+                            "course code": "GEDS 200",
+                            "units": 2
+                        },
+                        {
+                            "name": "Logic and Critical Thinking",
+                            "course code": "GEDS 204",
+                            "units": 2
+                        },
+                        {
+                            "name": "Leadership Skills",
+                            "course code": "GEDS 280",
+                            "units": 2
+                        },
+                        {
+                            "name": "Spreadsheet and Digital Presentations",
+                            "course code": "GEDS 290",
+                            "units": 2
+                        },
+                        {
+                            "name": "Teaching Method 1",
+                            "course code": "EDUC 204",
+                            "units": 3
+                        },
+                        {
+                            "name": "Financial Accounting II",
+                            "course code": "ACCT 202",
+                            "units": 3
+                        }
+                    ]
+                },
+                "300": {
+                    "1": [
+                      {
+                        "name": "E-Customer Relationship Management",
+                        "course code": "GEDS 310",
+                        "units": 2
+                      },
+                      {
+                        "name": "Religion and Social Ethics",
+                        "course code": "GEDS 317",
+                        "units": 3
+                      },
+                      {
+                        "name": "Teaching Practice II",
+                        "course code": "EDUC 300*",
+                        "units": 3
+                      },
+                      {
+                        "name": "Teaching Methods II",
+                        "course code": "EDUC 301",
+                        "units": 3
+                      },
+                      {
+                        "name": "Curriculum Development and Instruction I",
+                        "course code": "EDUC 305",
+                        "units": 2
+                      },
+                      {
+                        "name": "Educational Planning and Administration",
+                        "course code": "EDUC 303",
+                        "units": 3
+                      },
+                      {
+                        "name": "Research Methods in Education",
+                        "course code": "EDUC 311",
+                        "units": 3
+                      },
+                      {
+                        "name": "Intermediate Micro-Economics",
+                        "course code": "ECON 313",
+                        "units": 3
+                      },
+                      {
+                        "name": "Public Finance",
+                        "course code": "ECON 336",
+                        "units": 3
+                      },
+                      {
+                        "name": "History of Economic Thought I",
+                        "course code": "ECON 323",
+                        "units": 3
+                      },
+                      {
+                        "name": "Operations Research",
+                        "course code": "ECONS 341",
+                        "units": 3
+                      }
+                    ],
+                    "2": [
+                      {
+                        "name": "Introduction to family life Education",
+                        "course code": "GEDS 312",
+                        "units": 2
+                      },
+                      {
+                        "name": "Test Measurements and Evaluation in Education",
+                        "course code": "EDUC 302",
+                        "units": 3
+                      },
+                      {
+                        "name": "Intermediate Macro-Economics",
+                        "course code": "ECON 314",
+                        "units": 3
+                      },
+                      {
+                        "name": "Introductory Econometrics",
+                        "course code": "ECON 342",
+                        "units": 3
+                      },
+                      {
+                        "name": "Economic Development",
+                        "course code": "ECON 338",
+                        "units": 3
+                      },
+                      {
+                        "name": "History of Economic Thought II",
+                        "course code": "ECON 324",
+                        "units": 3
+                      }
+                    ]
+                  },
+                "400": {
+                      "1": [
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 001",
+                          "units": 0
+                        },
+                       
+                        {
+                          "name": "Biblical Principles in Personal and Professional Life",
+                          "course code": "GEDS 420",
+                          "units": 3
+                        },
+                      
+                        {
+                          "name": "Guidance and Counseling",
+                          "course code": "EDUC 413",
+                          "units": 2
+                        },
+                        {
+                          "name": "Curriculum Development and Instruction II",
+                          "course code": "EDUC 423",
+                          "units": 3
+                        },
+                        {
+                          "name": "Advanced Micro-Economics",
+                          "course code": "ECON 401",
+                          "units": 3
+                        },
+                       
+                        {
+                          "name": "Economic Planning 1",
+                          "course code": "ECON 413",
+                          "units": 3
+                        },
+                        {
+                          "name": "Econometrics: Theory and Practice",
+                          "course code": "ECON 423",
+                          "units": 3
+                        },
+                        {
+                          "name": "Taxation and Fiscal Policies",
+                          "course code": "ECON 453",
+                          "units": 3
+                        },
+                        {
+                          "name": "Research Project",
+                          "course code": "EDUC 490",
+                          "units": 6
+                        },
+                        {
+                            "name": "Comparative Economic Systems",
+                            "course code": "ECON 433",
+                            "units": 3
+                          }
+                      ],
+                      "2": [
+                        {
+                            "name": "Advanced Macro-Economics",
+                            "course code": "ECON 402",
+                            "units": 3
+                          },
+                        {
+                            "name": "Introduction to Special Education",
+                            "course code": "EDUC 412",
+                            "units": 2
+                          },
+                        {
+                            "name": "Introduction to Entrepreneurial Skills",
+                            "course code": "GEDS 400",
+                            "units": 2
+                          },
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 002",
+                          "units": 0
+                        },
+                        {
+                          "name": "E-Project Management and Simulation",
+                          "course code": "GEDS 440",
+                          "units": 2
+                        },
+                       
+                        {
+                          "name": "Petroleum Economics",
+                          "course code": "ECON 460",
+                          "units": 3
+                        },
+                        {
+                          "name": "Labour Economics and Industrial Relation",
+                          "course code": "ECON 462",
+                          "units": 3
+                        },
+                        {
+                          "name": "Financial Economics",
+                          "course code": "ECON 473",
+                          "units": 3
+                        }
+                      ]
+                }
+              
+                  
+            
+                        
+                
+    },
+    "English Education":{
+        "year":4,
+        "name": "English Education",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Teaching Profession",
+                  "course code": "EDUC 113",
+                  "units": 3
+                },
+                {
+                  "name": "Basic Grammar",
+                  "course code": "ENGL 101",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Nigerian People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "Philosophical/Sociological/Psychological Foundations of Education",
+                  "course code": "EDUC 104",
+                  "units": 3
+                },
+                {
+                  "name": "English Composition",
+                  "course code": "ENGL 102",
+                  "units": 3
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                }
+              ]
+            },
+            
+         "200": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                 
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentations",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Educational Psychology",
+                      "course code": "EDUC 203",
+                      "units": 3
+                    },
+                    {
+                        "name": "Varieties of English",
+                        "course code": "ENGL 205",
+                        "units": 3
+                      },
+                    {
+                      "name": "Introduction to Statistics in Education",
+                      "course code": "EDUC 213",
+                      "units": 3
+                    },
+                   
+                    {
+                        "name": "Introduction to English Phonetics and Phonology",
+                        "course code": "ENGL 211",
+                        "units": 3
+                      },
+                      {
+                        "name": "Modern African Literature: A Survey",
+                        "course code": "ENGL 233",
+                        "units": 3
+                      }
+                  ],
+                  "2": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 002",
+                      "units": 0
+                    },
+                    {
+                        "name": "Environmental and Sustainable Development",
+                        "course code": "GEDS 260",
+                        "units": 2
+                      },
+                      {
+                        "name": "Teaching Methods I",
+                        "course code": "EDUC 204",
+                        "units": 3
+                      },
+                      {
+                        "name": "Teaching Practice I",
+                        "course code": "EDUC 210",
+                        "units": 3
+                      },
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                        "name": "Educational/Instructional Technology",
+                        "course code": "EDUC 246",
+                        "units": 3
+                      },
+                    {
+                      "name": "Logic and Critical Thinking",
+                      "course code": "GEDS 204",
+                      "units": 2
+                    },
+                    {
+                      "name": "History of the English Language",
+                      "course code": "ENGL 202",
+                      "units": 3
+                    },
+                  
+                   
+                    {
+                      "name": "Nigerian Literature in English",
+                      "course code": "ENGL 236",
+                      "units": 3
+                    },
+                    {
+                      "name": "Creative Writing",
+                      "course code": "ENGL 242",
+                      "units": 2
+                    }
+                  ]
+                },
+                
+         "300": {
+                      "1": [
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 001",
+                          "units": 0
+                        },
+                        {
+                          "name": "Religion and Social Ethics",
+                          "course code": "GEDS 317",
+                          "units": 3
+                        },
+                       
+                        {
+                          "name": "Teaching Methods II",
+                          "course code": "EDUC 301",
+                          "units": 3
+                        },
+                       
+                        {
+                          "name": "Educational Planning and Administration",
+                          "course code": "EDUC 303",
+                          "units": 3
+                        },
+                        {
+                          "name": "Research Methods in Education",
+                          "course code": "EDUC 311",
+                          "units": 2
+                        },
+                        {
+                          "name": "Curriculum Development and Instruction I",
+                          "course code": "EDUC 305",
+                          "units": 2
+                        },
+                        {
+                          "name": "English Phonology",
+                          "course code": "ENGL 301",
+                          "units": 3
+                        },
+                       
+                        {
+                          "name": "Stylistics",
+                          "course code": "ENGL 303",
+                          "units": 3
+                        },
+                        {
+                          "name": "Contemporary African Poetry",
+                          "course code": "ENGL 332",
+                          "units": 2
+                        }
+                      ],
+                      "2": [
+                        {
+                            "name": "Teaching Practice II",
+                            "course code": "EDUC 300",
+                            "units": 3
+                          },
+                          {
+                            "name": "Test Measurement and Evaluation in Education",
+                            "course code": "EDUC 302",
+                            "units": 3
+                          },
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 002",
+                          "units": 0
+                        },
+                        {
+                          "name": "Introduction to Family Life Education",
+                          "course code": "GEDS 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "E-Customer Relationship Management",
+                          "course code": "GEDS 310",
+                          "units": 2
+                        },
+                        {
+                            "name": "English Syntax and Lexis",
+                            "course code": "ENGL 302",
+                            "units": 3
+                          },
+                        {
+                          "name": "Contemporary African Drama",
+                          "course code": "ENGL 343",
+                          "units": 3
+                        },
+                        {
+                          "name": "Teaching English as a Second Language",
+                          "course code": "ENGL 338",
+                          "units": 3
+                        }
+                      ]
+                    },
+         "400": {
+                          "1": [
+                            {
+                              "name": "Citizenship Orientation",
+                              "course code": "GEDS 001",
+                              "units": 0
+                            },
+                            {
+                              "name": "Introduction to Entrepreneurial Skills",
+                              "course code": "GEDS 400",
+                              "units": 2
+                            },
+                            {
+                              "name": "Biblical Principles in Personal and Professional Life",
+                              "course code": "GEDS 420",
+                              "units": 3
+                            },
+                          
+                            {
+                              "name": "Guidance and Counseling",
+                              "course code": "EDUC 413",
+                              "units": 2
+                            },
+                            {
+                              "name": "Curriculum Development and Instruction II",
+                              "course code": "EDUC 423",
+                              "units": 2
+                            },
+                            {
+                              "name": "Grammatical Theories I: TGG",
+                              "course code": "ENGL 407",
+                              "units": 3
+                            },
+                            {
+                              "name": "English for Specific Purposes",
+                              "course code": "ENGL 411",
+                              "units": 3
+                            },
+                          
+                            {
+                              "name": "Introduction to Sociolinguistics",
+                              "course code": "ENGL 453",
+                              "units": 3
+                            }
+                         
+                          ],
+                          "2": [
+                            {
+                              "name": "Citizenship Orientation",
+                              "course code": "GEDS 002",
+                              "units": 0
+                            },
+                            {
+                              "name": "E-Project Management and Simulation",
+                              "course code": "GEDS 440",
+                              "units": 2
+                            },
+                            {
+                                "name": "Introduction to Special Education",
+                                "course code": "EDUC 412",
+                                "units": 2
+                              },
+                              {
+                                "name": "Pragmatics",
+                                "course code": "ENGL 436",
+                                "units": 3
+                              },
+                              {
+                                "name": "Grammatical Theories II: SFG",
+                                "course code": "ENGL 438",
+                                "units": 3
+                              },
+                              {
+                                "name": "Introduction to Text-Linguistics",
+                                "course code": "ENGL 452",
+                                "units": 3
+                              },
+                              {
+                                "name": "Research Project",
+                                "course code": "EDUC 490",
+                                "units": 6
+                              }
+                          ]
+           }
+        
+                 
+
+    },
+    "Guidance and Counseling":{
+        "year":4,
+        "name": "Guidance and Counseling",
+    
+        "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Use of Library and Skill Studies",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Teaching Profession",
+                  "course code": "EDUC 113",
+                  "units": 3
+                },
+                {
+                  "name": "Philosophical/Sociological/Psychological Foundations of Education",
+                  "course code": "EDUC 104",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principle",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Nigerian People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Guidance and Counseling: Principles and Techniques of Counseling",
+                  "course code": "GCPC 116",
+                  "units": 3
+                }
+              ]
+        },
+        
+        "200": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Fundamentals of Christian Faith",
+                  "course code": "GEDS 215",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Agriculture",
+                  "course code": "GEDS 221",
+                  "units": 2
+                },
+                {
+                  "name": "Environment and Sustainable Development",
+                  "course code": "GEDS 260",
+                  "units": 2
+                },
+                {
+                  "name": "Educational Psychology",
+                  "course code": "EDUC 203",
+                  "units": 3
+                },
+              
+                {
+                  "name": "Introduction to Statistics in Education",
+                  "course code": "EDUC 213",
+                  "units": 3
+                },
+                {
+                  "name": "Counseling for Special Needs",
+                  "course code": "GCPC 213",
+                  "units": 2
+                },
+                {
+                  "name": "Testing in Counseling and Techniques in Continuous Assessment",
+                  "course code": "GCPC 221",
+                  "units": 3
+                },
+                {
+                  "name": "Developmental Psychology",
+                  "course code": "GCPC 220",
+                  "units": 2
+                }
+              ],
+              "2": [
+                {
+                  "name": "Communication in French",
+                  "course code": "GEDS 200",
+                  "units": 2
+                },
+                {
+                    "name": "Teaching Method I",
+                    "course code": "EDUC 204",
+                    "units": 3
+                  },
+                {
+                  "name": "Logic and Critical Thinking",
+                  "course code": "GEDS 204",
+                  "units": 2
+                },
+                {
+                  "name": "Leadership Skills",
+                  "course code": "GEDS 280",
+                  "units": 2
+                },
+                {
+                  "name": "Spreadsheet and Digital Presentations",
+                  "course code": "GEDS 290",
+                  "units": 2
+                },
+                {
+                  "name": "Educational/Instructional Technology",
+                  "course code": "EDUC 246",
+                  "units": 3
+                },
+                {
+                  "name": "Counseling Theories and Psychotherapy",
+                  "course code": "GCPC 224",
+                  "units": 3
+                },
+                {
+                  "name": "Laboratory work II: Academic Counseling",
+                  "course code": "GCPC 230",
+                  "units": 1
+                }
+              ]
+        },
+        
+            "300": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Teaching Methods II",
+                  "course code": "EDUC 301",
+                  "units": 3
+                },
+                {
+                  "name": "Research Methods in Education",
+                  "course code": "EDUC 311",
+                  "units": 3
+                },
+                {
+                  "name": "Curriculum Development and Instruction I",
+                  "course code": "EDUC 305",
+                  "units": 2
+                },
+                {
+                  "name": "Pastoral Counseling",
+                  "course code": "GCPC 351",
+                  "units": 2
+                },
+                {
+                  "name": "Rehabilitative Counseling",
+                  "course code": "GCPC 341",
+                  "units": 2
+                }
+              ],
+              "2": [
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Tests, Measurements and Evaluation in Education",
+                  "course code": "EDUC 302",
+                  "units": 3
+                },
+                {
+                  "name": "Practicum in Guidance and Counseling",
+                  "course code": "GCPC 302",
+                  "units": 3
+                },
+                {
+                  "name": "Laboratory Work III: Psychosocial",
+                  "course code": "GCPC 310",
+                  "units": 1
+                },
+                {
+                  "name": "Organization and Administration of Guidance and Counseling in Schools",
+                  "course code": "GCPC 321",
+                  "units": 3
+                },
+                {
+                  "name": "Occupational Information on Job Analysis and Job Evaluation",
+                  "course code": "GCPC 314",
+                  "units": 3
+                },
+                {
+                  "name": "Psychology of Abnormal Behavior",
+                  "course code": "GCPC 332",
+                  "units": 3
+                },
+                {
+                  "name": "Family Counseling and Child Guidance",
+                  "course code": "GCPC 322",
+                  "units": 2
+                },
+                {
+                  "name": "Management and Counseling of The Aged",
+                  "course code": "GCPC 324",
+                  "units": 2
+                }
+              ]
+            },
+            
+       "400": {
+                    "1": [
+                        {
+                            "name": "Citizenship Orientation",
+                            "course code": "GEDS 001, 002",
+                            "units": 0
+                        },
+                        {
+                            "name": "Biblical Principles in Personal and Professional Life",
+                            "course code": "GEDS 420",
+                            "units": 3
+                        },
+                        {
+                            "name": "E-Project Management and Simulation",
+                            "course code": "GEDS 440",
+                            "units": 2
+                        },
+                        {
+                            "name": "Curriculum Development and Instruction II",
+                            "course code": "EDUC 423",
+                            "units": 2
+                        },
+                        {
+                            "name": "Introduction to Culture and Psychopathology",
+                            "course code": "GCPC 433",
+                            "units": 2
+                        },
+                        {
+                            "name": "Counseling in Special Setting",
+                            "course code": "GCPC 401",
+                            "units": 2
+                        },
+                        {
+                            "name": "Personality Development and Social Adjustment in Counseling",
+                            "course code": "GCPC 419",
+                            "units": 2
+                        },
+                        {
+                            "name": "Behavioral Modification",
+                            "course code": "GCPC 411",
+                            "units": 3
+                        },
+                        {
+                            "name": "Group Dynamics",
+                            "course code": "GCPC 402",
+                            "units": 2
+                        },
+                        {
+                            "name": "Social and Psychological Factors in Learning",
+                            "course code": "GCPC 403",
+                            "units": 2
+                        },
+                        {
+                            "name": "Assessment and Evaluation of School Counseling",
+                            "course code": "GCPC 412",
+                            "units": 2
+                        },
+                        {
+                            "name": "Behaviour in Organization",
+                            "course code": "GCPC 413",
+                            "units": 2
+                        },
+                        {
+                            "name": "Inter-Cultural Education",
+                            "course code": "GCPC 414",
+                            "units": 2
+                        }
+                       
+                    ],
+                    "2": [
+                        {
+                            "name": "Introduction to Special Education",
+                            "course code": "EDUC 412",
+                            "units": 2
+                        },
+                        {
+                            "name": "Psychology of Deviant Behaviour Development",
+                            "course code": "GCPC 422",
+                            "units": 3
+                        },
+                        {
+                            "name": "Laboratory Work IV: Clinical Assessment of Psychopathology",
+                            "course code": "GCPC 410",
+                            "units": 1
+                        },
+                        {
+                            "name": "Conflict and Conflict Resolution in Work Place",
+                            "course code": "GCPC 432",
+                            "units": 2
+                        },
+                        {
+                            "name": "Research Project",
+                            "course code": "EDUC 490",
+                            "units": 6
+                        }
+                    ]
+                }
+                        
+                    
+                    
+                  
+    },
+    "History and International Studies":{
+        "year":4,
+        "name": "History and International Studies",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Communication Skill in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "Nigeria from 1500 – 1800",
+                  "course code": "HIST 101",
+                  "units": 3
+                },
+                {
+                  "name": "Principles of International Relations",
+                  "course code": "HIST 105",
+                  "units": 3
+                },
+                {
+                  "name": "Elementary French I",
+                  "course code": "FREN 131",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication Skill in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Pre-Colonial African Diplomacy",
+                  "course code": "HIST 110",
+                  "units": 3
+                },
+                {
+                  "name": "Major World Civilizations",
+                  "course code": "HIST 114",
+                  "units": 3
+                },
+                {
+                  "name": "Elementary French II",
+                  "course code": "FREN 132",
+                  "units": 3
+                }
+              ]
+            },
+            
+            "200": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environment and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Principles of International Economic Relations",
+                      "course code": "HIST 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "Foreign Policy Analysis",
+                      "course code": "HIST 203",
+                      "units": 3
+                    },
+                    {
+                      "name": "Intermediate French I",
+                      "course code": "FREN 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Economic History of West Africa in the 19th Century",
+                      "course code": "HIST 205",
+                      "units": 3
+                    },
+                    {
+                      "name": "O. A. U. (AU) Study of African International Relations",
+                      "course code": "HIST 207",
+                      "units": 3
+                    },
+                    {
+                      "name": "Africa and European Imperialism",
+                      "course code": "HIST 211",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Logic and Critical Thinking",
+                      "course code": "GEDS 204",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentations",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Principles of International Organizations",
+                      "course code": "HIST 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Colonial Conquest and Independent Movements in West Africa 1885 – 1960",
+                      "course code": "HIST 204",
+                      "units": 3
+                    },
+                    {
+                      "name": "Nigeria History from 1800 – 1900",
+                      "course code": "HIST 210",
+                      "units": 3
+                    },
+                    {
+                      "name": "Europe from French Revolution to World War II",
+                      "course code": "HIST 216",
+                      "units": 3
+                    },
+                    {
+                      "name": "History of USA since 1877",
+                      "course code": "HIST 221",
+                      "units": 3
+                    },
+                    {
+                      "name": "Intermediate French II",
+                      "course code": "FREN 216",
+                      "units": 3
+                    },
+                    {
+                      "name": "History of Southern Africa 1400 – 1800",
+                      "course code": "HIST 206",
+                      "units": 3
+                    }
+                  ]
+            },
+            
+            "300": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Religion and Social Ethics",
+                      "course code": "GEDS 317",
+                      "units": 3
+                    },
+                    {
+                      "name": "Theory and Practice of Diplomacy",
+                      "course code": "HIST 315",
+                      "units": 3
+                    },
+                    {
+                      "name": "The Principles of International Law",
+                      "course code": "HIST 317",
+                      "units": 3
+                    },
+                    {
+                      "name": "Nigeria from 1900 to 1970",
+                      "course code": "HIST 319",
+                      "units": 3
+                    },
+                    {
+                      "name": "Nigerian Foreign Policy",
+                      "course code": "HIST 332",
+                      "units": 3
+                    },
+                    {
+                      "name": "Philosophy of History",
+                      "course code": "HIST 321",
+                      "units": 3
+                    },
+                    {
+                      "name": "Advanced French I",
+                      "course code": "FREN 331",
+                      "units": 3
+                    },
+                    {
+                      "name": "USSR from 1905 to 1950",
+                      "course code": "HIST 305",
+                      "units": 3
+                    },
+                    {
+                      "name": "Comparative Industrial Growth - (USA, USSR, Japan, China, Britain)",
+                      "course code": "HIST 307",
+                      "units": 3
+                    },
+                    {
+                      "name": "Issues in International Politics",
+                      "course code": "HIST 313",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Contemporary Strategic Studies",
+                      "course code": "HIST 318",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "E-Customers Relationship Management",
+                      "course code": "GEDS 310",
+                      "units": 2
+                    },
+                    {
+                      "name": "Family Life Education",
+                      "course code": "GEDS 312",
+                      "units": 2
+                    },
+                    {
+                      "name": "International Relations Theories",
+                      "course code": "HIST 312",
+                      "units": 3
+                    },
+                    {
+                      "name": "Historical Research Method",
+                      "course code": "HIST 316",
+                      "units": 3
+                    },
+                    {
+                      "name": "Southern Africa in the 19th and 20th Centuries",
+                      "course code": "HIST 306",
+                      "units": 3
+                    },
+                    {
+                      "name": "History of the Commonwealth",
+                      "course code": "HIST 308",
+                      "units": 3
+                    },
+                    {
+                      "name": "Africa and the Outside World in the 20th Century",
+                      "course code": "HIST 309",
+                      "units": 3
+                    },
+                    {
+                      "name": "Foreign Policy of World Powers",
+                      "course code": "HIST 311",
+                      "units": 3
+                    },
+                    {
+                      "name": "Advanced French II",
+                      "course code": "FREN 336",
+                      "units": 3
+                    }
+                  ]
+            },
+            
+            "400": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Introduction to Entrepreneurial Skills",
+                      "course code": "GEDS 400",
+                      "units": 2
+                    },
+                    {
+                      "name": "Nigeria from 1970 to the Present",
+                      "course code": "HIST 405",
+                      "units": 3
+                    },
+                    {
+                      "name": "Economic History of Nigeria in the 20th Century",
+                      "course code": "HIST 407",
+                      "units": 3
+                    },
+                    {
+                      "name": "Comparative Parliamentary Studies (Nigeria, Britain France and India)",
+                      "course code": "HIST 421",
+                      "units": 3
+                    },
+                    {
+                      "name": "Advanced Bargaining and Conflict Resolution",
+                      "course code": "HIST 427",
+                      "units": 3
+                    },
+                    {
+                      "name": "Studies in Inter-Group Relations in Nigeria",
+                      "course code": "HIST 403",
+                      "units": 3
+                    },
+                    {
+                      "name": "Comparative Foreign Policy",
+                      "course code": "HIST 409",
+                      "units": 3
+                    },
+                    {
+                      "name": "Modern African Political Thought",
+                      "course code": "HIST 417",
+                      "units": 3
+                    },
+                    {
+                      "name": "Foreign Policies and Diplomatic Practices of African States",
+                      "course code": "HIST 418",
+                      "units": 3
+                    },
+                    {
+                      "name": "History of Science and Technology from 1500 to Present",
+                      "course code": "HIST 425",
+                      "units": 3
+                    },
+                    {
+                      "name": "Special Project in History",
+                      "course code": "HIST 413",
+                      "units": 3
+                    }
+                    
+                  ],
+                  "2": [
+                    {
+                        "name": "Research Project",
+                        "course code": "HIST 490",
+                        "units": 6
+                      },
+                    {
+                      "name": "E-Project Management and Simulation",
+                      "course code": "GEDS 440",
+                      "units": 2
+                    },
+                    {
+                      "name": "Biblical Principles in Personal and Professional Life",
+                      "course code": "GEDS 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "South-South and Regional co-operation in the World",
+                      "course code": "HIST 408",
+                      "units": 3
+                    },
+                    {
+                      "name": "Contemporary History of the Middle East",
+                      "course code": "HIST 412",
+                      "units": 3
+                    },
+                    {
+                      "name": "Japan from Meiji Restoration to the end of World War II",
+                      "course code": "HIST 402",
+                      "units": 3
+                    },
+                    {
+                      "name": "Politics of International Finance Institutions",
+                      "course code": "HIST 404",
+                      "units": 3
+                    }
+                  ]
+            }
+                                       
+                    
+    },
+    "English Studies":{
+        "year":4,
+        "name":  "English Studies",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Basic Grammar",
+                  "course code": "ENGL 101",
+                  "units": 3
+                },
+                {
+                  "name": "Practical Spoken English",
+                  "course code": "ENGL 113",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Prose Fiction",
+                  "course code": "ENGL 121",
+                  "units": 3
+                },
+                {
+                  "name": "Literary Appreciations",
+                  "course code": "ENGL 133",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Human Communication",
+                  "course code": "ENGC 105",
+                  "units": 2
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Nigerian People in Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "English Composition",
+                  "course code": "ENGL 102",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Poetry",
+                  "course code": "ENGL 104",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Drama",
+                  "course code": "ENGL 124",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Theatre",
+                  "course code": "ENGL 126",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to the Study of Reading",
+                  "course code": "ENGC 104",
+                  "units": 2
+                }
+              ]
+            },
+            
+            "200": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "History of the English Language",
+                      "course code": "ENGL 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to English Syntax and Morphology",
+                      "course code": "ENGL 203",
+                      "units": 3
+                    },
+                    {
+                      "name": "Varieties of English",
+                      "course code": "ENGL 205",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to English Phonetics and Phonology",
+                      "course code": "ENGL 211",
+                      "units": 3
+                    },
+                    {
+                      "name": "Technical Writing Skill",
+                      "course code": "ENGL 249",
+                      "units": 2
+                    },
+                    {
+                      "name": "Dynamics of Business Communication",
+                      "course code": "ENGL 271",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Logic and Critical Thinking",
+                      "course code": "GEDS 204",
+                      "units": 2
+                    },
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environment and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentations",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "English Literary History and Criticism: Classical to",
+                      "course code": "ENGL 224",
+                      "units": 3
+                    },
+                    {
+                      "name": "Modern African Literature: A Survey",
+                      "course code": "ENGL 233",
+                      "units": 3
+                    },
+                    {
+                      "name": "Nigerian Literature in English",
+                      "course code": "ENGL 236",
+                      "units": 3
+                    },
+                    {
+                      "name": "Commonwealth Literature",
+                      "course code": "ENGL 234",
+                      "units": 2
+                    },
+                    {
+                      "name": "Creative Writing",
+                      "course code": "ENGL 242",
+                      "units": 2
+                    }
+                  ]
+            },
+            
+          "300": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Religion and Social Ethics",
+                      "course code": "GEDS 317",
+                      "units": 3
+                    },
+                    {
+                      "name": "English Phonology",
+                      "course code": "ENGL 301",
+                      "units": 3
+                    },
+                    {
+                      "name": "Stylistics",
+                      "course code": "ENGL 303",
+                      "units": 3
+                    },
+                    {
+                      "name": "Semantics",
+                      "course code": "ENGL 304",
+                      "units": 3
+                    },
+                    {
+                      "name": "Contemporary African Fiction",
+                      "course code": "ENGL 333",
+                      "units": 3
+                    },
+                    {
+                      "name": "Comparative Literature in English",
+                      "course code": "ENGL 345",
+                      "units": 3
+                    },
+                    {
+                      "name": "African Oral Literature",
+                      "course code": "ENGL 350",
+                      "units": 3
+                    },
+                    {
+                      "name": "Special Authors",
+                      "course code": "ENGL 347",
+                      "units": 3
+                    },
+                    {
+                      "name": "Modern Comedy and Other Comic Forms",
+                      "course code": "ENGL 397",
+                      "units": 2
+                    },
+                    {
+                      "name": "Theories of Second Language (L2) Acquisition and Use",
+                      "course code": "ENGL 339",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Introduction to Family Life Education",
+                      "course code": "GEDS 312",
+                      "units": 2
+                    },
+                    {
+                      "name": "E-Customer Relationship Management",
+                      "course code": "GEDS 310",
+                      "units": 2
+                    },
+                    {
+                      "name": "English Syntax and Lexis",
+                      "course code": "ENGL 302",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research and Scholarly Methods",
+                      "course code": "ENGL 310",
+                      "units": 3
+                    },
+                    {
+                      "name": "Contemporary African Poetry",
+                      "course code": "ENGL 332",
+                      "units": 3
+                    },
+                    {
+                      "name": "Contemporary African Drama",
+                      "course code": "ENGL 338",
+                      "units": 3
+                    },
+                    {
+                      "name": "Discourse Analysis",
+                      "course code": "ENGL 396",
+                      "units": 3
+                    },
+                    {
+                      "name": "Prize Winning Literary Works",
+                      "course code": "ENGL 354",
+                      "units": 2
+                    },
+                    {
+                      "name": "Advanced Composition",
+                      "course code": "ENGL 356",
+                      "units": 2
+                    }
+                  ]
+            },
+            
+                "400": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Introduction to Entrepreneurial Skills",
+                      "course code": "GEDS 400",
+                      "units": 2
+                    },
+                    {
+                      "name": "Grammatical Theories I: TGG",
+                      "course code": "ENGL 407",
+                      "units": 3
+                    },
+                    {
+                      "name": "English for Specific Purposes",
+                      "course code": "ENGL 411",
+                      "units": 3
+                    },
+                    {
+                      "name": "The English Language in Nigeria",
+                      "course code": "ENGL 451",
+                      "units": 3
+                    },
+                    {
+                      "name": "The Language of Publishing",
+                      "course code": "ENGL 439",
+                      "units": 2
+                    },
+                    {
+                      "name": "The Language of Journalism",
+                      "course code": "ENGL 463",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Biblical Principles in Personal and Professional Life",
+                      "course code": "GEDS 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "E-Project Management and Simulation",
+                      "course code": "GEDS 440",
+                      "units": 2
+                    },
+                    {
+                      "name": "Pragmatics",
+                      "course code": "ENGL 436",
+                      "units": 3
+                    },
+                    {
+                      "name": "Grammatical Theories II: SFG",
+                      "course code": "ENGL 438",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Text Linguistics",
+                      "course code": "ENGL 452",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Sociolinguistics",
+                      "course code": "ENGL 453",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Project",
+                      "course code": "ENGL 490",
+                      "units": 6
+                    },
+                    {
+                      "name": "The Language of African-American Literature",
+                      "course code": "ENGL 444",
+                      "units": 2
+                    },
+                    {
+                      "name": "The Language of African Literature in English",
+                      "course code": "ENGL 464",
+                      "units": 2
+                    }
+                  ]
+                }
+                            
+                            
+                          
+                    
+    },
+    "French":{
+        "year":4,
+        "name":  "French",
+        
+         "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Basic Mathematics",
+                  "course code": "GEDS 103",
+                  "units": 0
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "French Grammar I",
+                  "course code": "FREN 121",
+                  "units": 3
+                },
+                {
+                  "name": "French Composition I",
+                  "course code": "FREN 123",
+                  "units": 3
+                },
+                {
+                  "name": "African Literature in French I",
+                  "course code": "FREN 125",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principle",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "French Grammar II",
+                  "course code": "FREN 122",
+                  "units": 3
+                },
+                {
+                  "name": "French Composition II",
+                  "course code": "FREN 124",
+                  "units": 3
+                },
+                {
+                  "name": "African Literature in French II",
+                  "course code": "FREN 126",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to French Phonetics",
+                  "course code": "FREN 128",
+                  "units": 3
+                }
+              ]
+        },
+        
+        "200": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Fundamentals of Christian Faith",
+                  "course code": "GEDS 215",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Agriculture",
+                  "course code": "GEDS 221",
+                  "units": 2
+                },
+                {
+                  "name": "Environment and Sustainable Development",
+                  "course code": "GEDS 260",
+                  "units": 2
+                },
+                {
+                  "name": "Phonetics and Phonology of French I",
+                  "course code": "FREN 220",
+                  "units": 3
+                },
+                {
+                  "name": "French Grammar III",
+                  "course code": "FREN 221",
+                  "units": 3
+                },
+                {
+                  "name": "French Composition III",
+                  "course code": "FREN 223",
+                  "units": 3
+                },
+                {
+                  "name": "African Literature in French III",
+                  "course code": "FREN 227",
+                  "units": 3
+                },
+                {
+                  "name": "Textual Analysis I",
+                  "course code": "FREN 228",
+                  "units": 3
+                },
+                {
+                  "name": "Le nouveau Roman",
+                  "course code": "FREN 231",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Logic and Critical Thinking",
+                  "course code": "GEDS 204",
+                  "units": 2
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Leadership Skills",
+                  "course code": "GEDS 280",
+                  "units": 2
+                },
+                {
+                  "name": "Advanced Spreadsheet and Digital Presentations",
+                  "course code": "GEDS 290",
+                  "units": 2
+                },
+                {
+                  "name": "Phonetics and Phonology of French II",
+                  "course code": "FREN 222",
+                  "units": 3
+                },
+                {
+                  "name": "French Grammar IV",
+                  "course code": "FREN 224",
+                  "units": 3
+                },
+                {
+                  "name": "French Composition IV",
+                  "course code": "FREN 226",
+                  "units": 3
+                },
+                {
+                  "name": "French Literature of 16th and 17th Century",
+                  "course code": "FREN 229",
+                  "units": 3
+                },
+                {
+                  "name": "Textual Analysis II",
+                  "course code": "FREN 230",
+                  "units": 3
+                }
+              ]
+        },
+        
+        "300": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Studies in Translation I",
+                  "course code": "FREN 315",
+                  "units": 3
+                },
+                {
+                  "name": "Further Studies in French Phonetics",
+                  "course code": "FREN 323",
+                  "units": 3
+                },
+                {
+                  "name": "French Grammar V",
+                  "course code": "FREN 325",
+                  "units": 3
+                },
+                {
+                  "name": "Advanced French Composition I",
+                  "course code": "FREN 327",
+                  "units": 3
+                },
+                {
+                  "name": "Post-Independence French African Literature I",
+                  "course code": "FREN 329",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Studies in Translation II",
+                  "course code": "FREN 316",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Morphology and Syntax",
+                  "course code": "FREN 324",
+                  "units": 3
+                },
+                {
+                  "name": "French Grammar VI",
+                  "course code": "FREN 326",
+                  "units": 3
+                },
+                {
+                  "name": "Advanced French Composition II",
+                  "course code": "FREN 328",
+                  "units": 3
+                },
+                {
+                  "name": "Culture and Civilization of Four Francophone Countries in West Africa",
+                  "course code": "FREN 330",
+                  "units": 3
+                },
+                {
+                  "name": "French Literature in 18th Century",
+                  "course code": "FREN 332",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Research in French",
+                  "course code": "FREN 334",
+                  "units": 3
+                }
+              ]
+        },
+        
+        "400": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Introduction to Entrepreneurial Skills",
+                  "course code": "GEDS 400",
+                  "units": 2
+                },
+                {
+                  "name": "Biblical Principles in Personal and Professional Life",
+                  "course code": "GEDS 420",
+                  "units": 3
+                },
+                {
+                  "name": "French Grammar VII",
+                  "course code": "FREN 423",
+                  "units": 3
+                },
+                {
+                  "name": "Advanced Composition III",
+                  "course code": "FREN 425",
+                  "units": 3
+                },
+                {
+                  "name": "Post-Independence French African Literature II",
+                  "course code": "FREN 427",
+                  "units": 3
+                },
+                {
+                  "name": "Comparative Studies of Francophone African and Caribbean Literature",
+                  "course code": "FREN 429",
+                  "units": 3
+                },
+                {
+                  "name": "Translation Theories and Practice III",
+                  "course code": "FREN 431",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "E-Project Management and Simulation",
+                  "course code": "GEDS 440",
+                  "units": 2
+                },
+                {
+                  "name": "French Grammar VIII",
+                  "course code": "FREN 424",
+                  "units": 3
+                },
+                {
+                  "name": "Contributions of Linguistics in the teaching and Learning of French as a foreign Language",
+                  "course code": "FREN 426",
+                  "units": 3
+                },
+                {
+                  "name": "19th and 20th Century French Literature",
+                  "course code": "FREN 428",
+                  "units": 3
+                },
+                {
+                  "name": "African Literature in French: Two Post Independence Novels",
+                  "course code": "FREN 430",
+                  "units": 3
+                },
+                {
+                  "name": "Translation Theories and Practice IV",
+                  "course code": "FREN 432",
+                  "units": 3
+                }
+              ]
+         }
+                    
+                    
+                    
+                    
+    },
+    "Music":{
+        "year":4,
+        "name":  "Music",
+        
+        "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English 1",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "Music as Art and Science",
+                  "course code": "MUSC 103",
+                  "units": 2
+                },
+                {
+                  "name": "Music Theory I",
+                  "course code": "MUSC 105",
+                  "units": 3
+                },
+                {
+                  "name": "Ear Training Laboratory I",
+                  "course code": "MUSC 111",
+                  "units": 2
+                },
+                {
+                  "name": "University Chorus/Orchestra I",
+                  "course code": "MUSC 127",
+                  "units": 2
+                },
+                {
+                  "name": "Basic Piano I",
+                  "course code": "MUSC 133",
+                  "units": 2
+                },
+                {
+                  "name": "Applied Music I",
+                  "course code": "MUSC 135",
+                  "units": 2
+                },
+                {
+                  "name": "An Outlined History of Western Music I (Medieval to Classical)",
+                  "course code": "MUSC 145",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Music Theory II",
+                  "course code": "MUSC 106",
+                  "units": 3
+                },
+                {
+                  "name": "Ear Training Laboratory II",
+                  "course code": "MUSC 112",
+                  "units": 2
+                },
+                {
+                  "name": "University Chorus/Orchestra II",
+                  "course code": "MUSC 128",
+                  "units": 2
+                },
+                {
+                  "name": "Basic Piano II",
+                  "course code": "MUSC 134",
+                  "units": 2
+                },
+                {
+                  "name": "Applied Music II",
+                  "course code": "MUSC 136",
+                  "units": 2
+                },
+                {
+                  "name": "An Outlined History of Western Music II",
+                  "course code": "MUSC 146",
+                  "units": 3
+                }
+              ]
+        },
+        
+        "200": {
+                "1": [
+                 
+                    {
+                        "name": "Communication in French",
+                        "course code": "GEDS 200",
+                        "units": 2
+                    },
+                    {
+                        "name": "Fundamentals of Christian Faith",
+                        "course code": "GEDS 215",
+                        "units": 3
+                    },
+                    {
+                        "name": "Environment and Sustainable Development",
+                        "course code": "GEDS 260",
+                        "units": 2
+                    },
+                    {
+                        "name": "Music Theory III",
+                        "course code": "MUSC 201",
+                        "units": 3
+                    },
+                    {
+                        "name": "Keyboard Harmony I",
+                        "course code": "MUSC 213",
+                        "units": 2
+                    },
+                    {
+                        "name": "Ear Training Laboratory III",
+                        "course code": "MUSC 215",
+                        "units": 2
+                    },
+                    {
+                        "name": "University Chorus/Orchestra III",
+                        "course code": "MUSC 223",
+                        "units": 2
+                    },
+                    {
+                        "name": "Computer Application in Music",
+                        "course code": "MUSC 231",
+                        "units": 3
+                    },
+                    {
+                        "name": "Applied Music III",
+                        "course code": "MUSC 233",
+                        "units": 2
+                    },
+                    {
+                        "name": "Instruments Maintenance Workshop I",
+                        "course code": "MUSC 235",
+                        "units": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Logic and Critical Thinking",
+                        "course code": "GEDS 204",
+                        "units": 2
+                    },
+                    {
+                        "name": "Spreadsheet and Digital Presentations",
+                        "course code": "GEDS 290",
+                        "units": 2
+                    },
+                    {
+                        "name": "Peace and Conflict Resolution",
+                        "course code": "GEDS 270",
+                        "units": 2
+                    },
+                    {
+                        "name": "Music Theory IV",
+                        "course code": "MUSC 202",
+                        "units": 3
+                    },
+                    {
+                        "name": "Keyboard Harmony II",
+                        "course code": "MUSC 214",
+                        "units": 2
+                    },
+                    {
+                        "name": "Ear Training Laboratory IV",
+                        "course code": "MUSC 216",
+                        "units": 2
+                    },
+                    {
+                        "name": "University Chorus/Orchestra IV",
+                        "course code": "MUSC 224",
+                        "units": 2
+                    },
+                    {
+                        "name": "Recording Studio Management",
+                        "course code": "MUSC 232",
+                        "units": 2
+                    },
+                    {
+                        "name": "Applied Music IV",
+                        "course code": "MUSC 238",
+                        "units": 3
+                    },
+                    {
+                        "name": "Instruments Maintenance Workshop II",
+                        "course code": "MUSC 236",
+                        "units": 2
+                    },
+                    {
+                        "name": "African Music I",
+                        "course code": "MUSC 244",
+                        "units": 3
+                    }
+                ]
+         },
+            
+        "300": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001, 002",
+                      "units": 0
+                    },
+                    {
+                      "name": "Religion and Social Ethics",
+                      "course code": "GEDS 317",
+                      "units": 3
+                    },
+                    {
+                      "name": "E-Customer Relationship Management",
+                      "course code": "GEDS 310",
+                      "units": 2
+                    },
+                    {
+                      "name": "Music Theory V",
+                      "course code": "MUSC 301",
+                      "units": 3
+                    },
+                    {
+                      "name": "Workshop on African Instrumental Ensembles",
+                      "course code": "MUSC 311",
+                      "units": 3
+                    },
+                    {
+                      "name": "African Compositional Technique",
+                      "course code": "MUSC 322",
+                      "units": 3
+                    },
+                    {
+                      "name": "Applied Music V, VI",
+                      "course code": "MUSC 325, 326",
+                      "units": 2
+                    },
+                    {
+                      "name": "Ethics of Musical Practice",
+                      "course code": "MUSC 331",
+                      "units": 3
+                    },
+                    {
+                      "name": "University Chorus/Orchestra V, VI",
+                      "course code": "MUSC 335, 336",
+                      "units": 2
+                    },
+                    {
+                      "name": "African Music II",
+                      "course code": "MUSC 343",
+                      "units": 3
+                    },
+                    {
+                      "name": "Digital Music Workshop I, II",
+                      "course code": "MUSC 315, 316",
+                      "units": 3
+                    },
+                    {
+                      "name": "Musical Instruments Technology I, II",
+                      "course code": "MUSC 341, 342",
+                      "units": "S"
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Introduction to Family Life Education",
+                      "course code": "GEDS 312",
+                      "units": 2
+                    },
+                    {
+                      "name": "Tonal Counterpoint",
+                      "course code": "MUSC 302",
+                      "units": 3
+                    },
+                    {
+                      "name": "Forms and Analysis of Western Music",
+                      "course code": "MUSC 306",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Methods in Music",
+                      "course code": "MUSC 344",
+                      "units": 3
+                    },
+                    {
+                      "name": "Choral Conducting I, II",
+                      "course code": "MUSC 345, 346",
+                      "units": 2
+                    },
+                    {
+                      "name": "Orchestration",
+                      "course code": "MUSC 349",
+                      "units": 2
+                    },
+                    {
+                      "name": "Composition",
+                      "course code": "MUSC 348",
+                      "units": 3
+                    },
+                    {
+                      "name": "Analytical Studies of Tonal Music",
+                      "course code": "MUSC 351",
+                      "units": 3
+                    }
+                  ]          
+      },
+      
+        
+        "400": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Biblical Principles in Personal and Professional Life",
+                  "course code": "GEDS 420",
+                  "units": 3
+                },
+                {
+                  "name": "Music Criticism and Scholarship",
+                  "course code": "MUSC 401",
+                  "units": 3
+                },
+                {
+                  "name": "University Chorus/Orchestra VIII",
+                  "course code": "MUSC 415",
+                  "units": 2
+                },
+                {
+                  "name": "Music of other World Cultures",
+                  "course code": "MUSC 421",
+                  "units": 3
+                },
+                {
+                  "name": "Principles of Christian Music",
+                  "course code": "MUSC 425",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Leadership Skills",
+                  "course code": "GEDS 280",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Entrepreneurial Skills",
+                  "course code": "GEDS 400",
+                  "units": 2
+                },
+                {
+                  "name": "E-Project Management and Simulation",
+                  "course code": "GEDS 440",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Special Education",
+                  "course code": "EDUC 412",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian Contemporary Music",
+                  "course code": "MUSC 422",
+                  "units": 3
+                },
+                {
+                  "name": "20th Century Compositional Techniques",
+                  "course code": "MUSC 423",
+                  "units": 3
+                },
+                {
+                  "name": "Advanced Orchestration",
+                  "course code": "MUSC 444",
+                  "units": 3
+                },
+                {
+                  "name": "University Chorus/Orchestra VIII",
+                  "course code": "MUSC 416",
+                  "units": 2
+                },
+                {
+                  "name": "Research Project",
+                  "course code": "MUSC 490",
+                  "units": 6
+                }
+              ]
+         }
+                    
+                            
+                
+
+                    
+    },
+    "Christian Religious Studies":{
+        "year":4,
+        "name":  "Christian Religious Studies",
+        
+         "100": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Philosophy of Christian Education",
+                        "course code": "GEDS 101",
+                        "units": 2
+                    },
+                    {
+                        "name": "Use of Library and Study Skills",
+                        "course code": "GEDS 105",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to General Psychology",
+                        "course code": "GEDS 107",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to Mass Communication",
+                        "course code": "MCOM 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Intro to History of Bible Lands and Archaeology",
+                        "course code": "CRLS 101",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to the Pentateuch",
+                        "course code": "CRLS 103",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Sociology of Religion",
+                        "course code": "CRLS 113",
+                        "units": 2
+                    },
+                    {
+                        "name": "Beginning Greek I",
+                        "course code": "CRLS 105",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Health Principles",
+                        "course code": "GEDS 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "ICT Fundamentals and Office Productivity Management",
+                        "course code": "GEDS 120",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English I",
+                        "course code": "GEDS 131",
+                        "units": 2
+                    },
+                    {
+                        "name": "Nigeria People in a Global Culture",
+                        "course code": "GEDS 134",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English II",
+                        "course code": "GEDS 132",
+                        "units": 2
+                    },
+                    {
+                        "name": "Fundamentals of Children and Youth Ministry",
+                        "course code": "CRLS 116",
+                        "units": 2
+                    },
+                    {
+                        "name": "History of the Christian Church: Apostolic Era to the Dawn of the Reformation Period",
+                        "course code": "CRLS 118",
+                        "units": 2
+                    },
+                    {
+                        "name": "African Traditional Religions I",
+                        "course code": "CRLS 108",
+                        "units": 2
+                    },
+                    {
+                        "name": "Personal Christian Witnessing",
+                        "course code": "CRLS 110",
+                        "units": 2
+                    }
+                ]
+        },
+        
+            "200": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Communication in French",
+                        "course code": "GEDS 200",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to Agriculture",
+                        "course code": "GEDS 221",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to Phonetics and Phonology",
+                        "course code": "ENGL 211",
+                        "units": 3
+                    },
+                    {
+                        "name": "Historical and Poetic Books of the Old Testament",
+                        "course code": "CRLS 201",
+                        "units": 3
+                    },
+                    {
+                        "name": "Intermediate Greek I",
+                        "course code": "CRLS 203",
+                        "units": 3
+                    },
+                    {
+                        "name": "Christian Ethics",
+                        "course code": "CRLS 205",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Principles and Theories of Christian Music",
+                        "course code": "MUSC 207",
+                        "units": 2
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Logic and Critical Thinking",
+                        "course code": "GEDS 204",
+                        "units": 2
+                    },
+                    {
+                        "name": "Spreadsheet and Digital Presentations",
+                        "course code": "GEDS 209",
+                        "units": 2
+                    },
+                    {
+                        "name": "Environment and Sustainable Development",
+                        "course code": "GEDS 260",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to English Grammar and Syntax",
+                        "course code": "ENGL 228",
+                        "units": 2
+                    },
+                    {
+                        "name": "Theology of the Four Gospels",
+                        "course code": "CRLS 202",
+                        "units": 3
+                    },
+                    {
+                        "name": "Intermediate Greek II",
+                        "course code": "CRLS 204",
+                        "units": 3
+                    },
+                    {
+                        "name": "African Traditional Religions II",
+                        "course code": "CRLS 209",
+                        "units": 2
+                    },
+                    {
+                        "name": "Islam I",
+                        "course code": "CRLS 213",
+                        "units": 2
+                    },
+                    {
+                        "name": "World Religions",
+                        "course code": "CRLS 214",
+                        "units": 3
+                    },
+                    {
+                        "name": "Studies in Prophetic Gifts and Ministry",
+                        "course code": "CRLS 216",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to Pastoral Counseling",
+                        "course code": "CRLS 217",
+                        "units": 2
+                    },
+                    {
+                        "name": "History of the Christian Church: The Reformation Period to the Modern Christian Church",
+                        "course code": "CRLS 224",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to Chaplaincy Ministry",
+                        "course code": "CRLS 226",
+                        "units": 2
+                    },
+                    {
+                        "name": "Music Practicum",
+                        "course code": "MUSC 208",
+                        "units": 2
+                    }
+                ]
+            },
+            
+                "300": {
+                    "1": [
+                        {
+                            "name": "Citizenship Orientation",
+                            "course code": "GEDS 001",
+                            "units": 0
+                        },
+                        {
+                            "name": "Peace and Conflict Resolution",
+                            "course code": "GEDS 270",
+                            "units": 2
+                        },
+                        {
+                            "name": "Project Management and Community Development",
+                            "course code": "COSC 339",
+                            "units": 3
+                        },
+                        {
+                            "name": "Studies in Biblical Apocalyptic Literature I: Daniel",
+                            "course code": "CRLS 301",
+                            "units": 3
+                        },
+                        {
+                            "name": "Biblical Hebrew I",
+                            "course code": "CRLS 303",
+                            "units": 3
+                        },
+                        {
+                            "name": "Systematic Theology I",
+                            "course code": "CRLS 309",
+                            "units": 3
+                        },
+                        
+                        {
+                            "name": "Islam II",
+                            "course code": "CRLS 317",
+                            "units": 2
+                        },
+                        {
+                            "name": "Introduction to Mission Studies",
+                            "course code": "CRLS 319",
+                            "units": 3
+                        },
+                        {
+                            "name": "Family Life and Conflict Resolution",
+                            "course code": "CRLS 323",
+                            "units": 3
+                        },
+                        {
+                            "name": "History of Christianity in Nigeria",
+                            "course code": "CRLS 326",
+                            "units": 3
+                        },
+                        {
+                            "name": "Biblical Hermeneutics and Exegesis",
+                            "course code": "CRLS 328",
+                            "units": 3
+                        },
+                        {
+                            "name": "Research Methodology",
+                            "course code": "RELG 399",
+                            "units": 3
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "E-Customer Relationship Management",
+                            "course code": "GEDS 310",
+                            "units": 2
+                        },
+                        {
+                            "name": "Studies in Biblical Apocalyptic Literature II: Revelation",
+                            "course code": "CRLS 302",
+                            "units": 3
+                        },
+                        {
+                            "name": "Biblical Hebrew II",
+                            "course code": "CRLS 304",
+                            "units": 3
+                        },
+                        {
+                            "name": "Systematic Theology II",
+                            "course code": "CRLS 310",
+                            "units": 3
+                        },
+                        {
+                            "name": "Public Evangelism and Media/ICT in Christian Ministry",
+                            "course code": "CRLS 316",
+                            "units": 3
+                        },
+                        {
+                            "name": "Children and Youth Ministries",
+                            "course code": "CRLS 329",
+                            "units": 2
+                        },
+                        {
+                            "name": "The Art and Science of Homiletics",
+                            "course code": "CRLS 338",
+                            "units": 3
+                        }
+                    ]
+                },
+                        
+                "400": {
+                    "1": [
+                        {
+                            "name": "Citizenship Orientation",
+                            "course code": "GEDS 001",
+                            "units": 0
+                        },
+                        {
+                            "name": "Introduction to Entrepreneurial Skills",
+                            "course code": "GEDS 400",
+                            "units": 2
+                        },
+                        {
+                            "name": "Biblical Principles in Personal and Spiritual Life",
+                            "course code": "GEDS 420",
+                            "units": 3
+                        },
+                        {
+                            "name": "Prophetic Books of the Old Testament I",
+                            "course code": "CRLS 401",
+                            "units": 3
+                        },
+                        {
+                            "name": "Acts and Early Pauline Epistles",
+                            "course code": "CRLS 403",
+                            "units": 3
+                        },
+                        {
+                            "name": "Later Pauline and General Epistles",
+                            "course code": "CRLS 404",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Old Testament Theology",
+                            "course code": "CRLS 405",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Pastoral Ministry and Church Leadership",
+                            "course code": "CRLS 407",
+                            "units": 3
+                        },
+                        {
+                            "name": "Ministerial Practicum",
+                            "course code": "CRLS 409",
+                            "units": 2
+                        },
+                        {
+                            "name": "Introduction to Religion and Science",
+                            "course code": "CRLS 410",
+                            "units": 2
+                        },
+                        {
+                            "name": "Ecumenism and Religious Dialogue",
+                            "course code": "CRLS 424",
+                            "units": 2
+                        },
+                        {
+                            "name": "History of SDA Church: Beginning to Arrival in Africa",
+                            "course code": "CRLS 433",
+                            "units": 2
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "E-Project Management and Simulation",
+                            "course code": "GEDS 440",
+                            "units": 2
+                        },
+                        {
+                            "name": "Prophetic Books of the Old Testament II",
+                            "course code": "CRLS 402",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to New Testament Theology",
+                            "course code": "CRLS 406",
+                            "units": 3
+                        },
+                        {
+                            "name": "History of SDA Church in Nigeria (1914 to Date)",
+                            "course code": "CRLS 414",
+                            "units": 2
+                        },
+                        {
+                            "name": "Contemporary Issues in Theology",
+                            "course code": "CRLS 422",
+                            "units": 3
+                        },
+                        {
+                            "name": "Introduction to Mission Planning and Strategies",
+                            "course code": "CRLS 418",
+                            "units": 2
+                        },
+                        {
+                            "name": "Principles of Church Finance and Book Keeping",
+                            "course code": "ACCT 427",
+                            "units": 2
+                        },
+                        {
+                            "name": "Research Project",
+                            "course code": "RELG 490",
+                            "units": 6
+                        }
+                    ]
+                }
+                        
+            
+                
+
+
+    }
+
+
+
+}
+   
+    

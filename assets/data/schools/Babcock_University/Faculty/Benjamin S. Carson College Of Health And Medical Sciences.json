@@ -1,0 +1,1515 @@
+{
+    "name": "Benjamin S. Carson College Of Health And Medical Sciences",
+    "courses": [
+      "Anatomy",
+      "Biochemistry",
+      "Nutrition and Dietetics",
+      "Physiology"
+
+    ],
+    "Anatomy": {
+        "year":4,
+        "name": "Anatomy",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology I",
+                  "course code": "BIOL 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian Peoples in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology II",
+                  "course code": "BIOL 102",
+                  "units": 3
+                },
+                {
+                  "name": "Fundamentals of Mammalian and Human Anatomy",
+                  "course code": "ANAT 112",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry II",
+                  "course code": "CHEM 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                }
+              ]
+            },
+            
+                "200": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Gross Anatomy of the Limbs",
+                      "course code": "ANAT 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Histology and Cytology",
+                      "course code": "ANAT 207",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Embryology",
+                      "course code": "ANAT 209",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Physiology",
+                      "course code": "PHGY 201",
+                      "units": 2
+                    },
+                    {
+                      "name": "Foundations of Biochemistry I",
+                      "course code": "BCHM 201",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentations",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environment and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Gross Anatomy of the Trunk",
+                      "course code": "ANAT 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Systemic Histology",
+                      "course code": "ANAT 204",
+                      "units": 3
+                    },
+                    {
+                      "name": "Systemic Embryology",
+                      "course code": "ANAT 206",
+                      "units": 3
+                    },
+                    {
+                      "name": "Cardiovascular Physiology",
+                      "course code": "PHGY 208",
+                      "units": 3
+                    },
+                    {
+                      "name": "Respiratory Physiology",
+                      "course code": "PHGY 212",
+                      "units": 3
+                    },
+                    {
+                      "name": "Blood and Body Fluid Physiology",
+                      "course code": "PHGY 213",
+                      "units": 3
+                    },
+                    {
+                      "name": "Foundations of Biochemistry II",
+                      "course code": "BCHM 202",
+                      "units": 3
+                    }
+                  ]
+                },
+                
+                    "300": {
+                      "1": [
+                        {
+                          "name": "Gross Anatomy of Head and Neck",
+                          "course code": "ANAT 301",
+                          "units": 4
+                        },
+                        {
+                          "name": "Histological and Histochemical Techniques",
+                          "course code": "ANAT 305",
+                          "units": 3
+                        },
+                        {
+                          "name": "Histochemistry",
+                          "course code": "ANAT 309",
+                          "units": 3
+                        },
+                        {
+                          "name": "Biomedical Genetics",
+                          "course code": "ANAT 313",
+                          "units": 3
+                        },
+                        {
+                          "name": "Cell Biology and Tissue Culture",
+                          "course code": "ANAT 314",
+                          "units": 3
+                        },
+                        {
+                          "name": "Museum and Gross Anatomical Techniques",
+                          "course code": "ANAT 315",
+                          "units": 3
+                        },
+                        {
+                          "name": "Introduction to Clinical Anatomy",
+                          "course code": "ANAT 317",
+                          "units": 3
+                        },
+                        {
+                          "name": "Introductory Pharmacology",
+                          "course code": "ANAT 319",
+                          "units": 3
+                        },
+                        {
+                          "name": "Religion and Social Ethics",
+                          "course code": "GEDS 317",
+                          "units": 3
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "Radiological Anatomy",
+                          "course code": "ANAT 304",
+                          "units": 2
+                        },
+                        {
+                          "name": "Anthropology and Comparative Anatomy",
+                          "course code": "ANAT 316",
+                          "units": 3
+                        },
+                        {
+                          "name": "Neuroanatomy",
+                          "course code": "ANAT 318",
+                          "units": 4
+                        },
+                        {
+                          "name": "Research Methodology and Animal Handlings",
+                          "course code": "ANAT 324",
+                          "units": 3
+                        },
+                        {
+                          "name": "Endocrinology",
+                          "course code": "PHGY 304",
+                          "units": 3
+                        },
+                        {
+                          "name": "Introduction to Family Life Education",
+                          "course code": "GEDS 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "E-Customers Relationship Management",
+                          "course code": "GEDS 310",
+                          "units": 2
+                        }
+                      ]
+                    },
+                    
+                        "400": {
+                          "1": [
+                            {
+                              "name": "Teratology",
+                              "course code": "ANAT 401",
+                              "units": 2
+                            },
+                            {
+                              "name": "Seminar in Microanatomy",
+                              "course code": "ANAT 403",
+                              "units": 4
+                            },
+                            {
+                              "name": "Molecular Biology and Genetic Engineering",
+                              "course code": "ANAT 407",
+                              "units": 3
+                            },
+                            {
+                              "name": "Developmental Mechanics",
+                              "course code": "ANAT 409",
+                              "units": 3
+                            },
+                            {
+                              "name": "Biostatistics",
+                              "course code": "ANAT 417",
+                              "units": 3
+                            },
+                            {
+                              "name": "Biblical Principles in Personal and Professional Life",
+                              "course code": "GEDS 420",
+                              "units": 3
+                            },
+                            {
+                              "name": "Applied Anatomical Sciences and Skills",
+                              "course code": "ANAT 411",
+                              "units": 3
+                            },
+                            {
+                              "name": "Introduction to Mortuary Science and Remains Preservation",
+                              "course code": "ANAT 413",
+                              "units": 3
+                            }
+                          ],
+                          "2": [
+                            {
+                              "name": "Human Reproductive Technologies",
+                              "course code": "ANAT 402",
+                              "units": 3
+                            },
+                            {
+                              "name": "Seminar in Gross Anatomy",
+                              "course code": "ANAT 404",
+                              "units": 4
+                            },
+                            {
+                              "name": "Research seminar",
+                              "course code": "ANAT 406",
+                              "units": 3
+                            },
+                            {
+                              "name": "Introduction to Histopathology",
+                              "course code": "ANAT 408",
+                              "units": 3
+                            },
+                            {
+                              "name": "Research Project",
+                              "course code": "ANAT 490",
+                              "units": 6
+                            },
+                            {
+                              "name": "E-Project Management and Simulation",
+                              "course code": "GEDS 440",
+                              "units": 2
+                            },
+                            {
+                              "name": "Entrepreneurial Anatomy",
+                              "course code": "ANAT 414",
+                              "units": 3
+                            },
+                            {
+                              "name": "Laboratory Techniques for Light Microscope and Introduction to Electron Microscope",
+                              "course code": "ANAT 416",
+                              "units": 3
+                            },
+                            {
+                              "name": "Fundamentals of Anatomical Education",
+                              "course code": "ANAT 412",
+                              "units": 3
+                            }
+                          ]
+                        }
+                                            
+                                    
+                            
+                    
+    },
+     "Biochemistry": {
+        "year":4,
+        "name":  "Biochemistry",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library Skill and Study",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology I",
+                  "course code": "BIOL 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology II",
+                  "course code": "BIOL 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry II",
+                  "course code": "CHEM 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                }
+              ]
+            },
+            
+             "200": {
+                  "1": [
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Foundations of Biochemistry I",
+                      "course code": "BCHM 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Biochemistry Practical I",
+                      "course code": "BCHM 209",
+                      "units": 1
+                    },
+                    {
+                      "name": "Genetics I",
+                      "course code": "BIOL 201",
+                      "units": 2
+                    },
+                    {
+                      "name": "Inorganic Chemistry",
+                      "course code": "CHEM 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "Physical Chemistry I",
+                      "course code": "CHEM 233",
+                      "units": 3
+                    },
+                    {
+                      "name": "Organic Chemistry I",
+                      "course code": "CHEM 213",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Microbiology I",
+                      "course code": "MBIO 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Principles of Physiology I",
+                      "course code": "PHGY 221",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environmental and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentations",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Foundations of Biochemistry II",
+                      "course code": "BCHM 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Biochemistry Practical II",
+                      "course code": "BCHM 210",
+                      "units": 1
+                    },
+                    {
+                      "name": "Organic Chemistry II",
+                      "course code": "CHEM 214",
+                      "units": 3
+                    },
+                    {
+                      "name": "Analytical Chemistry",
+                      "course code": "CHEM 244",
+                      "units": 3
+                    },
+                    {
+                      "name": "Physical Chemistry II",
+                      "course code": "CHEM 254",
+                      "units": 3
+                    },
+                    {
+                      "name": "Biostatistics",
+                      "course code": "STAT 204",
+                      "units": 2
+                    }
+                  ]
+           },
+           
+            "300": {
+              "1": [
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Instrumental Biochemistry",
+                  "course code": "BCHM 321",
+                  "units": 3
+                },
+                {
+                  "name": "Carbohydrate Metabolism",
+                  "course code": "BCHM 323",
+                  "units": 3
+                },
+                {
+                  "name": "Metabolism of Amino Acids and Protein",
+                  "course code": "BCHM 325",
+                  "units": 3
+                },
+                {
+                  "name": "Nucleic Acid Metabolism",
+                  "course code": "BCHM 327",
+                  "units": 3
+                },
+                {
+                  "name": "Lipid Metabolism",
+                  "course code": "BCHM 331",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Nutritional and Food Biochemistry",
+                  "course code": "BCHM 312",
+                  "units": 3
+                },
+                {
+                  "name": "Metabolic Regulations",
+                  "course code": "BCHM 328",
+                  "units": 3
+                },
+                {
+                  "name": "Immunochemistry and Immunology",
+                  "course code": "BCHM 329",
+                  "units": 3
+                },
+                {
+                  "name": "Biochemistry of Membranes and Bioenergetics",
+                  "course code": "BCHM 332",
+                  "units": 3
+                },
+                {
+                  "name": "Tissue Biochemistry",
+                  "course code": "BCHM 336",
+                  "units": 3
+                },
+                {
+                  "name": "Student Industrial Work Experience Scheme (SIWES)",
+                  "course code": "BCHM 360",
+                  "units": 6
+                }
+              ]
+            },
+            
+                "400": {
+                  "1": [
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Basics of Bioinformatics",
+                      "course code": "BCHM 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "Drug Biochemistry",
+                      "course code": "BCHM 425",
+                      "units": 3
+                    },
+                    {
+                      "name": "Biochemical Methods and Reasoning",
+                      "course code": "BCHM 429",
+                      "units": 3
+                    },
+                    {
+                      "name": "Hormonal Biochemistry",
+                      "course code": "BCHM 431",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Seminar",
+                      "course code": "BCHM 435",
+                      "units": 3
+                    },
+                    {
+                      "name": "Enzymology",
+                      "course code": "BCHM 443",
+                      "units": 3
+                    },
+                    {
+                      "name": "Virus Biochemistry",
+                      "course code": "BCHM 437",
+                      "units": 2
+                    },
+                    {
+                      "name": "Inorganic Biochemistry",
+                      "course code": "BCHM 439",
+                      "units": 2
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Introduction to Entrepreneurial Skills",
+                      "course code": "GEDS 400",
+                      "units": 2
+                    },
+                    {
+                      "name": "Biblical Principles in Personal and Professional Life",
+                      "course code": "GEDS 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "E-Project Management and Simulation",
+                      "course code": "GEDS 440",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Molecular Biology and Biotechnology",
+                      "course code": "BCHM 418",
+                      "units": 3
+                    },
+                    {
+                      "name": "Basics of Plant Biochemistry",
+                      "course code": "BCHM 426",
+                      "units": 3
+                    },
+                    {
+                      "name": "Industrial Biochemistry and Entrepreneurship",
+                      "course code": "BCHM 427",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Project",
+                      "course code": "BCHM 490",
+                      "units": 6
+                    }
+                  ]
+                }
+                            
+                    
+                            
+                    
+    },
+    "Nutrition and Dietetics": {
+        "year":4,
+        "name":  "Nutrition and Dietetics",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and Study Skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Psychology",
+                  "course code": "GEDS 107",
+                  "units": 2
+                },
+                {
+                  "name": "ICT Fundamentals and Office Productivity Management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Biology I",
+                  "course code": "BIOL 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Health Principles",
+                  "course code": "GEDS 112",
+                  "units": 2
+                },
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigeria People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "General Chemistry II",
+                  "course code": "CHEM 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Biology II",
+                  "course code": "BIOL 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                }
+              ]
+            },
+            
+                "200": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environment and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Peace and Conflict Resolution",
+                      "course code": "GEDS 270",
+                      "units": 2
+                    },
+                    {
+                      "name": "Introduction to Nutrition and Dietetics",
+                      "course code": "NUDT 201",
+                      "units": 2
+                    },
+                    {
+                      "name": "Food Biochemistry",
+                      "course code": "NUDT 205",
+                      "units": 2
+                    },
+                    {
+                      "name": "General Microbiology I",
+                      "course code": "MBIO 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "Biostatistics",
+                      "course code": "STAT 204",
+                      "units": 2
+                    },
+                    {
+                      "name": "General Principles of Physiology I",
+                      "course code": "PHGY 221",
+                      "units": 3
+                    },
+                    {
+                      "name": "Basic Anatomy",
+                      "course code": "ANAT 227",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentations",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "General and Applied Nutrition",
+                      "course code": "NUDT 202",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Food Processing",
+                      "course code": "NUDT 212",
+                      "units": 3
+                    },
+                    {
+                      "name": "Food Microbiology",
+                      "course code": "NUDT 214",
+                      "units": 3
+                    },
+                    {
+                      "name": "Food Commodities",
+                      "course code": "NUDT 223",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Nutrient Metabolism",
+                      "course code": "NUDT 224",
+                      "units": 3
+                    },
+                    {
+                      "name": "Evaluation and Analysis of Foods and Diets",
+                      "course code": "NUDT 226",
+                      "units": 3
+                    },
+                    {
+                      "name": "Food Production and Service",
+                      "course code": "NUDT 228",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Principle of Physiology II",
+                      "course code": "PHGY 222",
+                      "units": 3
+                    }
+                  ]
+                },
+                
+            "300": {
+                      "1": [
+                        {
+                          "name": "Citizenship Orientation",
+                          "course code": "GEDS 001",
+                          "units": 0
+                        },
+                        {
+                          "name": "Religion and Social Ethics",
+                          "course code": "GEDS 317",
+                          "units": 3
+                        },
+                        {
+                          "name": "Leadership Skills",
+                          "course code": "GEDS 280",
+                          "units": 2
+                        },
+                        {
+                          "name": "Diet Therapy and Hospital Practice I",
+                          "course code": "NUDT 301",
+                          "units": 3
+                        },
+                        {
+                          "name": "Nutritional Assessment",
+                          "course code": "NUDT 309",
+                          "units": 3
+                        },
+                        {
+                          "name": "Chemistry of Foods",
+                          "course code": "NUDT 323",
+                          "units": 3
+                        },
+                        {
+                          "name": "Menu Planning and Recipe Development",
+                          "course code": "NUDT 325",
+                          "units": 3
+                        },
+                        {
+                          "name": "Introduction to Clinical Nutrition and Hospital Practice",
+                          "course code": "NUDT 331",
+                          "units": 3
+                        },
+                        {
+                          "name": "Biochemistry of Nutrient Metabolism",
+                          "course code": "BCHM 339",
+                          "units": 3
+                        }
+                      ],
+                      "2": [
+                        {
+                          "name": "E-Customer Relationship Management",
+                          "course code": "GEDS 310",
+                          "units": 2
+                        },
+                        {
+                          "name": "Introduction to Family Life Education",
+                          "course code": "GEDS 312",
+                          "units": 2
+                        },
+                        {
+                          "name": "Food Quality, Evaluation and Control",
+                          "course code": "NUDT 304",
+                          "units": 2
+                        },
+                        {
+                          "name": "Practice of Nutrition",
+                          "course code": "NUDT 318",
+                          "units": 2
+                        },
+                        {
+                          "name": "Food Toxicology",
+                          "course code": "NUDT 329",
+                          "units": 2
+                        },
+                        {
+                          "name": "Student Industrial Work Experience Scheme (SIWES)",
+                          "course code": "NUDT 360",
+                          "units": 6
+                        }
+                      ]
+             },
+             
+                "400": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Introduction to Entrepreneurial Skills",
+                      "course code": "GEDS 400",
+                      "units": 2
+                    },
+                    {
+                      "name": "E-Project Management and Simulation",
+                      "course code": "GEDS 440",
+                      "units": 2
+                    },
+                    {
+                      "name": "Biblical Principles in Personal and Professional Life",
+                      "course code": "GEDS 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "Diet Therapy and Hospital Practice II",
+                      "course code": "NUDT 417",
+                      "units": 3
+                    },
+                    {
+                      "name": "Adventist Philosophy and Contemporary Issues of Vegetarian Diet",
+                      "course code": "NUDT 427",
+                      "units": 2
+                    },
+                    {
+                      "name": "Public Health Nutrition",
+                      "course code": "NUDT 428",
+                      "units": 3
+                    },
+                    {
+                      "name": "Nutrition Through All Ages",
+                      "course code": "NUDT 431",
+                      "units": 3
+                    },
+                    {
+                      "name": "Clinical Nutrition and Hospital Practice",
+                      "course code": "NUDT 433",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Nutrition and Consumer Education",
+                      "course code": "NUDT 402",
+                      "units": 2
+                    },
+                    {
+                      "name": "International Nutrition",
+                      "course code": "NUDT 418",
+                      "units": 2
+                    },
+                    {
+                      "name": "Advances in Human Nutrition",
+                      "course code": "NUDT 422",
+                      "units": 2
+                    },
+                    {
+                      "name": "Research Project",
+                      "course code": "NUDT 490",
+                      "units": 6
+                    }
+                  ]
+                }
+                            
+                                    
+                            
+                    
+    },
+    "Physiology": {
+        "year":4,
+        "name":  "Physiology",
+        
+            "100": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Philosophy of Christian Education",
+                  "course code": "GEDS 101",
+                  "units": 2
+                },
+                {
+                  "name": "Use of Library and study skills",
+                  "course code": "GEDS 105",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to General Psychology",
+                  "course code": "GEDS107",
+                  "units": 2
+                },
+                {
+                  "name": "ICT –Fundamentals and office productivity management",
+                  "course code": "GEDS 120",
+                  "units": 2
+                },
+                {
+                  "name": "Communication in English I",
+                  "course code": "GEDS 131",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology I",
+                  "course code": "BIOL 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry I",
+                  "course code": "CHEM 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics I",
+                  "course code": "MATH 101",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics I",
+                  "course code": "PHYS 101",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "Life and Teachings of Jesus the Messiah",
+                  "course code": "GEDS 126",
+                  "units": 3
+                },
+                {
+                  "name": "Communication in English II",
+                  "course code": "GEDS 132",
+                  "units": 2
+                },
+                {
+                  "name": "Nigerian People in a Global Culture",
+                  "course code": "GEDS 134",
+                  "units": 2
+                },
+                {
+                  "name": "General Biology II",
+                  "course code": "BIOL 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Chemistry II",
+                  "course code": "CHEM 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Mathematics II",
+                  "course code": "MATH 102",
+                  "units": 3
+                },
+                {
+                  "name": "General Physics II",
+                  "course code": "PHYS 102",
+                  "units": 3
+                }
+              ]
+            },
+            
+             "200": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Communication in French",
+                      "course code": "GEDS 200",
+                      "units": 2
+                    },
+                    {
+                      "name": "Fundamentals of Christian Faith",
+                      "course code": "GEDS 215",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introduction to Agriculture",
+                      "course code": "GEDS 221",
+                      "units": 2
+                    },
+                    {
+                      "name": "Gross Anatomy of the Limbs",
+                      "course code": "ANAT 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Histology and Cytology",
+                      "course code": "ANAT 207",
+                      "units": 3
+                    },
+                    {
+                      "name": "General Embryology",
+                      "course code": "ANAT 209",
+                      "units": 3
+                    },
+                    {
+                      "name": "Foundations of Biochemistry I",
+                      "course code": "BCHM 201",
+                      "units": 3
+                    },
+                    {
+                      "name": "Introductory Physiology and Autonomic Nervous System",
+                      "course code": "PHGY 217",
+                      "units": 3
+                    },
+                    {
+                      "name": "Cell and Developmental Biology",
+                      "course code": "BIOL 206",
+                      "units": 2
+                    },
+                    {
+                      "name": "General principles of Physiology I, II",
+                      "course code": "PHGY 221, 222",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "History and Philosophy of Science",
+                      "course code": "GEDS 222",
+                      "units": 2
+                    },
+                    {
+                      "name": "Environment and Sustainable Development",
+                      "course code": "GEDS 260",
+                      "units": 2
+                    },
+                    {
+                      "name": "Leadership Skills",
+                      "course code": "GEDS 280",
+                      "units": 2
+                    },
+                    {
+                      "name": "Spreadsheet and Digital Presentation",
+                      "course code": "GEDS 290",
+                      "units": 2
+                    },
+                    {
+                      "name": "Gross Anatomy of the Trunk",
+                      "course code": "ANAT 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Foundations of Biochemistry II",
+                      "course code": "BCHM 202",
+                      "units": 3
+                    },
+                    {
+                      "name": "Cardiovascular Physiology",
+                      "course code": "PHGY 208",
+                      "units": 3
+                    },
+                    {
+                      "name": "Respiratory Physiology",
+                      "course code": "PHGY 212",
+                      "units": 3
+                    },
+                    {
+                      "name": "Blood and Body Fluid Physiology",
+                      "course code": "PHGY 213",
+                      "units": 3
+                    },
+                    {
+                      "name": "Biostatistics and Informatics",
+                      "course code": "PHSC 218",
+                      "units": 3
+                    }
+                  ]
+           },
+           
+            "300": {
+              "1": [
+                {
+                  "name": "Citizenship Orientation",
+                  "course code": "GEDS 001",
+                  "units": 0
+                },
+                {
+                  "name": "Religion and Social Ethics",
+                  "course code": "GEDS 317",
+                  "units": 3
+                },
+                {
+                  "name": "Peace and Conflict Resolution",
+                  "course code": "GEDS 270",
+                  "units": 2
+                },
+                {
+                  "name": "Gastrointestinal Physiology",
+                  "course code": "PHGY 301",
+                  "units": 3
+                },
+                {
+                  "name": "Endocrinology",
+                  "course code": "PHGY 304",
+                  "units": 3
+                },
+                {
+                  "name": "Neurophysiology I",
+                  "course code": "PHGY 309",
+                  "units": 3
+                },
+                {
+                  "name": "Reproductive Physiology",
+                  "course code": "PHGY 311",
+                  "units": 3
+                },
+                {
+                  "name": "Renal Physiology and Temperature Regulation",
+                  "course code": "PHGY 314",
+                  "units": 3
+                },
+                {
+                  "name": "Neurophysiology II",
+                  "course code": "PHGY 316",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Medical Psychology",
+                  "course code": "PHGY 324",
+                  "units": 3
+                }
+              ],
+              "2": [
+                {
+                  "name": "E-Customer Relationship Management",
+                  "course code": "GEDS 310",
+                  "units": 2
+                },
+                {
+                  "name": "Introduction to Family Life Education",
+                  "course code": "GEDS 312",
+                  "units": 2
+                },
+                {
+                  "name": "Research Methodology",
+                  "course code": "PHGY 312",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Epigenetics",
+                  "course code": "PHGY 326",
+                  "units": 3
+                },
+                {
+                  "name": "Introduction to Pharmacology",
+                  "course code": "PHGY 327",
+                  "units": 3
+                },
+                {
+                  "name": "Pharmacology of Drugs",
+                  "course code": "PHGY 328",
+                  "units": 3
+                }
+              ]
+            },
+            
+                "400": {
+                  "1": [
+                    {
+                      "name": "Citizenship Orientation",
+                      "course code": "GEDS 001",
+                      "units": 0
+                    },
+                    {
+                      "name": "Biblical Principles in Personal and Professional Life",
+                      "course code": "GEDS 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "Animal Experimentation",
+                      "course code": "PHGY 401",
+                      "units": 3
+                    },
+                    {
+                      "name": "Literature Review/Seminar",
+                      "course code": "PHGY 403",
+                      "units": 3
+                    },
+                    {
+                      "name": "Selected Topics in Gastroenterology",
+                      "course code": "PHGY 407",
+                      "units": 3
+                    },
+                    {
+                      "name": "Neuroendocrinology",
+                      "course code": "PHGY 409",
+                      "units": 3
+                    },
+                    {
+                      "name": "Cardiopulmonary Physiology",
+                      "course code": "PHGY 411",
+                      "units": 3
+                    },
+                    {
+                      "name": "Laboratory Teaching and Instrumentation",
+                      "course code": "PHGY 413",
+                      "units": 3
+                    }
+                  ],
+                  "2": [
+                    {
+                      "name": "Introduction to Entrepreneurial Skills",
+                      "course code": "GEDS 400",
+                      "units": 2
+                    },
+                    {
+                      "name": "E-Project Management and Simulation",
+                      "course code": "GEDS 440",
+                      "units": 2
+                    },
+                    {
+                      "name": "Exercise and Environmental Physiology",
+                      "course code": "PHGY 416",
+                      "units": 3
+                    },
+                    {
+                      "name": "Comprehensive Exam in Physiology",
+                      "course code": "PHGY 420",
+                      "units": 3
+                    },
+                    {
+                      "name": "Research Project",
+                      "course code": "PHGY 490",
+                      "units": 6
+                    }
+                  ]
+                }
+                          
+                    
+                            
+                    
+    }
+
+}

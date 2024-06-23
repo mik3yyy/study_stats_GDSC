@@ -1,0 +1,540 @@
+  {
+    "name": "School of Law and Security Studies",
+    "courses": [
+        "Law"
+       
+
+
+    ],
+    "Law":{
+        "year":5,
+        "name": "Law",
+        
+        "100": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Philosophy of Christian Education",
+                        "course code": "GEDS 101",
+                        "units": 2
+                    },
+                    {
+                        "name": "Use of Library and study Skills",
+                        "course code": "GEDS 105",
+                        "units": 2
+                    },
+                    {
+                        "name": "Introduction to General Psychology",
+                        "course code": "GEDS 107",
+                        "units": 2
+                    },
+                    {
+                        "name": "ICT Fundamentals and Office Productivity Management",
+                        "course code": "GEDS 120",
+                        "units": 2
+                    },
+                    {
+                        "name": "Communication in English I",
+                        "course code": "GEDS 131",
+                        "units": 2
+                    },
+                    {
+                        "name": "Legal Methods 1",
+                        "course code": "LAWS 101",
+                        "units": 4
+                    },
+                    {
+                        "name": "Logic and Philosophic Thought I",
+                        "course code": "LAWS 103",
+                        "units": 3
+                    },
+                    {
+                        "name": "Old Testament Moral and Contemporary Laws",
+                        "course code": "RELS 100",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Prose Fiction",
+                        "course code": "ENGL 121",
+                        "units": 3
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Health Principles",
+                        "course code": "GEDS 112",
+                        "units": 2
+                    },
+                    {
+                        "name": "Life and Teachings of Jesus the Messiah",
+                        "course code": "GEDS 126",
+                        "units": 3
+                    },
+                    {
+                        "name": "Communication in English II",
+                        "course code": "GEDS 132",
+                        "units": 2
+                    },
+                    {
+                        "name": "Legal Methods II",
+                        "course code": "LAWS 102",
+                        "units": 4
+                    },
+                    {
+                        "name": "Logic and Philosophic Thought II",
+                        "course code": "LAWS 104",
+                        "units": 3
+                    },
+                    {
+                        "name": "Citizenship and Elements of Government",
+                        "course code": "PLSC 102",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Literary Criticism",
+                        "course code": "ENGL 134",
+                        "units": 3
+                    }
+                ]
+        },
+        
+        "200": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Communication in French",
+                        "course code": "GEDS 200",
+                        "units": 2
+                    },
+                    {
+                        "name": "Fundamentals of Christian Faith",
+                        "course code": "GEDS 215",
+                        "units": 3
+                    },
+                    {
+                        "name": "Introduction to Agriculture",
+                        "course code": "GEDS 221",
+                        "units": 2
+                    },
+                    {
+                        "name": "Spreadsheet and Digital Presentations",
+                        "course code": "GEDS 290",
+                        "units": 2
+                    },
+                    {
+                        "name": "Constitutional Law I",
+                        "course code": "LAWS 201",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Contract I",
+                        "course code": "LAWS 203",
+                        "units": 4
+                    },
+                    {
+                        "name": "Nigerian Legal System I",
+                        "course code": "LAWS 205",
+                        "units": 4
+                    },
+                    {
+                        "name": "Gender and the Law I",
+                        "course code": "LAWS 207",
+                        "units": 4
+                    },
+                    {
+                        "name": "Administrative Law I",
+                        "course code": "LAWS 209",
+                        "units": 4
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "History and Philosophy of Science",
+                        "course code": "GEDS 222",
+                        "units": 2
+                    },
+                    {
+                        "name": "Constitutional Law II",
+                        "course code": "LAWS 202",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Contract II",
+                        "course code": "LAWS 204",
+                        "units": 4
+                    },
+                    {
+                        "name": "Nigerian Legal System II",
+                        "course code": "LAWS 206",
+                        "units": 4
+                    },
+                    {
+                        "name": "Gender and the Law II",
+                        "course code": "LAWS 208",
+                        "units": 4
+                    },
+                    {
+                        "name": "Administrative Law II",
+                        "course code": "LAWS 210",
+                        "units": 4
+                    }
+                ]
+            },
+            
+            
+        "300": {
+                    "1": [
+                        {
+                            "name": "Citizenship Orientation",
+                            "course code": "GEDS 001",
+                            "units": 0
+                        },
+                        {
+                            "name": "E-Customer Relationship Management",
+                            "course code": "GEDS 310",
+                            "units": 2
+                        },
+                        {
+                            "name": "Religion and Social Ethics",
+                            "course code": "GEDS 317",
+                            "units": 3
+                        },
+                        {
+                            "name": "Criminal Law I",
+                            "course code": "LAWS 301",
+                            "units": 4
+                        },
+                        {
+                            "name": "Law of Torts I",
+                            "course code": "LAWS 303",
+                            "units": 4
+                        },
+                        {
+                            "name": "Law of Commercial Transactions I",
+                            "course code": "LAWS 305",
+                            "units": 4
+                        },
+                        {
+                            "name": "Computer Application in Legal Studies",
+                            "course code": "LAWS 319",
+                            "units": 3
+                        },
+                        {
+                            "name": "Law of Intellectual Property I",
+                            "course code": "LAWS 309",
+                            "units": 4
+                        },
+                        {
+                            "name": "Environmental Law I",
+                            "course code": "LAWS 313",
+                            "units": 4
+                        },
+                        {
+                            "name": "Family Law and Succession I",
+                            "course code": "LAWS 321",
+                            "units": 4
+                        },
+                        {
+                            "name": "Islamic Law I",
+                            "course code": "LAWS 317",
+                            "units": 4
+                        }
+                    ],
+                    "2": [
+                        {
+                            "name": "Introduction to Family Life Education",
+                            "course code": "GEDS 312",
+                            "units": 2
+                        },
+                        {
+                            "name": "Criminal Law II",
+                            "course code": "LAWS 302",
+                            "units": 4
+                        },
+                        {
+                            "name": "Law of Torts II",
+                            "course code": "LAWS 304",
+                            "units": 4
+                        },
+                        {
+                            "name": "Law of Commercial Transactions II",
+                            "course code": "LAWS 306",
+                            "units": 4
+                        },
+                        {
+                            "name": "Legal Research Methodology",
+                            "course code": "LAWS 320",
+                            "units": 3
+                        },
+                        {
+                            "name": "Law of Intellectual Property II",
+                            "course code": "LAWS 310",
+                            "units": 4
+                        },
+                        {
+                            "name": "Environmental Law II",
+                            "course code": "LAWS 314",
+                            "units": 4
+                        },
+                        {
+                            "name": "Family Law and Succession II",
+                            "course code": "LAWS 326",
+                            "units": 4
+                        },
+                        {
+                            "name": "Islamic Law II",
+                            "course code": "LAWS 318",
+                            "units": 4
+                        }
+                    ]           
+         },
+         
+         "400": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Introduction to Entrepreneurial Skills",
+                        "course code": "GEDS 400",
+                        "units": 2
+                    },
+                    {
+                        "name": "E-Project Management and Simulation",
+                        "course code": "GEDS 440",
+                        "units": 2
+                    },
+                    {
+                        "name": "Nigerian Land Law I",
+                        "course code": "LAWS 401",
+                        "units": 4
+                    },
+                    {
+                        "name": "Principles of Equity",
+                        "course code": "LAWS 403",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Trusts",
+                        "course code": "LAWS 404",
+                        "units": 4
+                    },
+                    {
+                        "name": "Introduction to Nigerian Legal Practice I",
+                        "course code": "LAWS 423",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Evidence and Procedure I",
+                        "course code": "LAWS 425",
+                        "units": 4
+                    },
+                    {
+                        "name": "Conflict of Laws I",
+                        "course code": "LAWS 411",
+                        "units": 4
+                    },
+                    {
+                        "name": "Oil and Gas Law I",
+                        "course code": "LAWS 413",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Personal/Property Taxation",
+                        "course code": "LAWS 415",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Banking and Negotiable Instruments",
+                        "course code": "LAWS 417",
+                        "units": 4
+                    },
+                    {
+                        "name": "Alternative Dispute Settlement",
+                        "course code": "LAWS 419",
+                        "units": 4
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Character Formation and Spiritual Growth",
+                        "course code": "GEDS 430",
+                        "units": 3
+                    },
+                    {
+                        "name": "Nigerian Land Law II",
+                        "course code": "LAWS 402",
+                        "units": 4
+                    },
+                    {
+                        "name": "Introduction to Nigerian Legal Practice II",
+                        "course code": "LAWS 428",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Evidence and Procedure II",
+                        "course code": "LAWS 426",
+                        "units": 4
+                    },
+                    {
+                        "name": "Conflict of Laws II",
+                        "course code": "LAWS 412",
+                        "units": 4
+                    },
+                    {
+                        "name": "Oil and Gas Law II",
+                        "course code": "LAWS 414",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Business Taxation",
+                        "course code": "LAWS 416",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Insurance",
+                        "course code": "LAWS 418",
+                        "units": 4
+                    },
+                    {
+                        "name": "Law of Arbitration",
+                        "course code": "LAWS 420",
+                        "units": 4
+                    }
+                ]
+           },
+           
+            "500": {
+                "1": [
+                    {
+                        "name": "Citizenship Orientation",
+                        "course code": "GEDS 001",
+                        "units": 0
+                    },
+                    {
+                        "name": "Leadership Skills",
+                        "course code": "GEDS 280",
+                        "units": 2
+                    },
+                    {
+                        "name": "Biblical Principles in Personal and Professional Life",
+                        "course code": "GEDS 420",
+                        "units": 3
+                    },
+                    {
+                        "name": "Jurisprudence and Legal Theory I",
+                        "course code": "LAWS 501",
+                        "units": 4
+                    },
+                    {
+                        "name": "Company Law I",
+                        "course code": "LAWS 503",
+                        "units": 4
+                    },
+                    {
+                        "name": "Public International Law I",
+                        "course code": "LAWS 505",
+                        "units": 4
+                    },
+                    {
+                        "name": "Conveyancing I",
+                        "course code": "LAWS 511",
+                        "units": 4
+                    },
+                    {
+                        "name": "Industrial Law I",
+                        "course code": "LAWS 515",
+                        "units": 4
+                    },
+                    {
+                        "name": "Shipping and Admiralty Law 1",
+                        "course code": "LAWS 517",
+                        "units": 4
+                    },
+                    {
+                        "name": "Health Law and Policy 1",
+                        "course code": "LAWS 533",
+                        "units": 4
+                    },
+                    {
+                        "name": "Human Rights and Child and the Law I",
+                        "course code": "LAWS 535",
+                        "units": 4
+                    }
+                ],
+                "2": [
+                    {
+                        "name": "Jurisprudence and Legal Theory II",
+                        "course code": "LAWS 502",
+                        "units": 4
+                    },
+                    {
+                        "name": "Company Law II",
+                        "course code": "LAWS 504",
+                        "units": 4
+                    },
+                    {
+                        "name": "Public International Law II",
+                        "course code": "LAWS 506",
+                        "units": 4
+                    },
+                    {
+                        "name": "Conveyancing II",
+                        "course code": "LAWS 512",
+                        "units": 4
+                    },
+                    {
+                        "name": "Industrial Law II",
+                        "course code": "LAWS 516",
+                        "units": 4
+                    },
+                    {
+                        "name": "Shipping and Admiralty Law II",
+                        "course code": "LAWS 518",
+                        "units": 4
+                    },
+                    {
+                        "name": "Health Law and Policy II",
+                        "course code": "LAWS 534",
+                        "units": 4
+                    },
+                    {
+                        "name": "Human Rights and Child and the Law II",
+                        "course code": "LAWS 536",
+                        "units": 4
+                    },
+                    {
+                        "name": "Religious Liberty",
+                        "course code": "RELS 521",
+                        "units": 3
+                    },
+                    {
+                        "name": "Research Project",
+                        "course code": "LAWS 590",
+                        "units": 6
+                    }
+                ]
+            }
+                
+                
+            
+            
+            
+            
+                
+                
+
+    }
+
+    
+}
